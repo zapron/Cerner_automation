@@ -1,0 +1,24 @@
+﻿2018-04-25 14:45:34.826 +0530	START		Running script_beg_1.script
+2018-04-25 14:45:35.010 +0530	rightclick	chrome_good_image	at (38, 238)	1	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:35.880 +0530	click	Open	at (90, 253)	2	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:35.880 +0530	Log		chrome launched	3	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:35.880 +0530	BeginTestCase		timer	4	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:38.547 +0530	click	address_bar2	at (256, 46)	5	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:39.309 +0530	typetext		[controlKey]a	6	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:40.038 +0530	typetext		[deleteKey]	7	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:41.178 +0530	typetext		www.amazon.com	8	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:41.925 +0530	typetext		[returnKey]	9	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:41.926 +0530	Log		amazon loaded	10	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:44.865 +0530	waitfor	cart	found at (1849, 204)	11	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:44.865 +0530	Log		cart icon visible	13	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:50.004 +0530	click	All_departmwnt_icon	at (212, 149)	15	on_script_beg_1	script_beg_1.script
+2018-04-25 14:45:55.036 +0530	typetext		[pageDown]	17	on_script_beg_1	script_beg_1.script
+2018-04-25 14:46:00.052 +0530	typetext		[pageDown]	19	on_script_beg_1	script_beg_1.script
+2018-04-25 14:46:02.213 +0530	click	movies&tv	at (251, 497)	21	on_script_beg_1	script_beg_1.script
+2018-04-25 14:46:02.213 +0530	Log		movies and tv selected	22	on_script_beg_1	script_beg_1.script
+2018-04-25 14:46:03.071 +0530	click	m&tv	at (360, 149)	23	on_script_beg_1	script_beg_1.script
+2018-04-25 14:46:04.746 +0530	typetext		The Big Bang Theory - Seasons	24	on_script_beg_1	script_beg_1.script
+2018-04-25 14:46:33.345 +0530	Exception	complete_tenth	No Image Found On Screen: "complete_tenth"	26	on_script_beg_1	script_beg_1.script
+2018-04-25 14:46:33.429 +0530	EndTestCase		(Duration:"57.549", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 14:45:35 +0530", Successes:"0", TestCase:"timer", Warnings:"0")
+2018-04-25 14:46:33.429 +0530	EndTestCase		(Duration:"58.603", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 14:45:34 +0530", Successes:"0", TestCase:"script_beg_1.script", Warnings:"0")
+2018-04-25 14:46:34.037 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "complete_tenth" -- Execution Time 0:00:59 script_beg_1.script

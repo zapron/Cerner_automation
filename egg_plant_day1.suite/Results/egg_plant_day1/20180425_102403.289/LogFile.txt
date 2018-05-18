@@ -1,0 +1,4 @@
+﻿2018-04-25 10:24:03.305 +0530	START		Running egg_plant_day1.script
+2018-04-25 10:25:21.203 +0530	Exception	chrome_icon	No Image Found On Screen: "chrome_icon"	1	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 10:25:21.266 +0530	EndTestCase		(Duration:"77.961", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 10:24:03 +0530", Successes:"0", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 10:25:21.266 +0530	ABORTED		Execution Time 0:01:18 egg_plant_day1.script

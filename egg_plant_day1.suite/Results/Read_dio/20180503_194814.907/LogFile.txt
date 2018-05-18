@@ -1,0 +1,6 @@
+﻿2018-05-03 19:48:14.907 +0530	START		Running Read_dio.script
+2018-05-03 19:48:15.346 +0530	Log		2 sections are present and they are (Discharge Information,Education Nursing Discharge Pediatric) their indexes are (1,363)	21	on_read_dio	Read_dio.script
+2018-05-03 19:48:20.690 +0530	Log		dtas	42	on_read_dio	Read_dio.script
+2018-05-03 19:48:20.690 +0530	Log		1	43	on_read_dio	Read_dio.script
+2018-05-03 19:48:20.759 +0530	EndTestCase		(Duration:"5.852", Errors:"0", Exceptions:"0", StartTime:"2018-05-03 19:48:14 +0530", Successes:"1", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-03 19:48:20.822 +0530	SUCCESS		Execution Time 0:00:06 Read_dio.script

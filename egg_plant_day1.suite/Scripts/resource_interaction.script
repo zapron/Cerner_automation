@@ -1,0 +1,90 @@
+﻿//interacting with the resources
+put file ResourcePath("test.txt") into vari
+log vari
+
+
+put the number of lines of vari into vari2
+repeat vari2 times
+	log line repeatIndex() of vari
+end repeat
+
+
+
+put ResourcePath("test.txt") into page
+open file page for readWrite
+put "this line is getting added from the program itself ok" into addline
+write return to file page at eof
+write addline to file page 
+close file page
+
+
+put file ResourcePath("test.txt") into p2
+log"the file after updating"
+log p2
+
+
+//for reading purpose use file before ResourcePath but for writing DONOT use it
+
+//***************USING CSV****************//column
+
+(*each row=line
+each column=item*)
+
+
+put file ResourcePath("PatientInformation.csv")into vari
+log vari
+log "logging starts here"
+put the number of lines of vari into rows
+log rows
+put the number of items of vari into columns
+log columns
+
+put 1 into i
+put 1 into j
+
+Repeat until i equals rows
+	//	log "this is row"
+	//	log i
+	repeat until j equals columns
+		//	log "this is col"
+		//	log j
+		log item j of vari
+		add 1 to j
+		
+	end repeat
+	add 1 to i
+End repeat
+
+
+
+//another way of doing shown in class
+(*put file ResourcePath("PatientInformation.csv") into var2
+repeat with each line of var2
+	put line repeatIndex() of var2 into var3
+	Repeat with each item of var3 	
+		log item repeatIndex() of var2
+		
+		//log it
+	end repeat
+	
+end repeat *)
+
+
+
+
+
+
+
+//***********HANDLING EXCEL FILES***************//
+
+
+
+set excel to (type:"excel",file:ResourcePath("PowerForm - DIO - Preprocedure Checklist Comprehensive - Form Design.xlsx"))
+put the records of excel into excelreader
+log excelreader
+
+
+log excelreader.Gender
+
+
+

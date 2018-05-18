@@ -1,0 +1,14 @@
+﻿DoubleClick "chrome_unselected"
+TypeText "www.amazon.in"
+TypeText Return
+Click (Image:"p_search", WaitFor:20)
+wait 5
+TypeText "One plus 6"
+TypeText returnKey
+wait 5
+Click "one_plus_icon"
+Click (Image:"NotifyMe_1", WaitFor:5.4)
+Click "image0009"
+
+
+

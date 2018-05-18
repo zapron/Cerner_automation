@@ -1,0 +1,14 @@
+﻿2018-04-25 11:45:49.679 +0530	START		Running egg_plant_day1.script
+2018-04-25 11:45:49.795 +0530	typetext		[windowsAltKey][F4]	4	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:24.479 +0530	doubleclick	chrome_good_image	at (38, 238)	6	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:40.509 +0530	click	address_bar2	at (256, 46)	8	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:41.277 +0530	typetext		[controlKey]a	9	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:42.024 +0530	typetext		[deleteKey]	10	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:43.164 +0530	typetext		www.amazon.in	11	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:43.893 +0530	typetext		[returnKey]	12	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:46.197 +0530	click	product_search	at (1441, 92)	13	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:47.230 +0530	typetext		One plus 6	14	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:46:47.984 +0530	typetext		[returnKey]	15	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:47:18.515 +0530	Exception	one_plus	Unable To Find Any Image On Screen "one_plus" within 10.00 seconds	16	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:47:18.599 +0530	EndTestCase		(Duration:"88.92", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 11:45:49 +0530", Successes:"0", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 11:47:19.164 +0530	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "one_plus" within 10.00 seconds -- Execution Time 0:01:29 egg_plant_day1.script

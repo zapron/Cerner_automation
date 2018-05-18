@@ -1,0 +1,14 @@
+﻿2018-04-26 14:20:51.183 +0530	START		Running masterscript.script
+2018-04-26 14:20:51.349 +0530	Log		this is starting of story	2	on_starting	story.script
+2018-04-26 14:20:51.352 +0530	Log		this is middling of story	2	on_middling	story.script
+2018-04-26 14:20:51.368 +0530	Log		this is ending of story	2	on_ending	story.script
+2018-04-26 14:20:51.384 +0530	Log		this is starting of story	2	on_starting	story.script
+2018-04-26 14:20:51.399 +0530	Log		this is middling of story	2	on_middling	story.script
+2018-04-26 14:20:51.415 +0530	Log		this is ending of story	2	on_ending	story.script
+2018-04-26 14:20:51.431 +0530	Log		this is a log statement	2	function_something	story.script
+2018-04-26 14:20:51.431 +0530	Log		this is a return statement	9	on_masterscript	masterscript.script
+2018-04-26 14:20:51.453 +0530	Log		this is a thing statement	2	on_thing	story.script
+2018-04-26 14:20:51.468 +0530	Log		this is parameter passing	14	on_masterscript	masterscript.script
+2018-04-26 14:20:51.484 +0530	Log		aaa	4	on_params_ex	params_ex.script
+2018-04-26 14:20:57.186 +0530	EndTestCase		(Duration:"5.987", Errors:"1", Exceptions:"0", StartTime:"2018-04-26 14:20:51 +0530", Successes:"0", TestCase:"masterscript.script", Warnings:"0")
+2018-04-26 14:20:57.186 +0530	ABORTED		Execution Time 0:00:06 masterscript.script

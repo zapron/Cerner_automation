@@ -1,0 +1,7 @@
+﻿2018-05-17 20:52:38.427 +0530	START		Running dio_reader.script
+2018-05-17 20:52:39.653 +0530	Log		Preferred Languages	40	on_dio_reader	dio_reader.script
+2018-05-17 20:52:39.679 +0530	Log		Information Given By	40	on_dio_reader	dio_reader.script
+2018-05-17 20:52:39.725 +0530	Log		Sensory Deficits	40	on_dio_reader	dio_reader.script
+2018-05-17 20:52:39.733 +0530	Log		Living Situation	40	on_dio_reader	dio_reader.script
+2018-05-17 20:52:40.146 +0530	EndTestCase		(Duration:"1.71", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:52:38 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:52:40.198 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

@@ -1,0 +1,13 @@
+﻿params a,b,c
+
+
+log a
+log b
+log c
+
+
+on logtext
+	log a
+	log b
+	log c
+end logtext

@@ -1,0 +1,22 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-04-25 15:11:10.573 +0530,"Success",0:00:00,0,0,0,"20180425_151110.573/LogFile.txt","","",1
+2018-04-25 15:11:30.304 +0530,"Success",0:00:00,0,0,0,"20180425_151130.304/LogFile.txt","","",1
+2018-04-25 15:11:47.431 +0530,"Failure",0:00:00,1,0,0,"20180425_151147.431/LogFile.txt","","STInvalidParameters -- Command add was called with invalid parameters",0
+2018-04-25 15:12:40.127 +0530,"Failure",0:00:00,1,0,0,"20180425_151240.127/LogFile.txt","","STInvalidParameters -- Command add was called with invalid parameters",0
+2018-04-25 15:13:49.282 +0530,"Failure",0:00:00,1,0,0,"20180425_151349.282/LogFile.txt","","SenseTalk Compiler Exception -- in conditions_and_arrays:\nSyntax Error at line 7: Syntax Error - can't understand [end of line] at or near character 86",0
+2018-04-25 15:19:54.482 +0530,"Success",0:00:00,0,0,0,"20180425_151954.482/LogFile.txt","","",1
+2018-04-25 15:20:33.912 +0530,"Success",0:00:00,0,0,0,"20180425_152033.912/LogFile.txt","","",1
+2018-04-25 15:20:46.142 +0530,"Success",0:00:00,0,0,0,"20180425_152046.142/LogFile.txt","","",1
+2018-04-25 15:21:14.154 +0530,"Running",0:00:00,0,0,0,"20180425_152114.154/LogFile.txt","","",0
+2018-04-25 15:21:39.699 +0530,"Failure",0:00:00,1,0,0,"20180425_152139.699/LogFile.txt","","STInvalidParameters -- Command add was called with invalid parameters",0
+2018-04-25 15:21:52.777 +0530,"Failure",0:00:00,1,0,0,"20180425_152152.777/LogFile.txt","","STInvalidParameters -- Command add was called with invalid parameters",0
+2018-04-25 15:22:21.366 +0530,"Success",0:00:00,0,0,0,"20180425_152221.366/LogFile.txt","","",1
+2018-04-25 15:48:30.733 +0530,"Success",0:00:00,0,0,0,"20180425_154830.733/LogFile.txt","","",1
+2018-04-25 15:49:00.327 +0530,"Success",0:00:00,0,0,0,"20180425_154900.327/LogFile.txt","","",1
+2018-04-25 15:50:01.973 +0530,"Success",0:00:00,0,0,0,"20180425_155001.973/LogFile.txt","","",1
+2018-04-25 15:50:22.014 +0530,"Success",0:00:00,0,0,0,"20180425_155022.014/LogFile.txt","","",1
+2018-04-25 15:50:38.175 +0530,"Success",0:00:00,0,0,0,"20180425_155038.175/LogFile.txt","","",1
+2018-04-25 15:51:43.191 +0530,"Success",0:00:00,0,0,0,"20180425_155143.191/LogFile.txt","","",1
+2018-04-25 15:52:28.303 +0530,"Success",0:00:00,0,0,0,"20180425_155228.303/LogFile.txt","","",1
+2018-04-25 15:53:04.155 +0530,"Success",0:00:00,0,0,0,"20180425_155304.155/LogFile.txt","","",1
+2018-04-25 15:53:47.051 +0530,"Success",0:00:00,0,0,0,"20180425_155347.051/LogFile.txt","","",1

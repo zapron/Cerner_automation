@@ -1,0 +1,9 @@
+﻿2018-04-25 12:35:13.445 +0530	START		Running assited.script
+2018-04-25 12:35:13.677 +0530	doubleclick	chrome_unselected	at (38, 236)	1	on_assited	assited.script
+2018-04-25 12:35:14.831 +0530	typetext		www.amazon.in	2	on_assited	assited.script
+2018-04-25 12:35:15.561 +0530	typetext		[return]	3	on_assited	assited.script
+2018-04-25 12:35:17.535 +0530	click	p_search	at (1418, 93)	4	on_assited	assited.script
+2018-04-25 12:35:18.636 +0530	typetext		One plus 6[returnKey]	5	on_assited	assited.script
+2018-04-25 12:35:41.850 +0530	Exception	one_plus_icon	No Image Found On Screen: "one_plus_icon"	6	on_assited	assited.script
+2018-04-25 12:35:41.913 +0530	EndTestCase		(Duration:"28.468", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 12:35:13 +0530", Successes:"0", TestCase:"assited.script", Warnings:"0")
+2018-04-25 12:35:42.250 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "one_plus_icon" -- Execution Time 0:00:28 assited.script

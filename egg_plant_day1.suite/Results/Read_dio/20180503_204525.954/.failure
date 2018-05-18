@@ -1,0 +1,1 @@
+2018-05-03 20:45:25.954 +0530,Failure,0:00:00,1,0,0,20180503_204525.954/LogFile.txt,"","SenseTalk Compiler Exception -- in read_dio:\nSyntax Error at line 62: Syntax Error - can't understand [end of script] at or near character 1607",0

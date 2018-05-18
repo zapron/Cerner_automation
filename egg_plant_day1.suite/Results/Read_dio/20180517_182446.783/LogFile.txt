@@ -1,0 +1,55 @@
+﻿2018-05-17 18:24:46.785 +0530	START		Running Read_dio.script
+2018-05-17 18:24:48.246 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.267 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.314 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.367 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.398 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.445 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.483 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.514 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.567 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.614 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.645 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.667 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.713 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.745 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.766 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.798 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.824 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.882 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.945 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:48.982 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.013 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.044 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.067 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.098 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.167 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.229 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.314 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.345 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.399 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.562 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.660 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.698 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.764 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.783 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.867 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.899 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.946 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:49.983 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.030 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.068 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.146 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.184 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.215 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.246 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.268 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.299 +0530	Log			16	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.330 +0530	Log		46 sections are present and they are (Capillary Bld Glucose Point of Care,Point of Care Testing,Integumentary.,Mental Status Information.,CIWA-Ar,Neurological Rehab/BH,Pupils Assessment,Seizure Assessment,Suicide Risk Assessment,Suicide Attempts,Glasgow Coma Assessment,Cranial Nerves Assessment.,Mechanical Ventilation Monitoring & Care,CPAP/BiPAP Nursing,Blood Gas/Oxygenation Results,  ,Artificial Airway Management,Respiratory.,Tracheostomy Capping ,Breath Sounds Assessment,Incentive Spirometry,Chest Percussion,Cardiovascular.,Pulses Assessment,Neurovascular Check,Edema Assessment.,Leg Measurements,Gastrointestinal Rehab,Incision/Wound Information,Surgical Drains/Tubes Information,Gastrointestinal Tubes Information,GI Ostomy Data,Enema Administration Information.,Genitourinary Rehab,Bladder Scan Information,Urinary Catheter Information,Urostomy Data,Neuromuscular/Extremities Assessment.,Musculoskeletal Assessment,Activities of Daily Living Rehab,Bowel Management Information,Bladder Management Information,Pressure Management Information,Braden Assessment,Fall Risk Scale Morse,Post Fall Evaluation) their indexes are (1,16,114,221,354,436,554,602,736,835,853,879,980,1055,1082,1094,1100,1274,1504,1553,1636,1648,1668,1750,1993,2197,2523,2528,2724,3156,3389,3491,3600,3632,3842,3856,3934,4043,4112,4180,4461,4565,4605,4620,4644,4661)	23	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.368 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.399 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.430 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.446 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.468 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:24:50.984 +0530	EndTestCase		(Duration:"4.183", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 18:24:46 +0530", Successes:"1", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-17 18:24:51.015 +0530	SUCCESS		Execution Time 0:00:04 Read_dio.script

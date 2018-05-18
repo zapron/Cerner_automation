@@ -1,0 +1,17 @@
+﻿2018-05-17 20:28:14.155 +0530	START		Running dio_reader.script
+2018-05-17 20:28:15.457 +0530	Log		None	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.461 +0530	Log		Blood filtering, blocking device	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.465 +0530	Log		Contraception device	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.469 +0530	Log		Heart mechanical device	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.473 +0530	Log		Implantable cardioverter-defibrillator	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.477 +0530	Log		Implantable pump	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.481 +0530	Log		Implants	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.485 +0530	Log		Insulin pump	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.489 +0530	Log		Medication pump	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.492 +0530	Log		Orthopedic hardware	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.496 +0530	Log		Orthopedic prosthesis	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.500 +0530	Log		Pacemaker	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.504 +0530	Log		Stents	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.508 +0530	Log		Stimulator 	36	on_dio_reader	dio_reader.script
+2018-05-17 20:28:15.894 +0530	EndTestCase		(Duration:"1.732", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:28:14 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:28:15.940 +0530	SUCCESS		Execution Time 0:00:01 dio_reader.script

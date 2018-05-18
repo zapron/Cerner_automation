@@ -1,0 +1,99 @@
+﻿2018-04-26 15:04:09.702 +0530	START		Running resource_interaction.script
+2018-04-26 15:04:09.771 +0530	Log		this is a simple text file\nthis is a simple text files\nthis is a simple text filehhhhhh\nthis is a simple text fileklkjlkhlhlhlkj\nthis is a simple text filelkjlkljlkjlkjlkjlkjklj\n\n\nthis line is getting added from the program itself ok\nthis line is getting added from the program itself ok	3	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.771 +0530	Log		this is a simple text file	8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.771 +0530	Log		this is a simple text files	8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.786 +0530	Log		this is a simple text filehhhhhh	8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.971 +0530	Log		this is a simple text fileklkjlkhlhlhlkj	8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.971 +0530	Log		this is a simple text filelkjlkljlkjlkjlkjlkjklj	8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.971 +0530	Log			8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.971 +0530	Log			8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.971 +0530	Log		this line is getting added from the program itself ok	8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.986 +0530	Log		this line is getting added from the program itself ok	8	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.986 +0530	Log		the file after updating	22	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.986 +0530	Log		this is a simple text file\nthis is a simple text files\nthis is a simple text filehhhhhh\nthis is a simple text fileklkjlkhlhlhlkj\nthis is a simple text filelkjlkljlkjlkjlkjlkjklj\n\n\nthis line is getting added from the program itself ok\nthis line is getting added from the program itself ok\nthis line is getting added from the program itself ok	23	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:09.986 +0530	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status\n222222,Mr,Bruce,A,Wayne,6/13/06,113-83-3798,Male,Single\n333333,Mrs,Carrie,B,Underwood,3/16/14,583-00-6387,Female,Married\n444444,Ms,Wonder,C,Woman,4/24/03,580-71-8520,Female,Divorced\n555555,Dr,Darth,D,Vader,12/23/87,744-85-1232,Male,Widowed\n666666,Dr,James,E,Bond,7/30/81,973-13-0224,Male,Single\n777777,Mr,Homer,F,Simpson,9/1/80,557-31-0655,Male,Married\n888888,Dr,Optimus,G,Prime,9/19/85,521-26-0727,Other,Divorced\n999999,Dr,Mickey,H,Mouse,6/14/00,984-56-3166,Male,Single\n101010,Mr,SpongeBob,I,SquarePants,6/14/00,984-56-3166,Male,Single	35	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.002 +0530	Log		logging starts here	36	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.002 +0530	Log		10	38	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.002 +0530	Log		81	40	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.002 +0530	Log		Medical Record Number	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.002 +0530	Log		Prefix	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.019 +0530	Log		First Name	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.021 +0530	Log		Middle Name	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.024 +0530	Log		Last Name	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.024 +0530	Log		Date of Birth	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.024 +0530	Log		Social Security Number	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.024 +0530	Log		Gender	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.024 +0530	Log		Marital Status\n222222	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.024 +0530	Log		Mr	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.024 +0530	Log		Bruce	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.040 +0530	Log		A	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.040 +0530	Log		Wayne	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.040 +0530	Log		6/13/06	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.040 +0530	Log		113-83-3798	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.040 +0530	Log		Male	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.040 +0530	Log		Single\n333333	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.055 +0530	Log		Mrs	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.055 +0530	Log		Carrie	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.055 +0530	Log		B	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.055 +0530	Log		Underwood	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.055 +0530	Log		3/16/14	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.055 +0530	Log		583-00-6387	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.071 +0530	Log		Female	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.071 +0530	Log		Married\n444444	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.071 +0530	Log		Ms	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.071 +0530	Log		Wonder	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.071 +0530	Log		C	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.071 +0530	Log		Woman	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.071 +0530	Log		4/24/03	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.087 +0530	Log		580-71-8520	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.087 +0530	Log		Female	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.087 +0530	Log		Divorced\n555555	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.087 +0530	Log		Dr	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.087 +0530	Log		Darth	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.102 +0530	Log		D	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.102 +0530	Log		Vader	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.102 +0530	Log		12/23/87	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.102 +0530	Log		744-85-1232	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.102 +0530	Log		Male	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.102 +0530	Log		Widowed\n666666	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.118 +0530	Log		Dr	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.121 +0530	Log		James	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.123 +0530	Log		E	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.124 +0530	Log		Bond	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.124 +0530	Log		7/30/81	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.124 +0530	Log		973-13-0224	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.124 +0530	Log		Male	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.124 +0530	Log		Single\n777777	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.124 +0530	Log		Mr	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.140 +0530	Log		Homer	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.140 +0530	Log		F	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.140 +0530	Log		Simpson	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.140 +0530	Log		9/1/80	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.140 +0530	Log		557-31-0655	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.140 +0530	Log		Male	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.157 +0530	Log		Married\n888888	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.159 +0530	Log		Dr	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.162 +0530	Log		Optimus	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.164 +0530	Log		G	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.166 +0530	Log		Prime	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.169 +0530	Log		9/19/85	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.171 +0530	Log		521-26-0727	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.173 +0530	Log		Other	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.176 +0530	Log		Divorced\n999999	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.177 +0530	Log		Dr	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.177 +0530	Log		Mickey	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.177 +0530	Log		H	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.177 +0530	Log		Mouse	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.177 +0530	Log		6/14/00	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.177 +0530	Log		984-56-3166	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.193 +0530	Log		Male	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.193 +0530	Log		Single\n101010	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.193 +0530	Log		Mr	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.193 +0530	Log		SpongeBob	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.193 +0530	Log		I	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.193 +0530	Log		SquarePants	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.210 +0530	Log		6/14/00	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.213 +0530	Log		984-56-3166	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.215 +0530	Log		Male	47	on_resource_interaction	resource_interaction.script
+2018-04-26 15:04:10.340 +0530	EndTestCase		(Duration:"0.638", Errors:"0", Exceptions:"0", StartTime:"2018-04-26 15:04:09 +0530", Successes:"1", TestCase:"resource_interaction.script", Warnings:"0")
+2018-04-26 15:04:10.387 +0530	SUCCESS		Execution Time 0:00:01 resource_interaction.script

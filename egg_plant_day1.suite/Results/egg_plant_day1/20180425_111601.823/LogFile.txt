@@ -1,0 +1,9 @@
+﻿2018-04-25 11:16:01.823 +0530	START		Running egg_plant_day1.script
+2018-04-25 11:16:02.069 +0530	doubleclick	chrome_good_image	at (38, 238)	5	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:16:03.239 +0530	typetext		www.amazon.in	6	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:16:03.986 +0530	typetext		[returnKey]	7	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:16:06.990 +0530	click	search_bar	at (1186, 267)	8	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:16:08.044 +0530	typetext		One plus 6	9	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:16:08.792 +0530	typetext		[returnKey]	10	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:16:08.829 +0530	EndTestCase		(Duration:"7.006", Errors:"0", Exceptions:"0", StartTime:"2018-04-25 11:16:01 +0530", Successes:"1", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 11:16:08.880 +0530	SUCCESS		Execution Time 0:00:07 egg_plant_day1.script

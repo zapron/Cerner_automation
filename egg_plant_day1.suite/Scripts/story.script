@@ -1,0 +1,26 @@
+﻿On starting
+	log "this is starting of story"
+End starting
+
+On middling
+	log "this is middling of story"
+End middling
+
+On ending
+	log "this is ending of story"
+End ending
+
+
+function something
+	log "this is a log statement"
+	return "this is a return statement"
+end something
+
+
+to thing
+	log "this is a thing statement"
+end thing
+
+function showing message
+return message
+end showing

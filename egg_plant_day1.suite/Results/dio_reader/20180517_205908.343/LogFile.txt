@@ -1,0 +1,8 @@
+﻿2018-05-17 20:59:08.352 +0530	START		Running dio_reader.script
+2018-05-17 20:59:09.603 +0530	Log		Preferred Communication	40	on_dio_reader	dio_reader.script
+2018-05-17 20:59:09.639 +0530	Log		Surgery Date/Time/Location Reviewed	40	on_dio_reader	dio_reader.script
+2018-05-17 20:59:09.651 +0530	Log		Ability to Ambulate Prior to Admission	40	on_dio_reader	dio_reader.script
+2018-05-17 20:59:09.657 +0530	Log		Ability to Move in Bed Prior to Admission	40	on_dio_reader	dio_reader.script
+2018-05-17 20:59:09.663 +0530	Log		ADLs	40	on_dio_reader	dio_reader.script
+2018-05-17 20:59:10.087 +0530	EndTestCase		(Duration:"1.728", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:59:08 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:59:10.142 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

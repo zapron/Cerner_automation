@@ -1,0 +1,14 @@
+﻿2018-04-25 12:01:33.012 +0530	START		Running egg_plant_day1.script
+2018-04-25 12:01:33.143 +0530	typetext		[windowsAltKey][F4]	4	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:34.045 +0530	doubleclick	chrome_good_image	at (38, 238)	5	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:36.400 +0530	click	address_bar2	at (256, 46)	6	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:37.164 +0530	typetext		[controlKey]a	7	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:37.918 +0530	typetext		[deleteKey]	8	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:39.018 +0530	typetext		www.amazon.in	9	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:39.766 +0530	typetext		[returnKey]	10	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:41.005 +0530	click	product_search	at (1441, 92)	11	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:42.021 +0530	typetext		One plus 6	12	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:01:47.055 +0530	typetext		[returnKey]	14	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:02:17.411 +0530	Exception	one_plus	Unable To Find Any Image On Screen "one_plus" within 10.00 seconds	15	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 12:02:17.458 +0530	EndTestCase		(Duration:"44.446", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 12:01:33 +0530", Successes:"0", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 12:02:17.474 +0530	ABORTED		Execution Time 0:00:44 egg_plant_day1.script

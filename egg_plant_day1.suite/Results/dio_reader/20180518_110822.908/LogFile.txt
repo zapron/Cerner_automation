@@ -1,0 +1,7 @@
+﻿2018-05-18 11:08:22.923 +0530	START		Running dio_reader.script
+2018-05-18 11:08:23.976 +0530	Log		Procedure Location	44	on_dio_reader	dio_reader.script
+2018-05-18 11:08:23.992 +0530	Log		Last Food Intake Type	44	on_dio_reader	dio_reader.script
+2018-05-18 11:08:24.012 +0530	Log		Pregnancy Test Results Reviewed	44	on_dio_reader	dio_reader.script
+2018-05-18 11:08:24.020 +0530	Log		3  DTAs were found and they are (Procedure Location,Last Food Intake Type,Pregnancy Test Results Reviewed) 	65	on_dio_reader	dio_reader.script
+2018-05-18 11:08:24.261 +0530	EndTestCase		(Duration:"1.338", Errors:"0", Exceptions:"0", StartTime:"2018-05-18 11:08:22 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-18 11:08:24.345 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

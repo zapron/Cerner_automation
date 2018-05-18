@@ -1,0 +1,10 @@
+﻿2018-04-25 11:36:30.738 +0530	START		Running egg_plant_day1.script
+2018-04-25 11:36:30.985 +0530	doubleclick	chrome_good_image	at (38, 238)	5	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:36:33.488 +0530	click	address_bar2	at (256, 46)	7	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:36:34.259 +0530	typetext		[controlKey]a	8	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:36:34.979 +0530	typetext		[deleteKey]	9	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:36:36.124 +0530	typetext		www.amazon.in	10	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:36:36.877 +0530	typetext		[returnKey]	11	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:37:00.426 +0530	Exception	search_bar	No Image Found On Screen: "search_bar"	12	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:37:00.495 +0530	EndTestCase		(Duration:"29.757", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 11:36:30 +0530", Successes:"0", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 11:37:00.875 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "search_bar" -- Execution Time 0:00:30 egg_plant_day1.script

@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-04-25 12:35:13.430 +0530,"Failure",0:00:28,1,0,1,"20180425_123513.430/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""one_plus_icon""",0
+2018-04-25 12:36:13.812 +0530,"Running",0:00:00,0,0,0,"20180425_123613.812/LogFile.txt","","",0
+2018-04-25 12:36:57.156 +0530,"Failure",0:00:29,1,0,1,"20180425_123657.156/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""one_plus_icon""",0
+2018-04-25 12:37:57.008 +0530,"Failure",0:00:38,1,0,1,"20180425_123757.008/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""one_plus_icon""",0

@@ -1,0 +1,26 @@
+﻿2018-04-25 15:22:21.382 +0530	START		Running conditions and arrays.script
+2018-04-25 15:22:21.467 +0530	Log		Raktim	4	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.467 +0530	Log		bhowmick	4	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.467 +0530	Log		11	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.467 +0530	Log		12	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.467 +0530	Log		13	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.482 +0530	Log		14	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.482 +0530	Log		15	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.482 +0530	Log		16	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.498 +0530	Log		17	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.498 +0530	Log		18	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.498 +0530	Log		19	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.498 +0530	Log		20	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.498 +0530	Log		21	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.513 +0530	Log		22	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.513 +0530	Log		23	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.513 +0530	Log		24	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.513 +0530	Log		25	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.513 +0530	Log		26	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.513 +0530	Log		27	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.534 +0530	Log		28	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.536 +0530	Log		29	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.536 +0530	Log		30	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.536 +0530	Log		31	11	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:22:21.630 +0530	EndTestCase		(Duration:"0.232", Errors:"0", Exceptions:"0", StartTime:"2018-04-25 15:22:21 +0530", Successes:"1", TestCase:"conditions and arrays.script", Warnings:"0")
+2018-04-25 15:22:21.698 +0530	SUCCESS		Execution Time 0:00:00 conditions and arrays.script

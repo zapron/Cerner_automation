@@ -1,0 +1,5 @@
+﻿2018-04-25 15:58:25.467 +0530	START		Running functions.script
+2018-04-25 15:58:25.602 +0530	everyimagelocation	chrome_good_image/chrome_good_image	found 1 images	1	on_functions	functions.script
+2018-04-25 15:58:25.602 +0530	Log		((38,238))	1	on_functions	functions.script
+2018-04-25 15:58:25.699 +0530	EndTestCase		(Duration:"0.232", Errors:"0", Exceptions:"0", StartTime:"2018-04-25 15:58:25 +0530", Successes:"1", TestCase:"functions.script", Warnings:"0")
+2018-04-25 15:58:25.952 +0530	SUCCESS		Execution Time 0:00:00 functions.script

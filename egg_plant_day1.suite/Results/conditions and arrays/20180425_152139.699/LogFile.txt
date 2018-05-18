@@ -1,0 +1,5 @@
+﻿2018-04-25 15:21:39.699 +0530	START		Running conditions and arrays.script
+2018-04-25 15:21:39.783 +0530	Log		Raktim	4	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:21:39.783 +0530	Log		bhowmick	4	on_conditions_and_arrays	conditions and arrays.script
+2018-04-25 15:21:39.899 +0530	EndTestCase		(Duration:"0.2", Errors:"1", Exceptions:"0", StartTime:"2018-04-25 15:21:39 +0530", Successes:"0", TestCase:"conditions and arrays.script", Warnings:"0")
+2018-04-25 15:21:40.262 +0530	FAILURE	Screen_Error.png	STInvalidParameters Command add was called with invalid parameters -- Execution Time 0:00:00 conditions and arrays.script

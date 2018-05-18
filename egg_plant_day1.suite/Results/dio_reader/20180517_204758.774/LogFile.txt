@@ -1,0 +1,9 @@
+﻿2018-05-17 20:47:58.780 +0530	START		Running dio_reader.script
+2018-05-17 20:48:00.076 +0530	Log		Preferred Communication	39	on_dio_reader	dio_reader.script
+2018-05-17 20:48:00.112 +0530	Log		Surgery Date/Time/Location Reviewed	39	on_dio_reader	dio_reader.script
+2018-05-17 20:48:00.123 +0530	Log		Ability to Ambulate Prior to Admission	39	on_dio_reader	dio_reader.script
+2018-05-17 20:48:00.128 +0530	Log		Ability to Move in Bed Prior to Admission	39	on_dio_reader	dio_reader.script
+2018-05-17 20:48:00.134 +0530	Log		ADLs	39	on_dio_reader	dio_reader.script
+2018-05-17 20:48:00.159 +0530	Log		NO SUCH DTA exist	52	on_dio_reader	dio_reader.script
+2018-05-17 20:48:00.551 +0530	EndTestCase		(Duration:"1.761", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:47:58 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:48:00.606 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

@@ -1,0 +1,121 @@
+﻿Doubleclick (Text:"Google",searchRectangle:(0,194,114,305))
+typetext altKey,f4
+DoubleClick (Text:"Recycle")
+typetext altKey,f4
+
+
+(*Click "start"
+TypeText "Notepad"
+Click (Text:"Notepad",searchRectangle:((3,399,445,572)))
+TypeText "Mustaq kya bay chutiye"
+wait 10
+typetext altKey,f4
+Click (Text:"Don't")*)
+
+log ReadText(((969,511,1139,554)))
+
+put ReadText((966,524,1146,678)) into var
+log "ftext is" 
+log var
+If var equals ReadText(((966,524,1146,678))) then
+	log "yes"
+End if
+
+
+
+//if we have to read lines of text in differnt lines then use//
+log the number of lines of var
+
+
+//now if we want to add these lines into another variable one by one//
+put line 1 of var into var1
+put line 2 of var into var2
+put line 3 of var into var3
+
+//checking the values
+log var1&&var2&&var3
+
+put var1&&var2&&var3 into var4
+log var4
+
+
+//comparing
+if var1 equals var2
+	log "yeah"
+end if
+
+
+
+//searching and text location
+ImageLocation(Text:"Amazon",searchRectangle:())
+
+
+//creating rectangles with images, In ths example we can find text between two fixed images on the  screen
+log ReadText(("eximg1", "eximg2"))
+
+
+//increasing rectangle space//increasing coordinate values by 100
+put ImageLocation("eximg1")+(100,100) into topleft
+put ImageLocation("eximg2")+(100,100) into bottomright
+log ReadText(topleft,bottomright)
+wait 2
+
+
+
+//self code trying
+
+put ImageLocation("a1")+(100,100) into topleft
+put ImageLocation("a2")+(100,75) into bottomright
+log ReadText(topleft,bottomright)
+wait 2
+
+//we can use
+moveto ImageLocation("￹@imageName￺TP-EPF-TOKEN￻")// or 
+topleft
+//so that the cursor moves to that place
+
+
+
+
+//Adding breakpoint ,Animation On, animation off
+
+//Creating multiple scripts and merging into one master script.
+
+//Another way of running these scripts is 
+
+
+run "assisted"//simply runs the script no seperate result files for other scripts in master script
+//or
+RunWithNewResults "assisted" //creates a result file for all seperate scripts within the master script
+
+
+
+
+(*
+function concepts in eggplant known as handlers which are of 3 types
+ON(command handlers)
+TO
+FUNCTION(Return)
+*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

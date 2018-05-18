@@ -1,0 +1,5 @@
+﻿2018-05-18 17:30:11.829 +0530	START		Running dio_reader.script
+2018-05-18 17:30:12.852 +0530	Log		Interpretation Modality	44	on_dio_reader	dio_reader.script
+2018-05-18 17:30:12.872 +0530	Log		1  DTAs were found and they are (Interpretation Modality) 	65	on_dio_reader	dio_reader.script
+2018-05-18 17:30:13.068 +0530	EndTestCase		(Duration:"1.239", Errors:"0", Exceptions:"0", StartTime:"2018-05-18 17:30:11 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-18 17:30:13.314 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

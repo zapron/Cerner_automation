@@ -1,0 +1,4 @@
+﻿2018-04-25 12:14:01.534 +0530	START		Running rec_and_play.script
+2018-04-25 12:14:12.425 +0530	Exception	chrome_icon	No Image Found On Screen: "chrome_icon"	8	on_rec_and_play	rec_and_play.script
+2018-04-25 12:14:12.494 +0530	EndTestCase		(Duration:"10.96", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 12:14:01 +0530", Successes:"0", TestCase:"rec_and_play.script", Warnings:"0")
+2018-04-25 12:14:12.494 +0530	ABORTED		Execution Time 0:00:11 rec_and_play.script

@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-05-14 19:29:37.563 +0530,"Failure",0:00:18,1,0,1,"20180514_192937.563/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""address_bar2""",0

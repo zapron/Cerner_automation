@@ -1,0 +1,10 @@
+﻿params browser
+Typetext altKey,f4
+wait 5
+DoubleClick "chrome_good_image"
+Click "address_bar2"
+TypeText controlKey,a
+TypeText deleteKey
+TypeText browser
+TypeText returnKey
+wait 5

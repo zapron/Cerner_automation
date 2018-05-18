@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="assited">
+ <run>
+  <RunDate>2018-04-25 12:35:13.430 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>28.483000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180425_123513.430/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;one_plus_icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-25 12:36:13.812 +0530</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180425_123613.812/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-25 12:36:57.156 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>29.030000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180425_123657.156/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;one_plus_icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-25 12:37:57.008 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>38.421000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180425_123757.008/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;one_plus_icon&quot;</ErrorMessage>
+ </run>
+</runHistory>

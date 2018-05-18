@@ -1,0 +1,120 @@
+﻿set excel to (type:"excel",file:ResourcePath("PowerForm - DIO - Nursing Discharge Summary Pediatric - Form Design.xls"))
+put the records of excel into excelreader
+//log excelreader
+set count to 0
+set dta to 0
+set n=1
+Repeat for each item in excelreader
+	
+	
+	(*If it."Section Name" equals "" then
+		insert 1 to count	
+	Else
+		insert it."Section Name" into t1
+	End if*)
+	
+	(*insert it.title2 into t2
+insert it.title3 into t3*)
+	
+	(*insert it."Section Name" into t1 
+	log it."Section Name"*)
+	
+	
+	
+	
+	
+	if it."Section Name" equals ""
+		set count to 1
+	else
+		//log it."Section Name"
+		insert it."Section Name" into t1
+		insert repeatIndex() into t2
+	end if
+End Repeat
+(*log t1
+log t2*)
+log t1
+log t2
+Log "the number of sections are"
+log the number of items of t1
+
+put the number of items of t1 into section_count
+
+log section_count
+
+
+Repeat section_count times
+	set a to item n of t2
+	set b to item n+1 of t2
+	Repeat while a<b
+		If it."Associated Label - Question Role" equals "" then
+			set count to 1
+		Else
+			i
+			insert it."Associated Label - Question Role" into dtas
+		End if
+		add 1 to a
+		
+		
+	End Repeat
+	add 1 to n
+End Repeat
+
+log dtas
+
+
+set var1 to 5
+set var to "var"
+set a to 1
+
+put 
+
+
+log "var[[a]]""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(*
+put the number of lines of excelreader into count
+log count
+
+
+
+Repeat for each line of excelreader
+(*log item repeatindex() of excelreader
+	log "\n"*)
+	
+	insert line repeatindex() of excelreader into abc 
+	Repeat for each item of abc
+		insert item repeatindex() of abc into t1
+		
+		
+		log item repeatindex() of abc
+	End Repeat
+End Repeat
+
+log t1
+log t2
+log t3
+log abc
+*)

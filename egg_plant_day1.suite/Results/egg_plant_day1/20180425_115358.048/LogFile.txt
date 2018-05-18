@@ -1,0 +1,3 @@
+﻿2018-04-25 11:53:58.055 +0530	START		Running egg_plant_day1.script
+2018-04-25 11:54:00.307 +0530	EndTestCase		(Duration:"2.248", Errors:"1", Exceptions:"0", StartTime:"2018-04-25 11:53:58 +0530", Successes:"0", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 11:54:00.307 +0530	ABORTED		Execution Time 0:00:02 egg_plant_day1.script

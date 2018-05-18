@@ -1,0 +1,10 @@
+﻿2018-05-17 21:12:37.978 +0530	START		Running dio_reader.script
+2018-05-17 21:12:39.260 +0530	Log		Advance Directive Date	44	on_dio_reader	dio_reader.script
+2018-05-17 21:12:39.266 +0530	Log		Medical Durable Power of Attorney Name	44	on_dio_reader	dio_reader.script
+2018-05-17 21:12:39.274 +0530	Log		Medical Durable Power of Attorney Contact Information	44	on_dio_reader	dio_reader.script
+2018-05-17 21:12:39.278 +0530	Log		Surrogate Name	44	on_dio_reader	dio_reader.script
+2018-05-17 21:12:39.285 +0530	Log		Reason Copy Cannot Be Obtained	44	on_dio_reader	dio_reader.script
+2018-05-17 21:12:39.290 +0530	Log		Intent of Advance Directive	44	on_dio_reader	dio_reader.script
+2018-05-17 21:12:39.299 +0530	Log		6 DTAs were found and they are \n(Advance Directive Date,Medical Durable Power of Attorney Name,Medical Durable Power of Attorney Contact Information,Surrogate Name,Reason Copy Cannot Be Obtained,Intent of Advance Directive) 	65	on_dio_reader	dio_reader.script
+2018-05-17 21:12:39.728 +0530	EndTestCase		(Duration:"1.744", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 21:12:37 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 21:12:39.780 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

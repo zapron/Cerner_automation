@@ -1,0 +1,38 @@
+﻿//DoubleClick "chrome_icon"
+
+//DoubleClick "selected_chrome_icon"
+Typetext altKey,f4
+wait 5
+DoubleClick "chrome_good_image"
+Click "address_bar2"
+TypeText controlKey,a
+TypeText deleteKey
+TypeText "www.amazon.in"
+TypeText returnKey
+wait 5
+Click "product_search"
+TypeText "One plus 6"
+click
+wait 5
+TypeText returnKey
+//WaitFor 10, "one_plus"
+//Click "one_plus"
+
+//Waitfor 5, "NotifyMe"
+//click "NotifyMe"
+If ImageFound(2,, "chrome_good_image/chrome_good_image", ) then
+	log "success"
+Else
+	log "failure"
+End if
+
+
+put "Raktim" into Fname
+set lname to "Bhowmick"
+
+log Fname , lname
+
+
+Typetext altKey,f4
+
+

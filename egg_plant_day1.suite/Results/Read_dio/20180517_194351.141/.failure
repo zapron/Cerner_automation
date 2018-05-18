@@ -1,0 +1,1 @@
+2018-05-17 19:43:51.141 +0530,Failure,0:00:00,1,0,0,20180517_194351.141/LogFile.txt,"","SenseTalk Compiler Exception -- in read_dio:\nSyntax Error at line 41: Syntax Error - can't understand ""repeat"" at or near character 1402",0

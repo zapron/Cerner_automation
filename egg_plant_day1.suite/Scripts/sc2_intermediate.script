@@ -1,0 +1,25 @@
+﻿
+put file ResourcePath("test4.csv") into reader
+log reader
+
+put the number of lines of reader into count
+log count
+
+put line 1 of reader into col1
+put line 2 of reader into col2
+
+log col1
+log col2
+
+
+
+set Browser to item 1 of col2
+set series to item 2 of col2
+
+log Browser
+log series
+
+
+Run launch_browser Browser
+Typetext series
+

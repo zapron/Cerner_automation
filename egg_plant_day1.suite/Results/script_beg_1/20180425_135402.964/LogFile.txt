@@ -1,0 +1,5 @@
+﻿2018-04-25 13:54:02.964 +0530	START		Running script_beg_1.script
+2018-04-25 13:54:03.203 +0530	doubleclick	chrome_good_image	at (38, 238)	1	on_script_beg_1	script_beg_1.script
+2018-04-25 13:54:26.971 +0530	Exception	Open	No Image Found On Screen: "Open"	2	on_script_beg_1	script_beg_1.script
+2018-04-25 13:54:27.049 +0530	EndTestCase		(Duration:"24.085", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 13:54:02 +0530", Successes:"0", TestCase:"script_beg_1.script", Warnings:"0")
+2018-04-25 13:54:27.256 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Open" -- Execution Time 0:00:25 script_beg_1.script

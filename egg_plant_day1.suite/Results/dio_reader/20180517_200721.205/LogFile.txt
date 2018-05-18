@@ -1,0 +1,22 @@
+﻿2018-05-17 20:07:21.212 +0530	START		Running dio_reader.script
+2018-05-17 20:07:21.949 +0530	Log		General Periop	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.018 +0530	Log		Periop Education	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.038 +0530	Log		Interpreter Services	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.044 +0530	Log		Preprocedure Checklist	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.063 +0530	Log		Advance Directive	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.077 +0530	Log		Allergy	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.081 +0530	Log		Medication History	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.085 +0530	Log		Problem History Hospital Stay	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.092 +0530	Log		Procedure History with Medical Devices	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.101 +0530	Log		Preoperative Social History With Social Habits	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.106 +0530	Log		Family History	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.111 +0530	Log		General Anesthesia Risk Assessments	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.131 +0530	Log		Screening Infectious Disease General	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.321 +0530	Log		Anticipated Discharge Needs	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.450 +0530	Log		Perioperative Protocols	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.471 +0530	Log		Immunizations	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.487 +0530	Log		Vital Signs	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.519 +0530	Log		Valuables/Belongings Detail	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:22.572 +0530	Log		Additional Health Information	14	on_dio_reader	dio_reader.script
+2018-05-17 20:07:23.003 +0530	EndTestCase		(Duration:"1.781", Errors:"1", Exceptions:"0", StartTime:"2018-05-17 20:07:21 +0530", Successes:"0", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:07:23.059 +0530	FAILURE		STInvalidNumber Value is not a number: 'b' -- Execution Time 0:00:02 dio_reader.script

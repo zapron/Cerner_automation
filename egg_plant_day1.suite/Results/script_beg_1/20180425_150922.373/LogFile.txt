@@ -1,0 +1,26 @@
+﻿2018-04-25 15:09:22.373 +0530	START		Running script_beg_1.script
+2018-04-25 15:09:22.621 +0530	rightclick	chrome_good_image	at (38, 238)	1	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:23.490 +0530	click	Open	at (90, 253)	2	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:23.490 +0530	Log		chrome launched	3	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:23.490 +0530	BeginTestCase		timer	4	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:25.791 +0530	click	address_bar2	at (256, 46)	5	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:26.554 +0530	typetext		[controlKey]a	6	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:27.307 +0530	typetext		[deleteKey]	7	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:28.469 +0530	typetext		www.amazon.com	8	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:29.223 +0530	typetext		[returnKey]	9	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:29.223 +0530	Log		amazon loaded	10	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:30.824 +0530	waitfor	cart	found at (1849, 204)	11	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:30.824 +0530	Log		cart icon visible	13	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:35.964 +0530	click	All_departmwnt_icon	at (212, 149)	15	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:41.006 +0530	typetext		[pageDown]	17	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:46.044 +0530	typetext		[pageDown]	19	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:48.184 +0530	click	movies&tv	at (251, 497)	21	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:48.186 +0530	Log		movies and tv selected	22	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:50.319 +0530	click	m&tv	at (360, 149)	24	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:52.022 +0530	typetext		The Big Bang Theory - Seasons	25	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:57.186 +0530	click	thebigbangtheoryseasons10	at (423, 222)	27	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:57.571 +0530	capturescreen	cap1.png		28	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:57.956 +0530	typetext		[windowsAltKey][F4]	31	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:57.956 +0530	EndTestCase		(Duration:"34.466", Errors:"0", Exceptions:"0", StartTime:"2018-04-25 15:09:23 +0530", Successes:"0", TestCase:"timer", Warnings:"0")	33	on_script_beg_1	script_beg_1.script
+2018-04-25 15:09:58.025 +0530	EndTestCase		(Duration:"35.636", Errors:"0", Exceptions:"0", StartTime:"2018-04-25 15:09:22 +0530", Successes:"1", TestCase:"script_beg_1.script", Warnings:"0")
+2018-04-25 15:09:58.271 +0530	SUCCESS		Execution Time 0:00:36 script_beg_1.script

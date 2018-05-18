@@ -1,0 +1,36 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-04-25 13:53:34.658 +0530,"Failure",0:00:23,1,0,1,"20180425_135334.658/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Open""",0
+2018-04-25 13:54:02.964 +0530,"Failure",0:00:24,1,0,1,"20180425_135402.964/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Open""",0
+2018-04-25 13:55:20.830 +0530,"Success",0:00:06,0,0,0,"20180425_135520.830/LogFile.txt","","",1
+2018-04-25 13:58:07.222 +0530,"Success",0:00:07,0,0,0,"20180425_135807.222/LogFile.txt","","",1
+2018-04-25 14:06:58.990 +0530,"Success",0:00:13,0,0,0,"20180425_140658.990/LogFile.txt","","",1
+2018-04-25 14:13:28.701 +0530,"Success",0:00:15,0,0,0,"20180425_141328.701/LogFile.txt","","",1
+2018-04-25 14:14:31.943 +0530,"Failure",0:00:22,1,0,1,"20180425_141431.943/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies_shows_selected""",0
+2018-04-25 14:15:31.516 +0530,"Success",0:00:21,0,0,0,"20180425_141531.516/LogFile.txt","","",1
+2018-04-25 14:16:38.137 +0530,"Failure",0:00:33,1,0,1,"20180425_141638.137/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies&tv""",0
+2018-04-25 14:19:42.053 +0530,"Running",0:00:00,0,0,0,"20180425_141942.053/LogFile.txt","","",0
+2018-04-25 14:22:37.297 +0530,"Running",0:00:00,0,0,0,"20180425_142237.297/LogFile.txt","","",0
+2018-04-25 14:27:32.211 +0530,"Failure",0:00:37,1,0,1,"20180425_142732.211/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies&tv""",0
+2018-04-25 14:29:11.972 +0530,"Failure",0:00:44,1,0,1,"20180425_142911.972/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies&tv""",0
+2018-04-25 14:30:44.283 +0530,"Running",0:00:00,0,0,0,"20180425_143044.283/LogFile.txt","","",0
+2018-04-25 14:34:38.209 +0530,"Success",0:00:35,0,0,0,"20180425_143438.209/LogFile.txt","","",1
+2018-04-25 14:45:34.661 +0530,"Failure",0:00:58,1,0,1,"20180425_144534.661/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""complete_tenth""",0
+2018-04-25 14:54:30.656 +0530,"Success",0:00:35,0,0,0,"20180425_145430.656/LogFile.txt","","",1
+2018-04-25 14:56:56.541 +0530,"Failure",0:00:48,1,0,1,"20180425_145656.541/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies&tv""",0
+2018-04-25 15:09:22.373 +0530,"Success",0:00:35,0,0,0,"20180425_150922.373/LogFile.txt","","",1
+2018-04-25 15:25:39.388 +0530,"Success",0:00:55,0,0,0,"20180425_152539.388/LogFile.txt","","",1
+2018-04-25 15:28:48.035 +0530,"Success",0:00:55,0,0,0,"20180425_152848.035/LogFile.txt","","",1
+2018-04-25 16:04:12.860 +0530,"Running",0:00:00,0,0,0,"20180425_160412.860/LogFile.txt","","",0
+2018-04-25 16:06:23.155 +0530,"Success",0:01:09,0,0,0,"20180425_160623.155/LogFile.txt","","",1
+2018-04-25 16:33:45.088 +0530,"Running",0:00:00,0,0,0,"20180425_163345.088/LogFile.txt","","",0
+2018-04-25 16:34:24.746 +0530,"Running",0:00:00,0,0,0,"20180425_163424.746/LogFile.txt","","",0
+2018-04-25 16:36:12.203 +0530,"Success",0:01:18,0,0,0,"20180425_163612.203/LogFile.txt","","",1
+2018-04-25 16:43:41.322 +0530,"Failure",0:00:25,1,0,1,"20180425_164341.322/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""address_bar2""",0
+2018-04-25 16:44:24.126 +0530,"Failure",0:00:49,1,0,1,"20180425_164424.126/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies&tv""",0
+2018-04-25 16:46:14.117 +0530,"Failure",0:00:46,1,0,1,"20180425_164614.117/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies&tv""",0
+2018-04-25 16:47:54.123 +0530,"Failure",0:01:06,1,0,1,"20180425_164754.123/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies&tv""",0
+2018-04-25 16:50:43.404 +0530,"Failure",0:00:24,1,0,1,"20180425_165043.404/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""address_bar2""",0
+2018-04-25 16:52:28.262 +0530,"Running",0:00:00,0,0,0,"20180425_165228.262/LogFile.txt","","",0
+2018-04-25 17:00:19.370 +0530,"Success",0:02:14,0,0,0,"20180425_170019.370/LogFile.txt","","",1
+2018-04-25 17:16:32.097 +0530,"Success",0:02:12,0,0,0,"20180425_171632.097/LogFile.txt","","",1
+2018-04-26 09:49:20.207 +0530,"Failure",0:00:39,1,0,1,"20180426_094920.207/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""address_bar2""",0

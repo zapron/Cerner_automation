@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-04-25 12:13:43.035 +0530,"Running",0:00:00,0,0,0,"20180425_121343.035/LogFile.txt","","",0
+2018-04-25 12:14:01.519 +0530,"Running",0:00:00,0,0,0,"20180425_121401.519/LogFile.txt","","",0
+2018-04-25 12:14:15.430 +0530,"Failure",0:00:36,1,0,1,"20180425_121415.430/LogFile.txt","","Image Not Found -- drop Error - No Image Found On Screen: ""image0007""",0

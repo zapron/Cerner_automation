@@ -1,0 +1,1623 @@
+﻿2018-05-03 20:57:20.840 +0530	START		Running Read_dio.script
+2018-05-03 20:57:23.692 +0530	Log		56 sections are present and they are (OT Review/Treatments Provided Outpt,Hx, Problems, Hospitalizations Rehab,Allergies Rehab,Time Spent With Patient Daily OT Outpatient,Strapping/Casting Daily OT Outpatient,Pain Assessment Adult,OMC Test Amb,FLACC/PAINAD Pain Scale,Pain Assessment Detail Ambulatory/Rehab,Additional Pain Sites Ambulatory/Rehab,Outpatient OT Long Term Goals Rehab,Outpatient OT Long Term Goals Rehab,OT Therapeutic Activities,Basic ADL Level,Instrumental ADL Adult,Sitting Balance Assessment OT,OT Vision/Perception/Cognition Daily,OT Therapeutic Exercise,OT Neuromuscular Reeducation,Vestibular Exam,Orthotics,Manual Therapy/Massage Rehab,Modalities Rehab,Taping/Bandaging/Strapping,OT WC Management,Prosthetics Exam Allied Health Rehab,OT Sensory Stimulation/Responsiveness,Upper Extremity Casting,Upper Extremity Casting Secondary,OT Short Term Goals Daily,Education Occupational Therapy,Vital Signs Rehab,Durable Medical Equipment OT Rehab,Active Movement Loss Rehab,Mechanical Responses Rehab,Cervical Mobility,Lumbar Mobility,UE ROM/Strength,UE ROM Degrees,Left UE Range of Motion Description,Right UE Range of Motion Description,Hand ROM/Strength Rehab,Left Hand Detailed ROM ,Right Hand Detailed ROM ,Upper Extremity Tone,Upper Extremity Neuro Screening Rehab,Upper Extremity Function,Special Tests OT Rehab,Special Tests Spine Rehab,Vision/Perception Rehab,Low Vision Functional Activities,External Pelvic Floor Exam Rehab,Internal Pelvic Floor Exam Rehab,OT Assessment Outpatient Daily,Occupational Therapy Plan Daily,Additional Information OT) their indexes are (1,20,28,29,151,212,397,419,451,545,686,687,707,925,1153,1309,1377,1493,1611,1751,1919,2037,2134,2182,2267,2313,2453,2552,2769,2909,3542,3736,3806,3919,4029,4077,4121,4165,4476,4514,4674,4834,5622,5683,5744,5956,6031,6312,6319,6586,6683,6732,6851,6949,6980,7061)	21	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.698 +0530	Log		Short Term Goals Review	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.700 +0530	Log		Plan Review	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.700 +0530	Log		Short Term Goals Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.700 +0530	Log		Long Term Goals Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.700 +0530	Log		OT Orders	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.716 +0530	Log		Pain Present	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.716 +0530	Log		Progress Note Visit Count	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.716 +0530	Log		Therapeutic Activities/Mobility/Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.716 +0530	Log		Therapeutic Exercise	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.716 +0530	Log		Neuromuscular Reeducation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.731 +0530	Log		Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.731 +0530	Log		Manual Therapy/Massage	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.731 +0530	Log		Modalities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.731 +0530	Log		Taping/Bandaging/Strapping	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.747 +0530	Log		Wheelchair Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.747 +0530	Log		Prosthetics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.747 +0530	Log		Sensory Integration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.747 +0530	Log		Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.763 +0530	Log		Most Recent Hospitalization(s)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.763 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.763 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.763 +0530	Log		Evaluation, Low Complexity (97165) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.778 +0530	Log		Evaluation, Moderate Complexity (97166) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.778 +0530	Log		Evaluation, High Complexity (97167) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.778 +0530	Log		Re-Evaluation (97168) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.778 +0530	Log		Hot/Cold Pack (97010) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.778 +0530	Log		Unattended E-Stim (97014) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.797 +0530	Log		Vasopneumatic Devices (97016) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.800 +0530	Log		Paraffin (97018) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.800 +0530	Log		Whirlpool/Fluidotherapy (97022) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.800 +0530	Log		Biofeedback (90901) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.800 +0530	Log		Biofdbk Peri/Urethral/ Rectal (90911) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.800 +0530	Log		MMT, Extremity/Trunk  Exclude Hands (95831) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.816 +0530	Log		MMT, Hand (95832) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.816 +0530	Log		MMT, Body Excluding Hands (95833) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.816 +0530	Log		MMT, Total Body With Hands (95834) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.816 +0530	Log		ROM Extremity/Trunk Exclude Hands (95851) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.832 +0530	Log		ROM Measurement Hand (95852) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.832 +0530	Log		Group Therapy (97150) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.832 +0530	Log		Infrared (97026) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.832 +0530	Log		Units 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.847 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.847 +0530	Log		Attended E-Stim (97032) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.847 +0530	Log		Iontophoresis (97033) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.847 +0530	Log		 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.863 +0530	Log		Contrast Bath (97034) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.863 +0530	Log		Ultrasound (97035) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.863 +0530	Log		Therapeutic Exercise (97110) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.863 +0530	Log		Neuromuscular Reeducation (97112) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.863 +0530	Log		Massage (97124) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.879 +0530	Log		Manual Therapy (97140) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.879 +0530	Log		Therapeutic Activity (97530) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.879 +0530	Log		Cognitive Skills Development (97532) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.879 +0530	Log		Sensory Integrative Techniques (97533) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.895 +0530	Log		Self Care/Home Management (97535) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.899 +0530	Log		Community/Work Reintegration (97537) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.901 +0530	Log		Wheelchair Management (97542) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.901 +0530	Log		Work Hardening/Conditioning, Initial 2 Hours (97545) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.901 +0530	Log		Work Hardening/Conditioning, Each Addl Hour (97546) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.901 +0530	Log		Orthotic/Prosthetic Use/Check Out (97762) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.916 +0530	Log		Orthotic Management/Training (97760) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.920 +0530	Log		Prosthetic Management/Training (97761) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.923 +0530	Log		Assistive Technology Evaluation (97755) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.927 +0530	Log		Physical Performance Test (97750) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.931 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.935 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.938 +0530	Log		Assisting Personnel 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.942 +0530	Log		Personnel Assisting 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.945 +0530	Log		Total Timed Code Treatment Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.949 +0530	Log		Total Timed Code Treatment Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.950 +0530	Log		Total Untimed Code Treatment Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.950 +0530	Log		*Total Treatment Time	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.950 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.966 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.966 +0530	Log		Strapping Shoulder (29240)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.966 +0530	Log		Strapping Hand/Finger (29280)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.966 +0530	Log		Strapping Elbow/Wrist (29260)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.981 +0530	Log		Long Arm Cast (29065)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.981 +0530	Log		Hand/Lower Forearm Cast (29085)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.981 +0530	Log		Short Arm Cast (29075)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.981 +0530	Log		Finger Cast (29086)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:23.999 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.001 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.001 +0530	Log		OT Elbow Orthosis Left (L3702) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.001 +0530	Log		OT Elbow Orthosis Right (L3702) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.001 +0530	Log		OT WHFO Orthosis Left  (L3806) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.001 +0530	Log		OT WHFO Orthosis Right (L3806) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.016 +0530	Log		OT WHFO Orthosis Left Pre  Fab (L3807) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.016 +0530	Log		OT WHFO Orthosis Right Pre Fab (L3807) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.016 +0530	Log		OT WHFO Orthosis Left Static (L3808) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.016 +0530	Log		OT WHFO Orthosis Right  Static (L3808) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.032 +0530	Log		OT Wrist Hand Orthosis Left (L3906) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.032 +0530	Log		OT Wrist Hand Orthosis Right (L3906) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.032 +0530	Log		OT Hand Finger Orthosis Left (L3913) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.032 +0530	Log		OT Hand Finger Orthosis Right (L3913) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.047 +0530	Log		OT Hand Orthosis Left  (L3919) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.047 +0530	Log		OT Hand Orthosis Right (L3919) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.047 +0530	Log		OT Finger Orthosis Left (L3933) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.047 +0530	Log		OT Finger Orthosis Right  (L3933) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.063 +0530	Log		OT Finger Orthosis Lt (L3935) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.063 +0530	Log		OT Finger Orthosis Rt (L3935) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.063 +0530	Log		Mobile Arm Support Left (L3968)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.063 +0530	Log		Mobile Arm Support Right (L3968)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.063 +0530	Log		 Pain Location	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.101 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.101 +0530	Log		Quality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.117 +0530	Log		Time Pattern	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.117 +0530	Log		Onset	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.117 +0530	Log		Duration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.117 +0530	Log		Pain Negatively Impacts	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.132 +0530	Log		Question Ability to Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.132 +0530	Log		Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.132 +0530	Log		Unable to Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.132 +0530	Log		Numeric Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.148 +0530	Log		Acceptable Numeric Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.148 +0530	Log		FACES Pain Scale (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.148 +0530	Log		Acceptable FACES Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.163 +0530	Log		Numeric Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.163 +0530	Log		Acceptable Numeric Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.163 +0530	Log		FACES Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.163 +0530	Log		Acceptable FACES Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.179 +0530	Log		Patient's Response to Current Year	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.179 +0530	Log		Patient's Response to Current Month	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.179 +0530	Log		Patient's Response to Current Time Within One Hour	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.179 +0530	Log		Patient's Ability to Count Backward 20 to 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.195 +0530	Log		Patient's Ability to State the Months in Reverse Order	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.198 +0530	Log		Patient's Ability to Repeat the Memory Phrase	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.201 +0530	Log		Calculation for Orientation Memory Concentration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.201 +0530	Log		Score Indication	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.201 +0530	Log		Face (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.201 +0530	Log		Legs	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.217 +0530	Log		Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.220 +0530	Log		Cry	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.224 +0530	Log		Consolability	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.231 +0530	Log		FLACC Score 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.235 +0530	Log		Breathing Independent of Vocalization (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.239 +0530	Log		Negative Vocalization	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.243 +0530	Log		Facial Expressions	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.248 +0530	Log		Body Language	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.252 +0530	Log		Consolability	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.256 +0530	Log		PAINAD Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.257 +0530	Log		Alleviating Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.257 +0530	Log		Aggravating Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.273 +0530	Log		Associated Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.273 +0530	Log		Interventions Implemented	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.273 +0530	Log		Pain Notification	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.273 +0530	Log		Preferred Sleeping Position	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.291 +0530	Log		Effect of Movement on Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.300 +0530	Log		24 Hour Behavior	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.301 +0530	Log		Additional Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.332 +0530	Log		Patient/Caregiver Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.332 +0530	Log		*Patient/Caregiver Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.348 +0530	Log		Long Term Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.348 +0530	Log		Reassess Basic ADL	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.348 +0530	Log		Reassess Instrumental ADL 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.364 +0530	Log		Reassess Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.364 +0530	Log		Reassess Vision/ Perception/Cognition	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.447 +0530	Log		Limiting Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.452 +0530	Log		Eating Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.459 +0530	Log		Upper Body Dressing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.465 +0530	Log		Upper Body Dressing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.472 +0530	Log		Lower Body Dressing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.478 +0530	Log		Lower Body Dressing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.485 +0530	Log		Grooming Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.490 +0530	Log		Grooming Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.497 +0530	Log		Bathing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.501 +0530	Log		Bathing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.501 +0530	Log		Toileting Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.501 +0530	Log		Toileting Equipment 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.516 +0530	Log		Toilet Transfer Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.563 +0530	Log		Child Rearing 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.563 +0530	Log		Other IADL Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.563 +0530	Log		Sitting Surface Evaluated Upon	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.563 +0530	Log		Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.579 +0530	Log		Static Sitting Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.595 +0530	Log		Dynamic Sitting, Outside Base of Support	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.600 +0530	Log		Reactions	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.601 +0530	Log		Functional Impact	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.632 +0530	Log		Therapeutic Exercise	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.700 +0530	Log		Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.701 +0530	Log		Symptoms Occur	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.701 +0530	Log		Vestibular Symptoms Comment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.717 +0530	Log		Dizziness Handicap Inventory	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.732 +0530	Log		Static Line	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.732 +0530	Log		Dynamic Line	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.732 +0530	Log		Line Difference	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.748 +0530	Log		Chart Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.748 +0530	Log		Vestibular Dysfunction Interpretation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.763 +0530	Log		Benign Proxysmal Positional Vertigo	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.763 +0530	Log		Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.763 +0530	Log		Other Vestibular Assessment Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.763 +0530	Log		Splint Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.779 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.779 +0530	Log		Splint Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.796 +0530	Log		Splint Purpose	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.800 +0530	Log		Ability to Don/Doff	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.801 +0530	Log		Precautions Reviewed, Discontinue and Call Therapist If	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.801 +0530	Log		Splint Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.817 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.817 +0530	Log		Splint Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.817 +0530	Log		Splint Purpose	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.817 +0530	Log		Ability to Don/Doff	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.832 +0530	Log		Precautions Reviewed, Discontinue and Call Therapist If	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.832 +0530	Log		Therapy/Massage	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.864 +0530	Log		Modalities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.901 +0530	Log		Wheelchair Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.901 +0530	Log		Pressure Relief	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.917 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.917 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.932 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.932 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.932 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.948 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.948 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.948 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.964 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.964 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.979 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.979 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.979 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:24.997 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.001 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.001 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.001 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.017 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.017 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.017 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.048 +0530	Log		Functional Outcome	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.048 +0530	Log		Upper Extremity Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.063 +0530	Log		Casting Material	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.063 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.063 +0530	Log		Cast Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.063 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.079 +0530	Log		Reason for Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.079 +0530	Log		Patient Position When Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.079 +0530	Log		Region of Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.098 +0530	Log		Botox Treatment Prior to Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.101 +0530	Log		Date of Botox Treatment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.101 +0530	Log		Referral to Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.101 +0530	Log		Orthotics Company/Contact Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.101 +0530	Log		Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.101 +0530	Log		Describe Impaired Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.116 +0530	Log		Skin Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.116 +0530	Log		2 Point Discrimination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.116 +0530	Log		Sharp/Dull	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.116 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.132 +0530	Log		Degrees/Position of Elbow/Forearm at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.132 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.132 +0530	Log		Supination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.132 +0530	Log		Pronation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.148 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.148 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.148 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.148 +0530	Log		Radial Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.163 +0530	Log		Ulnar Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.163 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.163 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.163 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.179 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.179 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.179 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.179 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.179 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.197 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.201 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.201 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.201 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.201 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.201 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.218 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.221 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.226 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.234 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.240 +0530	Log		Thumb CMC Abduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.244 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.248 +0530	Log		Thumb CMC Adduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.252 +0530	Log		Thumb MP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.255 +0530	Log		Thumb MP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.255 +0530	Log		Thumb IP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.255 +0530	Log		Thumb IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.255 +0530	Log		Precautions Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.270 +0530	Log		Cast Handout Provided	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.270 +0530	Log		Additional Casting Site	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.270 +0530	Log		Nail Bed Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.287 +0530	Log		Capillary Refill	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.291 +0530	Log		Upper Extremity Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.297 +0530	Log		Upper Extremity Temperature	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.301 +0530	Log		Pulses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.301 +0530	Log		Upper Extremity Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.317 +0530	Log		Casting Material	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.317 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.317 +0530	Log		Cast Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.332 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.332 +0530	Log		Reason for Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.348 +0530	Log		Patient Position When Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.348 +0530	Log		Region of Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.348 +0530	Log		Botox Treatment Prior To Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.363 +0530	Log		Date of Botox Treatment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.363 +0530	Log		Referral to Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.363 +0530	Log		Orthotics Company/Contact Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.363 +0530	Log		Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.363 +0530	Log		Describe Impaired Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.379 +0530	Log		Skin Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.379 +0530	Log		2 Point Discrimination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.379 +0530	Log		Sharp/Dull	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.379 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.396 +0530	Log		Degrees/Position of Elbow/Forearm at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.399 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.401 +0530	Log		Supination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.401 +0530	Log		Pronation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.401 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.401 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.401 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.417 +0530	Log		Radial Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.417 +0530	Log		Ulnar Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.417 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.417 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.432 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.432 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.432 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.432 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.450 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.450 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.450 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.450 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.465 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.465 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.465 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.465 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.465 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.481 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.481 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.481 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.481 +0530	Log		Thumb CMC Abduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.498 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.501 +0530	Log		Thumb CMC Adduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.501 +0530	Log		Thumb MP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.501 +0530	Log		Thumb MP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.501 +0530	Log		Thumb IP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.516 +0530	Log		Thumb IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.516 +0530	Log		Precautions Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.516 +0530	Log		Cast Handout Provided	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.516 +0530	Log		Eating	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.548 +0530	Log		Grooming	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.563 +0530	Log		Upper Body Dressing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.579 +0530	Log		Lower Body Dressing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.601 +0530	Log		Bathing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.617 +0530	Log		Toileting and Transfers	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.648 +0530	Log		Cognition/Vision/Perception	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.664 +0530	Log		IADL	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.679 +0530	Log		Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.701 +0530	Log		Other Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.717 +0530	Log		Responsible Learner Present for Session	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.717 +0530	Log		Home Caregiver Name/Relationship	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.717 +0530	Log		*Barriers To Learning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.736 +0530	Log		Teaching Method	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.758 +0530	Log		Education Referral Made To	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.774 +0530	Log		Additional Learner(s) Present	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.796 +0530	Log		Peripheral Pulse Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.800 +0530	Log		Respirations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.800 +0530	Log		Systolic/ Diastolic  BP	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.800 +0530	Log		 /	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.800 +0530	Log		O2 Saturation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.817 +0530	Log		O2 Therapy	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.817 +0530	Log		O2 Flow Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.832 +0530	Log		FIO2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.832 +0530	Log		Additional Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.832 +0530	Log		Peripheral Pulse Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.848 +0530	Log		Respirations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.848 +0530	Log		Systolic/ Diastolic BP	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.848 +0530	Log		 /	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.848 +0530	Log		O2 Saturation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.848 +0530	Log		Additional Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.863 +0530	Log		Equipment Anticipated or Recommended	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.879 +0530	Log		Equipment Issued	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.900 +0530	Log		Additional Comments	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.901 +0530	Log		Cervical Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.901 +0530	Log		Thoracic Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.917 +0530	Log		Lumbar Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.932 +0530	Log		Mechanical Responses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.949 +0530	Log		Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.964 +0530	Log		Range of Motion (deg)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.964 +0530	Log		Left Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.964 +0530	Log		Right Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.964 +0530	Log		Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.980 +0530	Log		Range of Motion (deg)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:25.996 +0530	Log		Left Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.000 +0530	Log		Right Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.001 +0530	Log		Overall Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.001 +0530	Log		Document Details in Degrees	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.001 +0530	Log		Document Left UE (Description)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.001 +0530	Log		Document Right UE (Description)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.001 +0530	Log		Left Upper Extremity Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.017 +0530	Log		Left Strength (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.048 +0530	Log		Right Upper Extremity Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.048 +0530	Log		Right Strength (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.101 +0530	Log		Left Detailed Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.101 +0530	Log		Right Detailed Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.117 +0530	Log		Active	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.133 +0530	Log		Passive	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.164 +0530	Log		Active	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.179 +0530	Log		Passive	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.202 +0530	Log		Overall Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.202 +0530	Log		Document Left Hand Details in Degrees 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.220 +0530	Log		Document Right Hand Details in Degrees 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.223 +0530	Log		Left Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.227 +0530	Log		Left Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.333 +0530	Log		Right Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.333 +0530	Log		Right Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.433 +0530	Log		MP Flexion 0-60, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.433 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.433 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.451 +0530	Log		IP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.455 +0530	Log		IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.458 +0530	Log		TAM Thumb	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.461 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.465 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.468 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.472 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.476 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.480 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.484 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.487 +0530	Log		TAM Index Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.490 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.493 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.497 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.501 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.502 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.502 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.502 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.502 +0530	Log		TAM Long Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.519 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.522 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.526 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.535 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.539 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.542 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.546 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.549 +0530	Log		TAM Ring Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.549 +0530	Log		DIP Flexion 0-80, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.549 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.549 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.549 +0530	Log		MP Flexion 0-90	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.565 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.565 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.565 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.565 +0530	Log		TAM Little Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.580 +0530	Log		MP Flexion 0-60, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.580 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.580 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.580 +0530	Log		IP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.596 +0530	Log		IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.599 +0530	Log		TAM Thumb	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.602 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.602 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.602 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.602 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.602 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.618 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.618 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.618 +0530	Log		TAM Index Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.618 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.618 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.634 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.634 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.649 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.649 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.649 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.649 +0530	Log		TAM Long Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.665 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.665 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.665 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.665 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.665 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.681 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.681 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.681 +0530	Log		TAM Ring Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.681 +0530	Log		DIP Flexion 0-80, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.698 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.701 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.702 +0530	Log		MP Flexion 0-90	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.702 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.702 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.702 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.718 +0530	Log		TAM Little Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.718 +0530	Log		Upper Extremity Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.718 +0530	Log		Detailed Left Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.749 +0530	Log		Detailed Right Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.780 +0530	Log		Left Upper Extremity Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.780 +0530	Log		Right Upper Extremity Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.802 +0530	Log		Functional Impact of Impaired Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.802 +0530	Log		Upper Extremity Reflexes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.802 +0530	Log		Neurodynamic Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.818 +0530	Log		Previous Hand Dominance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.818 +0530	Log		Current Hand Dominance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.818 +0530	Log		Grip Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.833 +0530	Log		Key Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.849 +0530	Log		Palmar Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.865 +0530	Log		Grip Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.880 +0530	Log		Key Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.897 +0530	Log		Palmar Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.902 +0530	Log		Upper Extremity Functional Use Scale (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.902 +0530	Log		TMJ/Cervical Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.918 +0530	Log		Thoracic Spine Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.918 +0530	Log		Pelvis and SI Joint Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.934 +0530	Log		Lumbar Spine Special Test (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.949 +0530	Log		Shoulder Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.949 +0530	Log		Elbow, Hand and Wrist Special Test (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.965 +0530	Log		Hip Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.981 +0530	Log		Knee Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:26.998 +0530	Log		Q-Angle	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.001 +0530	Log		NWB Left Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.002 +0530	Log		NWB Right Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.002 +0530	Log		NWB Leg Length Beginning Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.002 +0530	Log		NWB Leg Length Ending Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.002 +0530	Log		Weight Bearing/Standing Left Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.018 +0530	Log		Weight Bearing/Standing Right Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.018 +0530	Log		Wt Bearing/Standing Leg Length Beginning Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.018 +0530	Log		Wt Bearing/Standing Leg Length Ending Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.018 +0530	Log		Foot and Ankle Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.033 +0530	Log		Foot and Ankle	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.033 +0530	Log		Vision Status	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.049 +0530	Log		Perception Status	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.049 +0530	Log		Glasses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.049 +0530	Log		Bifocals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.049 +0530	Log		Contacts	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.065 +0530	Log		Eye Dominance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.065 +0530	Log		Right Eye Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.065 +0530	Log		Left Eye Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.080 +0530	Log		Bilateral Visual Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.080 +0530	Log		Visual Reading Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.080 +0530	Log		Diopters Needed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.098 +0530	Log		Neglect	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.102 +0530	Log		Inattention	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.103 +0530	Log		Vision	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.103 +0530	Log		Self Care	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.118 +0530	Log		Meal Preparation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.118 +0530	Log		Home Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.118 +0530	Log		Money Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.134 +0530	Log		Community Activities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.134 +0530	Log		Other Reading	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.149 +0530	Log		Communication	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.149 +0530	Log		Leisure	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.149 +0530	Log		Residual Visual Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.165 +0530	Log		Current Low Vision Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.165 +0530	Log		External Palpation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.165 +0530	Log		External Perineal and Genital Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.181 +0530	Log		Pelvic Floor Voluntary Function	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.200 +0530	Log		Reflexes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.202 +0530	Log		Pelvic Floor Involuntary Function	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.202 +0530	Log		Pelvic Organ Prolapse	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.221 +0530	Log		Pain/Tenderness to Vaginal Palpation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.236 +0530	Log		Pain/Tenderness to Rectal Palpation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.247 +0530	Log		Manual Muscle Testing of Pelvic Floor Muscles (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.254 +0530	Log		Manual Muscle Testing of Anal Sphincter	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.258 +0530	Log		Impairments/Limitations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.258 +0530	Log		* Rehabilitation Potential	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.258 +0530	Log		Rehab Potential Fair Due To	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.273 +0530	Log		Rehab Potential Guarded Due To	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.273 +0530	Log		*Clinical Assessment Summary	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.273 +0530	Log		Treatment Recommendations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.273 +0530	Log		Frequency	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.294 +0530	Log		Duration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.301 +0530	Log		Planned Treatments	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.302 +0530	Log		Treatment Plan/Goals Established With Patient/Caregiver	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.318 +0530	Log		Reason Plan/Goals Not Established With Patient/Caregiver	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.318 +0530	Log		Short Term Goals Review	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.318 +0530	Log		Plan Review	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.318 +0530	Log		Short Term Goals Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.318 +0530	Log		Long Term Goals Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.334 +0530	Log		OT Orders	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.334 +0530	Log		Pain Present	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.334 +0530	Log		Progress Note Visit Count	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.349 +0530	Log		Therapeutic Activities/Mobility/Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.349 +0530	Log		Therapeutic Exercise	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.349 +0530	Log		Neuromuscular Reeducation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.349 +0530	Log		Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.365 +0530	Log		Manual Therapy/Massage	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.365 +0530	Log		Modalities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.365 +0530	Log		Taping/Bandaging/Strapping	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.365 +0530	Log		Wheelchair Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.381 +0530	Log		Prosthetics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.381 +0530	Log		Sensory Integration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.381 +0530	Log		Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.381 +0530	Log		Most Recent Hospitalization(s)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.397 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.400 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.403 +0530	Log		Evaluation, Low Complexity (97165) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.403 +0530	Log		Evaluation, Moderate Complexity (97166) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.403 +0530	Log		Evaluation, High Complexity (97167) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.403 +0530	Log		Re-Evaluation (97168) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.403 +0530	Log		Hot/Cold Pack (97010) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.418 +0530	Log		Unattended E-Stim (97014) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.418 +0530	Log		Vasopneumatic Devices (97016) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.418 +0530	Log		Paraffin (97018) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.418 +0530	Log		Whirlpool/Fluidotherapy (97022) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.434 +0530	Log		Biofeedback (90901) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.434 +0530	Log		Biofdbk Peri/Urethral/ Rectal (90911) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.450 +0530	Log		MMT, Extremity/Trunk  Exclude Hands (95831) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.450 +0530	Log		MMT, Hand (95832) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.450 +0530	Log		MMT, Body Excluding Hands (95833) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.450 +0530	Log		MMT, Total Body With Hands (95834) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.465 +0530	Log		ROM Extremity/Trunk Exclude Hands (95851) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.465 +0530	Log		ROM Measurement Hand (95852) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.465 +0530	Log		Group Therapy (97150) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.465 +0530	Log		Infrared (97026) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.481 +0530	Log		Units 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.481 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.481 +0530	Log		Attended E-Stim (97032) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.481 +0530	Log		Iontophoresis (97033) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.481 +0530	Log		 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.499 +0530	Log		Contrast Bath (97034) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.502 +0530	Log		Ultrasound (97035) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.502 +0530	Log		Therapeutic Exercise (97110) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.502 +0530	Log		Neuromuscular Reeducation (97112) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.502 +0530	Log		Massage (97124) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.502 +0530	Log		Manual Therapy (97140) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.518 +0530	Log		Therapeutic Activity (97530) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.518 +0530	Log		Cognitive Skills Development (97532) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.518 +0530	Log		Sensory Integrative Techniques (97533) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.518 +0530	Log		Self Care/Home Management (97535) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.534 +0530	Log		Community/Work Reintegration (97537) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.565 +0530	Log		Wheelchair Management (97542) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.565 +0530	Log		Work Hardening/Conditioning, Initial 2 Hours (97545) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.565 +0530	Log		Work Hardening/Conditioning, Each Addl Hour (97546) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.581 +0530	Log		Orthotic/Prosthetic Use/Check Out (97762) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.597 +0530	Log		Orthotic Management/Training (97760) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.602 +0530	Log		Prosthetic Management/Training (97761) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.602 +0530	Log		Assistive Technology Evaluation (97755) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.618 +0530	Log		Physical Performance Test (97750) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.618 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.618 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.618 +0530	Log		Assisting Personnel 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.634 +0530	Log		Personnel Assisting 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.649 +0530	Log		Total Timed Code Treatment Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.649 +0530	Log		Total Timed Code Treatment Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.665 +0530	Log		Total Untimed Code Treatment Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.665 +0530	Log		*Total Treatment Time	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.681 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.681 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.681 +0530	Log		Strapping Shoulder (29240)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.681 +0530	Log		Strapping Hand/Finger (29280)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.697 +0530	Log		Strapping Elbow/Wrist (29260)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.700 +0530	Log		Long Arm Cast (29065)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.702 +0530	Log		Hand/Lower Forearm Cast (29085)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.702 +0530	Log		Short Arm Cast (29075)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.702 +0530	Log		Finger Cast (29086)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.702 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.718 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.718 +0530	Log		OT Elbow Orthosis Left (L3702) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.718 +0530	Log		OT Elbow Orthosis Right (L3702) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.718 +0530	Log		OT WHFO Orthosis Left  (L3806) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.734 +0530	Log		OT WHFO Orthosis Right (L3806) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.734 +0530	Log		OT WHFO Orthosis Left Pre  Fab (L3807) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.749 +0530	Log		OT WHFO Orthosis Right Pre Fab (L3807) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.749 +0530	Log		OT WHFO Orthosis Left Static (L3808) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.749 +0530	Log		OT WHFO Orthosis Right  Static (L3808) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.765 +0530	Log		OT Wrist Hand Orthosis Left (L3906) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.765 +0530	Log		OT Wrist Hand Orthosis Right (L3906) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.765 +0530	Log		OT Hand Finger Orthosis Left (L3913) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.765 +0530	Log		OT Hand Finger Orthosis Right (L3913) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.781 +0530	Log		OT Hand Orthosis Left  (L3919) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.781 +0530	Log		OT Hand Orthosis Right (L3919) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.781 +0530	Log		OT Finger Orthosis Left (L3933) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.781 +0530	Log		OT Finger Orthosis Right  (L3933) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.799 +0530	Log		OT Finger Orthosis Lt (L3935) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.802 +0530	Log		OT Finger Orthosis Rt (L3935) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.802 +0530	Log		Mobile Arm Support Left (L3968)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.802 +0530	Log		Mobile Arm Support Right (L3968)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.802 +0530	Log		 Pain Location	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.834 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.834 +0530	Log		Quality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.849 +0530	Log		Time Pattern	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.849 +0530	Log		Onset	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.865 +0530	Log		Duration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.865 +0530	Log		Pain Negatively Impacts	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.865 +0530	Log		Question Ability to Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.865 +0530	Log		Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.881 +0530	Log		Unable to Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.881 +0530	Log		Numeric Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.881 +0530	Log		Acceptable Numeric Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.901 +0530	Log		FACES Pain Scale (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.902 +0530	Log		Acceptable FACES Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.902 +0530	Log		Numeric Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.902 +0530	Log		Acceptable Numeric Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.902 +0530	Log		FACES Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.918 +0530	Log		Acceptable FACES Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.918 +0530	Log		Patient's Response to Current Year	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.918 +0530	Log		Patient's Response to Current Month	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.918 +0530	Log		Patient's Response to Current Time Within One Hour	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.934 +0530	Log		Patient's Ability to Count Backward 20 to 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.934 +0530	Log		Patient's Ability to State the Months in Reverse Order	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.951 +0530	Log		Patient's Ability to Repeat the Memory Phrase	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.951 +0530	Log		Calculation for Orientation Memory Concentration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.951 +0530	Log		Score Indication	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.951 +0530	Log		Face (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.967 +0530	Log		Legs	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.967 +0530	Log		Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.967 +0530	Log		Cry	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.967 +0530	Log		Consolability	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.983 +0530	Log		FLACC Score 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.983 +0530	Log		Breathing Independent of Vocalization (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.983 +0530	Log		Negative Vocalization	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:27.983 +0530	Log		Facial Expressions	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.001 +0530	Log		Body Language	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.003 +0530	Log		Consolability	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.003 +0530	Log		PAINAD Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.003 +0530	Log		Alleviating Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.018 +0530	Log		Aggravating Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.018 +0530	Log		Associated Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.018 +0530	Log		Interventions Implemented	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.034 +0530	Log		Pain Notification	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.034 +0530	Log		Preferred Sleeping Position	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.050 +0530	Log		Effect of Movement on Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.050 +0530	Log		24 Hour Behavior	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.065 +0530	Log		Additional Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.103 +0530	Log		Patient/Caregiver Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.103 +0530	Log		*Patient/Caregiver Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.103 +0530	Log		Long Term Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.119 +0530	Log		Reassess Basic ADL	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.119 +0530	Log		Reassess Instrumental ADL 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.119 +0530	Log		Reassess Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.119 +0530	Log		Reassess Vision/ Perception/Cognition	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.212 +0530	Log		Limiting Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.217 +0530	Log		Eating Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.219 +0530	Log		Upper Body Dressing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.219 +0530	Log		Upper Body Dressing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.234 +0530	Log		Lower Body Dressing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.250 +0530	Log		Lower Body Dressing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.250 +0530	Log		Grooming Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.266 +0530	Log		Grooming Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.266 +0530	Log		Bathing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.281 +0530	Log		Bathing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.281 +0530	Log		Toileting Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.281 +0530	Log		Toileting Equipment 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.301 +0530	Log		Toilet Transfer Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.335 +0530	Log		Child Rearing 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.350 +0530	Log		Other IADL Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.350 +0530	Log		Sitting Surface Evaluated Upon	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.350 +0530	Log		Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.366 +0530	Log		Static Sitting Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.382 +0530	Log		Dynamic Sitting, Outside Base of Support	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.382 +0530	Log		Reactions	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.382 +0530	Log		Functional Impact	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.419 +0530	Log		Therapeutic Exercise	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.496 +0530	Log		Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.503 +0530	Log		Symptoms Occur	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.503 +0530	Log		Vestibular Symptoms Comment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.519 +0530	Log		Dizziness Handicap Inventory	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.535 +0530	Log		Static Line	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.535 +0530	Log		Dynamic Line	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.550 +0530	Log		Line Difference	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.550 +0530	Log		Chart Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.566 +0530	Log		Vestibular Dysfunction Interpretation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.566 +0530	Log		Benign Proxysmal Positional Vertigo	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.566 +0530	Log		Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.582 +0530	Log		Other Vestibular Assessment Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.582 +0530	Log		Splint Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.600 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.603 +0530	Log		Splint Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.603 +0530	Log		Splint Purpose	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.603 +0530	Log		Ability to Don/Doff	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.619 +0530	Log		Precautions Reviewed, Discontinue and Call Therapist If	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.619 +0530	Log		Splint Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.635 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.650 +0530	Log		Splint Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.650 +0530	Log		Splint Purpose	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.650 +0530	Log		Ability to Don/Doff	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.666 +0530	Log		Precautions Reviewed, Discontinue and Call Therapist If	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.666 +0530	Log		Therapy/Massage	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.699 +0530	Log		Modalities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.720 +0530	Log		Wheelchair Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.735 +0530	Log		Pressure Relief	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.751 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.751 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.751 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.767 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.767 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.782 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.782 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.782 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.782 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.802 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.804 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.804 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.804 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.820 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.820 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.820 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.835 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.851 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.851 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.851 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.882 +0530	Log		Functional Outcome	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.882 +0530	Log		Upper Extremity Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.882 +0530	Log		Casting Material	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.902 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.904 +0530	Log		Cast Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.904 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.904 +0530	Log		Reason for Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.919 +0530	Log		Patient Position When Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.919 +0530	Log		Region of Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.919 +0530	Log		Botox Treatment Prior to Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.919 +0530	Log		Date of Botox Treatment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.935 +0530	Log		Referral to Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.935 +0530	Log		Orthotics Company/Contact Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.954 +0530	Log		Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.954 +0530	Log		Describe Impaired Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.954 +0530	Log		Skin Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.954 +0530	Log		2 Point Discrimination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.954 +0530	Log		Sharp/Dull	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.969 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.969 +0530	Log		Degrees/Position of Elbow/Forearm at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.969 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.969 +0530	Log		Supination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.985 +0530	Log		Pronation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.985 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.985 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:28.985 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.004 +0530	Log		Radial Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.004 +0530	Log		Ulnar Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.004 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.004 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.004 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.019 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.019 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.019 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.019 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.035 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.051 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.051 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.051 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.051 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.066 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.066 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.066 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.082 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.082 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.082 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.082 +0530	Log		Thumb CMC Abduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.098 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.102 +0530	Log		Thumb CMC Adduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.104 +0530	Log		Thumb MP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.104 +0530	Log		Thumb MP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.104 +0530	Log		Thumb IP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.104 +0530	Log		Thumb IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.120 +0530	Log		Precautions Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.120 +0530	Log		Cast Handout Provided	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.120 +0530	Log		Additional Casting Site	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.120 +0530	Log		Nail Bed Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.135 +0530	Log		Capillary Refill	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.151 +0530	Log		Upper Extremity Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.151 +0530	Log		Upper Extremity Temperature	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.167 +0530	Log		Pulses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.167 +0530	Log		Upper Extremity Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.182 +0530	Log		Casting Material	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.182 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.182 +0530	Log		Cast Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.200 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.205 +0530	Log		Reason for Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.209 +0530	Log		Patient Position When Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.214 +0530	Log		Region of Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.219 +0530	Log		Botox Treatment Prior To Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.219 +0530	Log		Date of Botox Treatment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.219 +0530	Log		Referral to Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.219 +0530	Log		Orthotics Company/Contact Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.219 +0530	Log		Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.235 +0530	Log		Describe Impaired Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.251 +0530	Log		Skin Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.251 +0530	Log		2 Point Discrimination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.251 +0530	Log		Sharp/Dull	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.251 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.266 +0530	Log		Degrees/Position of Elbow/Forearm at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.266 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.266 +0530	Log		Supination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.266 +0530	Log		Pronation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.282 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.282 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.282 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.282 +0530	Log		Radial Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.300 +0530	Log		Ulnar Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.304 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.305 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.305 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.305 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.320 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.320 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.320 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.336 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.336 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.336 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.336 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.352 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.352 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.352 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.352 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.367 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.367 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.367 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.367 +0530	Log		Thumb CMC Abduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.383 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.383 +0530	Log		Thumb CMC Adduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.383 +0530	Log		Thumb MP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.383 +0530	Log		Thumb MP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.398 +0530	Log		Thumb IP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.402 +0530	Log		Thumb IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.404 +0530	Log		Precautions Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.404 +0530	Log		Cast Handout Provided	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.404 +0530	Log		Eating	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.436 +0530	Log		Grooming	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.502 +0530	Log		Upper Body Dressing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.530 +0530	Log		Lower Body Dressing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.550 +0530	Log		Bathing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.582 +0530	Log		Toileting and Transfers	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.621 +0530	Log		Cognition/Vision/Perception	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.636 +0530	Log		IADL	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.668 +0530	Log		Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.683 +0530	Log		Other Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.699 +0530	Log		Responsible Learner Present for Session	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.703 +0530	Log		Home Caregiver Name/Relationship	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.705 +0530	Log		*Barriers To Learning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.705 +0530	Log		Teaching Method	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.721 +0530	Log		Education Referral Made To	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.752 +0530	Log		Additional Learner(s) Present	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.768 +0530	Log		Peripheral Pulse Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.768 +0530	Log		Respirations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.768 +0530	Log		Systolic/ Diastolic  BP	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.783 +0530	Log		 /	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.783 +0530	Log		O2 Saturation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.783 +0530	Log		O2 Therapy	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.805 +0530	Log		O2 Flow Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.805 +0530	Log		FIO2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.805 +0530	Log		Additional Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.805 +0530	Log		Peripheral Pulse Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.821 +0530	Log		Respirations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.821 +0530	Log		Systolic/ Diastolic BP	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.821 +0530	Log		 /	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.821 +0530	Log		O2 Saturation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.852 +0530	Log		Additional Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.852 +0530	Log		Equipment Anticipated or Recommended	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.868 +0530	Log		Equipment Issued	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.884 +0530	Log		Additional Comments	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.884 +0530	Log		Cervical Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.905 +0530	Log		Thoracic Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.921 +0530	Log		Lumbar Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.937 +0530	Log		Mechanical Responses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.961 +0530	Log		Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.976 +0530	Log		Range of Motion (deg)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.976 +0530	Log		Left Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.976 +0530	Log		Right Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:29.994 +0530	Log		Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.005 +0530	Log		Range of Motion (deg)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.005 +0530	Log		Left Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.005 +0530	Log		Right Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.005 +0530	Log		Overall Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.021 +0530	Log		Document Details in Degrees	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.021 +0530	Log		Document Left UE (Description)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.021 +0530	Log		Document Right UE (Description)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.021 +0530	Log		Left Upper Extremity Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.021 +0530	Log		Left Strength (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.068 +0530	Log		Right Upper Extremity Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.068 +0530	Log		Right Strength (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.106 +0530	Log		Left Detailed Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.121 +0530	Log		Right Detailed Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.121 +0530	Log		Active	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.153 +0530	Log		Passive	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.168 +0530	Log		Active	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.202 +0530	Log		Passive	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.225 +0530	Log		Overall Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.242 +0530	Log		Document Left Hand Details in Degrees 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.245 +0530	Log		Document Right Hand Details in Degrees 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.249 +0530	Log		Left Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.252 +0530	Log		Left Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.337 +0530	Log		Right Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.353 +0530	Log		Right Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.438 +0530	Log		MP Flexion 0-60, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.456 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.459 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.463 +0530	Log		IP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.466 +0530	Log		IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.471 +0530	Log		TAM Thumb	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.474 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.477 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.480 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.480 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.480 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.480 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.496 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.500 +0530	Log		TAM Index Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.503 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.506 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.507 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.507 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.507 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.507 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.522 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.522 +0530	Log		TAM Long Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.522 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.522 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.522 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.553 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.553 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.553 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.553 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.569 +0530	Log		TAM Ring Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.569 +0530	Log		DIP Flexion 0-80, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.569 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.569 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.569 +0530	Log		MP Flexion 0-90	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.585 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.585 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.600 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.604 +0530	Log		TAM Little Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.606 +0530	Log		MP Flexion 0-60, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.606 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.606 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.606 +0530	Log		IP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.606 +0530	Log		IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.623 +0530	Log		TAM Thumb	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.623 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.623 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.623 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.638 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.638 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.638 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.638 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.654 +0530	Log		TAM Index Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.654 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.654 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.654 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.654 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.669 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.669 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.669 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.685 +0530	Log		TAM Long Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.685 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.707 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.707 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.707 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.723 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.723 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.723 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.723 +0530	Log		TAM Ring Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.738 +0530	Log		DIP Flexion 0-80, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.754 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.754 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.754 +0530	Log		MP Flexion 0-90	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.754 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.770 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.770 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.770 +0530	Log		TAM Little Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.770 +0530	Log		Upper Extremity Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.785 +0530	Log		Detailed Left Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.806 +0530	Log		Detailed Right Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.822 +0530	Log		Left Upper Extremity Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.838 +0530	Log		Right Upper Extremity Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.854 +0530	Log		Functional Impact of Impaired Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.869 +0530	Log		Upper Extremity Reflexes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.869 +0530	Log		Neurodynamic Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.869 +0530	Log		Previous Hand Dominance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.885 +0530	Log		Current Hand Dominance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.885 +0530	Log		Grip Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.904 +0530	Log		Key Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.907 +0530	Log		Palmar Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.923 +0530	Log		Grip Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.938 +0530	Log		Key Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.963 +0530	Log		Palmar Pinch	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.979 +0530	Log		Upper Extremity Functional Use Scale (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.979 +0530	Log		TMJ/Cervical Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:30.995 +0530	Log		Thoracic Spine Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.002 +0530	Log		Pelvis and SI Joint Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.007 +0530	Log		Lumbar Spine Special Test (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.007 +0530	Log		Shoulder Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.023 +0530	Log		Elbow, Hand and Wrist Special Test (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.039 +0530	Log		Hip Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.054 +0530	Log		Knee Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.070 +0530	Log		Q-Angle	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.070 +0530	Log		NWB Left Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.070 +0530	Log		NWB Right Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.070 +0530	Log		NWB Leg Length Beginning Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.085 +0530	Log		NWB Leg Length Ending Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.085 +0530	Log		Weight Bearing/Standing Left Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.085 +0530	Log		Weight Bearing/Standing Right Leg Length	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.085 +0530	Log		Wt Bearing/Standing Leg Length Beginning Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.102 +0530	Log		Wt Bearing/Standing Leg Length Ending Landmark	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.106 +0530	Log		Foot and Ankle Special Tests (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.107 +0530	Log		Foot and Ankle	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.107 +0530	Log		Vision Status	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.107 +0530	Log		Perception Status	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.123 +0530	Log		Glasses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.123 +0530	Log		Bifocals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.123 +0530	Log		Contacts	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.123 +0530	Log		Eye Dominance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.138 +0530	Log		Right Eye Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.154 +0530	Log		Left Eye Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.154 +0530	Log		Bilateral Visual Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.170 +0530	Log		Visual Reading Acuity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.170 +0530	Log		Diopters Needed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.170 +0530	Log		Neglect	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.170 +0530	Log		Inattention	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.185 +0530	Log		Vision	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.185 +0530	Log		Self Care	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.202 +0530	Log		Meal Preparation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.207 +0530	Log		Home Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.211 +0530	Log		Money Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.216 +0530	Log		Community Activities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.220 +0530	Log		Other Reading	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.226 +0530	Log		Communication	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.245 +0530	Log		Leisure	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.249 +0530	Log		Residual Visual Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.252 +0530	Log		Current Low Vision Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.253 +0530	Log		External Palpation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.253 +0530	Log		External Perineal and Genital Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.269 +0530	Log		Pelvic Floor Voluntary Function	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.284 +0530	Log		Reflexes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.284 +0530	Log		Pelvic Floor Involuntary Function	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.284 +0530	Log		Pelvic Organ Prolapse	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.305 +0530	Log		Pain/Tenderness to Vaginal Palpation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.307 +0530	Log		Pain/Tenderness to Rectal Palpation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.307 +0530	Log		Manual Muscle Testing of Pelvic Floor Muscles (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.323 +0530	Log		Manual Muscle Testing of Anal Sphincter	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.323 +0530	Log		Impairments/Limitations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.338 +0530	Log		* Rehabilitation Potential	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.354 +0530	Log		Rehab Potential Fair Due To	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.354 +0530	Log		Rehab Potential Guarded Due To	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.354 +0530	Log		*Clinical Assessment Summary	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.370 +0530	Log		Treatment Recommendations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.370 +0530	Log		Frequency	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.370 +0530	Log		Duration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.385 +0530	Log		Planned Treatments	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.401 +0530	Log		Treatment Plan/Goals Established With Patient/Caregiver	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.404 +0530	Log		Reason Plan/Goals Not Established With Patient/Caregiver	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.407 +0530	Log		Short Term Goals Review	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.407 +0530	Log		Plan Review	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.407 +0530	Log		Short Term Goals Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.407 +0530	Log		Long Term Goals Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.407 +0530	Log		OT Orders	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.423 +0530	Log		Pain Present	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.423 +0530	Log		Progress Note Visit Count	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.423 +0530	Log		Therapeutic Activities/Mobility/Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.423 +0530	Log		Therapeutic Exercise	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.423 +0530	Log		Neuromuscular Reeducation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.458 +0530	Log		Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.462 +0530	Log		Manual Therapy/Massage	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.464 +0530	Log		Modalities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.464 +0530	Log		Taping/Bandaging/Strapping	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.464 +0530	Log		Wheelchair Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.464 +0530	Log		Prosthetics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.464 +0530	Log		Sensory Integration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.479 +0530	Log		Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.479 +0530	Log		Most Recent Hospitalization(s)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.479 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.479 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.496 +0530	Log		Evaluation, Low Complexity (97165) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.500 +0530	Log		Evaluation, Moderate Complexity (97166) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.503 +0530	Log		Evaluation, High Complexity (97167) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.507 +0530	Log		Re-Evaluation (97168) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.508 +0530	Log		Hot/Cold Pack (97010) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.508 +0530	Log		Unattended E-Stim (97014) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.508 +0530	Log		Vasopneumatic Devices (97016) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.508 +0530	Log		Paraffin (97018) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.523 +0530	Log		Whirlpool/Fluidotherapy (97022) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.523 +0530	Log		Biofeedback (90901) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.523 +0530	Log		Biofdbk Peri/Urethral/ Rectal (90911) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.523 +0530	Log		MMT, Extremity/Trunk  Exclude Hands (95831) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.523 +0530	Log		MMT, Hand (95832) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.555 +0530	Log		MMT, Body Excluding Hands (95833) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.555 +0530	Log		MMT, Total Body With Hands (95834) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.555 +0530	Log		ROM Extremity/Trunk Exclude Hands (95851) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.555 +0530	Log		ROM Measurement Hand (95852) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.570 +0530	Log		Group Therapy (97150) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.570 +0530	Log		Infrared (97026) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.570 +0530	Log		Units 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.570 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.586 +0530	Log		Attended E-Stim (97032) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.586 +0530	Log		Iontophoresis (97033) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.586 +0530	Log		 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.586 +0530	Log		Contrast Bath (97034) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.586 +0530	Log		Ultrasound (97035) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.604 +0530	Log		Therapeutic Exercise (97110) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.607 +0530	Log		Neuromuscular Reeducation (97112) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.608 +0530	Log		Massage (97124) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.608 +0530	Log		Manual Therapy (97140) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.608 +0530	Log		Therapeutic Activity (97530) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.608 +0530	Log		Cognitive Skills Development (97532) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.624 +0530	Log		Sensory Integrative Techniques (97533) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.624 +0530	Log		Self Care/Home Management (97535) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.624 +0530	Log		Community/Work Reintegration (97537) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.624 +0530	Log		Wheelchair Management (97542) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.624 +0530	Log		Work Hardening/Conditioning, Initial 2 Hours (97545) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.655 +0530	Log		Work Hardening/Conditioning, Each Addl Hour (97546) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.655 +0530	Log		Orthotic/Prosthetic Use/Check Out (97762) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.655 +0530	Log		Orthotic Management/Training (97760) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.655 +0530	Log		Prosthetic Management/Training (97761) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.670 +0530	Log		Assistive Technology Evaluation (97755) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.670 +0530	Log		Physical Performance Test (97750) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.670 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.670 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.686 +0530	Log		Assisting Personnel 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.686 +0530	Log		Personnel Assisting 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.686 +0530	Log		Total Timed Code Treatment Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.686 +0530	Log		Total Timed Code Treatment Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.686 +0530	Log		Total Untimed Code Treatment Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.704 +0530	Log		*Total Treatment Time	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.708 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.708 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.708 +0530	Log		Strapping Shoulder (29240)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.723 +0530	Log		Strapping Hand/Finger (29280)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.723 +0530	Log		Strapping Elbow/Wrist (29260)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.723 +0530	Log		Long Arm Cast (29065)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.723 +0530	Log		Hand/Lower Forearm Cast (29085)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.723 +0530	Log		Short Arm Cast (29075)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.755 +0530	Log		Finger Cast (29086)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.755 +0530	Log		Units	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.755 +0530	Log		Minutes	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.770 +0530	Log		OT Elbow Orthosis Left (L3702) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.770 +0530	Log		OT Elbow Orthosis Right (L3702) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.770 +0530	Log		OT WHFO Orthosis Left  (L3806) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.770 +0530	Log		OT WHFO Orthosis Right (L3806) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.770 +0530	Log		OT WHFO Orthosis Left Pre  Fab (L3807) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.786 +0530	Log		OT WHFO Orthosis Right Pre Fab (L3807) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.786 +0530	Log		OT WHFO Orthosis Left Static (L3808) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.786 +0530	Log		OT WHFO Orthosis Right  Static (L3808) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.786 +0530	Log		OT Wrist Hand Orthosis Left (L3906) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.802 +0530	Log		OT Wrist Hand Orthosis Right (L3906) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.806 +0530	Log		OT Hand Finger Orthosis Left (L3913) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.807 +0530	Log		OT Hand Finger Orthosis Right (L3913) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.807 +0530	Log		OT Hand Orthosis Left  (L3919) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.807 +0530	Log		OT Hand Orthosis Right (L3919) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.807 +0530	Log		OT Finger Orthosis Left (L3933) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.807 +0530	Log		OT Finger Orthosis Right  (L3933) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.823 +0530	Log		OT Finger Orthosis Lt (L3935) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.823 +0530	Log		OT Finger Orthosis Rt (L3935) (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.823 +0530	Log		Mobile Arm Support Left (L3968)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.823 +0530	Log		Mobile Arm Support Right (L3968)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.839 +0530	Log		 Pain Location	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.870 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.886 +0530	Log		Quality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.886 +0530	Log		Time Pattern	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.886 +0530	Log		Onset	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.902 +0530	Log		Duration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.905 +0530	Log		Pain Negatively Impacts	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.907 +0530	Log		Question Ability to Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.907 +0530	Log		Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.907 +0530	Log		Unable to Self Report Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.907 +0530	Log		Numeric Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.923 +0530	Log		Acceptable Numeric Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.923 +0530	Log		FACES Pain Scale (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.923 +0530	Log		Acceptable FACES Pain Scale	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.939 +0530	Log		Numeric Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.961 +0530	Log		Acceptable Numeric Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.964 +0530	Log		FACES Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.965 +0530	Log		Acceptable FACES Pain Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.965 +0530	Log		Patient's Response to Current Year	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.965 +0530	Log		Patient's Response to Current Month	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.965 +0530	Log		Patient's Response to Current Time Within One Hour	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.980 +0530	Log		Patient's Ability to Count Backward 20 to 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.980 +0530	Log		Patient's Ability to State the Months in Reverse Order	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.980 +0530	Log		Patient's Ability to Repeat the Memory Phrase	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.980 +0530	Log		Calculation for Orientation Memory Concentration	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:31.998 +0530	Log		Score Indication	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.002 +0530	Log		Face (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.006 +0530	Log		Legs	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.007 +0530	Log		Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.007 +0530	Log		Cry	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.007 +0530	Log		Consolability	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.007 +0530	Log		FLACC Score 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.023 +0530	Log		Breathing Independent of Vocalization (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.023 +0530	Log		Negative Vocalization	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.023 +0530	Log		Facial Expressions	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.023 +0530	Log		Body Language	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.039 +0530	Log		Consolability	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.054 +0530	Log		PAINAD Score	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.054 +0530	Log		Alleviating Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.070 +0530	Log		Aggravating Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.070 +0530	Log		Associated Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.070 +0530	Log		Interventions Implemented	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.086 +0530	Log		Pain Notification	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.086 +0530	Log		Preferred Sleeping Position	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.086 +0530	Log		Effect of Movement on Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.105 +0530	Log		24 Hour Behavior	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.108 +0530	Log		Additional Pain	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.139 +0530	Log		Patient/Caregiver Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.155 +0530	Log		*Patient/Caregiver Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.155 +0530	Log		Long Term Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.170 +0530	Log		Reassess Basic ADL	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.170 +0530	Log		Reassess Instrumental ADL 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.170 +0530	Log		Reassess Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.170 +0530	Log		Reassess Vision/ Perception/Cognition	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.253 +0530	Log		Limiting Factors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.253 +0530	Log		Eating Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.253 +0530	Log		Upper Body Dressing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.269 +0530	Log		Upper Body Dressing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.269 +0530	Log		Lower Body Dressing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.269 +0530	Log		Lower Body Dressing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.285 +0530	Log		Grooming Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.285 +0530	Log		Grooming Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.303 +0530	Log		Bathing Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.308 +0530	Log		Bathing Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.308 +0530	Log		Toileting Descriptors	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.308 +0530	Log		Toileting Equipment 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.324 +0530	Log		Toilet Transfer Equipment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.371 +0530	Log		Child Rearing 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.371 +0530	Log		Other IADL Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.371 +0530	Log		Sitting Surface Evaluated Upon	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.371 +0530	Log		Activity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.386 +0530	Log		Static Sitting Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.386 +0530	Log		Dynamic Sitting, Outside Base of Support	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.404 +0530	Log		Reactions	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.408 +0530	Log		Functional Impact	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.439 +0530	Log		Therapeutic Exercise	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.508 +0530	Log		Symptoms	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.532 +0530	Log		Symptoms Occur	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.550 +0530	Log		Vestibular Symptoms Comment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.550 +0530	Log		Dizziness Handicap Inventory	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.566 +0530	Log		Static Line	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.566 +0530	Log		Dynamic Line	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.582 +0530	Log		Line Difference	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.582 +0530	Log		Chart Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.599 +0530	Log		Vestibular Dysfunction Interpretation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.604 +0530	Log		Benign Proxysmal Positional Vertigo	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.608 +0530	Log		Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.608 +0530	Log		Other Vestibular Assessment Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.608 +0530	Log		Splint Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.608 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.624 +0530	Log		Splint Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.624 +0530	Log		Splint Purpose	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.624 +0530	Log		Ability to Don/Doff	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.639 +0530	Log		Precautions Reviewed, Discontinue and Call Therapist If	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.655 +0530	Log		Splint Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.671 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.671 +0530	Log		Splint Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.671 +0530	Log		Splint Purpose	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.671 +0530	Log		Ability to Don/Doff	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.686 +0530	Log		Precautions Reviewed, Discontinue and Call Therapist If	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.686 +0530	Log		Therapy/Massage	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.724 +0530	Log		Modalities	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.755 +0530	Log		Wheelchair Management	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.771 +0530	Log		Pressure Relief	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.786 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.786 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.786 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.786 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.804 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.808 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.808 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.808 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.808 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.824 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.824 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.824 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.840 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.855 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.855 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.871 +0530	Log		Residual Limb Shape	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.871 +0530	Log		Residual Limb Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.871 +0530	Log		Prosthesis Details	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.871 +0530	Log		Donning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.886 +0530	Log		Doffing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.909 +0530	Log		Functional Outcome	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.909 +0530	Log		Upper Extremity Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.924 +0530	Log		Casting Material	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.924 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.924 +0530	Log		Cast Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.940 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.965 +0530	Log		Reason for Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.967 +0530	Log		Patient Position When Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.967 +0530	Log		Region of Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.967 +0530	Log		Botox Treatment Prior to Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.967 +0530	Log		Date of Botox Treatment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.983 +0530	Log		Referral to Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.983 +0530	Log		Orthotics Company/Contact Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.983 +0530	Log		Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:32.983 +0530	Log		Describe Impaired Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.000 +0530	Log		Skin Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.004 +0530	Log		2 Point Discrimination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.007 +0530	Log		Sharp/Dull	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.009 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.009 +0530	Log		Degrees/Position of Elbow/Forearm at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.009 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.009 +0530	Log		Supination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.024 +0530	Log		Pronation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.024 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.024 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.024 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.040 +0530	Log		Radial Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.056 +0530	Log		Ulnar Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.056 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.071 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.071 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.071 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.071 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.071 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.087 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.087 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.087 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.087 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.103 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.106 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.109 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.109 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.109 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.109 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.109 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.125 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.140 +0530	Log		Thumb CMC Abduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.140 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.156 +0530	Log		Thumb CMC Adduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.156 +0530	Log		Thumb MP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.156 +0530	Log		Thumb MP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.156 +0530	Log		Thumb IP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.156 +0530	Log		Thumb IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.172 +0530	Log		Precautions Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.172 +0530	Log		Cast Handout Provided	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.172 +0530	Log		Additional Casting Site	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.172 +0530	Log		Nail Bed Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.187 +0530	Log		Capillary Refill	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.187 +0530	Log		Upper Extremity Description	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.187 +0530	Log		Upper Extremity Temperature	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.205 +0530	Log		Pulses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.217 +0530	Log		Upper Extremity Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.220 +0530	Log		Casting Material	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.225 +0530	Log		Laterality	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.250 +0530	Log		Cast Type	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.255 +0530	Log		Wearing Schedule	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.257 +0530	Log		Reason for Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.257 +0530	Log		Patient Position When Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.257 +0530	Log		Region of Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.273 +0530	Log		Botox Treatment Prior To Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.273 +0530	Log		Date of Botox Treatment	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.273 +0530	Log		Referral to Orthotics	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.273 +0530	Log		Orthotics Company/Contact Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.273 +0530	Log		Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.289 +0530	Log		Describe Impaired Skin Integrity	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.289 +0530	Log		Skin Sensation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.289 +0530	Log		2 Point Discrimination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.289 +0530	Log		Sharp/Dull	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.289 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.308 +0530	Log		Degrees/Position of Elbow/Forearm at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.309 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.309 +0530	Log		Supination	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.309 +0530	Log		Pronation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.309 +0530	Log		Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.325 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.341 +0530	Log		Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.341 +0530	Log		Radial Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.356 +0530	Log		Ulnar Deviation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.356 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.356 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.356 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.356 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.372 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.372 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.372 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.372 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.388 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.388 +0530	Log		MP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.388 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.388 +0530	Log		MP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.388 +0530	Log		MP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.406 +0530	Log		MP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.409 +0530	Log		IP Digit 1	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.409 +0530	Log		IP Digit 2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.409 +0530	Log		IP Digit 3	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.409 +0530	Log		IP Digit 4	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.409 +0530	Log		Thumb CMC Abduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.425 +0530	Log		Degrees/Position of Wrist at Casting	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.441 +0530	Log		Thumb CMC Adduction	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.441 +0530	Log		Thumb MP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.458 +0530	Log		Thumb MP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.461 +0530	Log		Thumb IP Flexion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.465 +0530	Log		Thumb IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.469 +0530	Log		Precautions Reviewed	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.469 +0530	Log		Cast Handout Provided	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.469 +0530	Log		Eating	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.484 +0530	Log		Grooming	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.509 +0530	Log		Upper Body Dressing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.541 +0530	Log		Lower Body Dressing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.572 +0530	Log		Bathing	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.588 +0530	Log		Toileting and Transfers	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.609 +0530	Log		Cognition/Vision/Perception	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.625 +0530	Log		IADL	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.656 +0530	Log		Balance	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.672 +0530	Log		Other Goals	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.688 +0530	Log		Responsible Learner Present for Session	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.688 +0530	Log		Home Caregiver Name/Relationship	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.688 +0530	Log		*Barriers To Learning	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.708 +0530	Log		Teaching Method	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.710 +0530	Log		Education Referral Made To	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.741 +0530	Log		Additional Learner(s) Present	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.757 +0530	Log		Peripheral Pulse Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.757 +0530	Log		Respirations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.772 +0530	Log		Systolic/ Diastolic  BP	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.772 +0530	Log		 /	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.772 +0530	Log		O2 Saturation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.772 +0530	Log		O2 Therapy	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.788 +0530	Log		O2 Flow Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.788 +0530	Log		FIO2	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.804 +0530	Log		Additional Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.807 +0530	Log		Peripheral Pulse Rate	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.810 +0530	Log		Respirations	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.810 +0530	Log		Systolic/ Diastolic BP	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.810 +0530	Log		 /	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.810 +0530	Log		O2 Saturation	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.810 +0530	Log		Additional Information	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.826 +0530	Log		Equipment Anticipated or Recommended	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.857 +0530	Log		Equipment Issued	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.872 +0530	Log		Additional Comments	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.872 +0530	Log		Cervical Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.888 +0530	Log		Thoracic Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.907 +0530	Log		Lumbar Spine	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.910 +0530	Log		Mechanical Responses	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.926 +0530	Log		Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.961 +0530	Log		Range of Motion (deg)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.965 +0530	Log		Left Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.970 +0530	Log		Right Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.970 +0530	Log		Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.985 +0530	Log		Range of Motion (deg)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.985 +0530	Log		Left Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.985 +0530	Log		Right Sidebend	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:33.985 +0530	Log		Overall Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.004 +0530	Log		Document Details in Degrees	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.007 +0530	Log		Document Left UE (Description)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.010 +0530	Log		Document Right UE (Description)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.010 +0530	Log		Left Upper Extremity Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.010 +0530	Log		Left Strength (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.057 +0530	Log		Right Upper Extremity Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.057 +0530	Log		Right Strength (ref)	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.089 +0530	Log		Left Detailed Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.110 +0530	Log		Right Detailed Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.110 +0530	Log		Active	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.142 +0530	Log		Passive	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.173 +0530	Log		Active	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.188 +0530	Log		Passive	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.223 +0530	Log		Overall Range of Motion	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.227 +0530	Log		Document Left Hand Details in Degrees 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.252 +0530	Log		Document Right Hand Details in Degrees 	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.253 +0530	Log		Left Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.253 +0530	Log		Left Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.357 +0530	Log		Right Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.357 +0530	Log		Right Hand Strength	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.465 +0530	Log		MP Flexion 0-60, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.469 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.472 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.476 +0530	Log		IP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.479 +0530	Log		IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.483 +0530	Log		TAM Thumb	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.486 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.487 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.487 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.487 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.487 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.504 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.507 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.510 +0530	Log		TAM Index Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.510 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.510 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.510 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.510 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.526 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.541 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.557 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.557 +0530	Log		TAM Long Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.557 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.557 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.557 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.573 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.573 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.573 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.573 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.588 +0530	Log		TAM Ring Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.588 +0530	Log		DIP Flexion 0-80, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.588 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.588 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.604 +0530	Log		MP Flexion 0-90	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.608 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.611 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.611 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.611 +0530	Log		TAM Little Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.611 +0530	Log		MP Flexion 0-60, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.611 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.626 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.642 +0530	Log		IP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.657 +0530	Log		IP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.657 +0530	Log		TAM Thumb	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.657 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.657 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.673 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.673 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.673 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.689 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.689 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.689 +0530	Log		TAM Index Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.689 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.689 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.706 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.710 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.710 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.710 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.710 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.710 +0530	Log		TAM Long Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.727 +0530	Log		MP Flexion 0-90, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.731 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.734 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.737 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.741 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.744 +0530	Log		DIP Flexion 0-80	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.748 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.751 +0530	Log		TAM Ring Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.755 +0530	Log		DIP Flexion 0-80, AROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.758 +0530	Log		PROM	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.758 +0530	Log		DIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.758 +0530	Log		MP Flexion 0-90	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.758 +0530	Log		MP Extension 0-45	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.758 +0530	Log		PIP Flexion 0-100	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.774 +0530	Log		PIP Extension	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.774 +0530	Log		TAM Little Finger	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.774 +0530	Log		Upper Extremity Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:34.774 +0530	Log		Detailed Left Tone	37	on_read_dio	Read_dio.script
+2018-05-03 20:57:35.530 +0530	EndTestCase		(Duration:"14.688", Errors:"1", Exceptions:"0", StartTime:"2018-05-03 20:57:20 +0530", Successes:"0", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-03 20:57:35.532 +0530	ABORTED		Execution Time 0:00:15 Read_dio.script

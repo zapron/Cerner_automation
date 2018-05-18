@@ -1,0 +1,7 @@
+﻿2018-05-17 20:14:09.257 +0530	START		Running dio_reader.script
+2018-05-17 20:14:10.518 +0530	Log		In-person	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:10.522 +0530	Log		Telephonic	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:10.526 +0530	Log		Video	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:10.529 +0530	Log		Patient declined	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:10.925 +0530	EndTestCase		(Duration:"1.657", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:14:09 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:14:10.982 +0530	SUCCESS		Execution Time 0:00:01 dio_reader.script

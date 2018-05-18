@@ -1,0 +1,3 @@
+﻿2018-05-17 20:45:02.497 +0530	START		Running dio_reader.script
+2018-05-17 20:45:02.517 +0530	EndTestCase		(Duration:"0.006", Errors:"1", Exceptions:"0", StartTime:"2018-05-17 20:45:02 +0530", Successes:"0", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:45:02.691 +0530	FAILURE		SenseTalk Compiler Exception in dio_reader:\nSyntax Error at line 56: Syntax Error - can't understand "Role" at or near character 1539 -- Execution Time 0:00:00 dio_reader.script

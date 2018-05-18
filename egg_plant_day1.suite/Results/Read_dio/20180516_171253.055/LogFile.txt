@@ -1,0 +1,3 @@
+﻿2018-05-16 17:12:53.070 +0530	START		Running Read_dio.script
+2018-05-16 17:13:44.679 +0530	EndTestCase		(Duration:"51.609", Errors:"1", Exceptions:"0", StartTime:"2018-05-16 17:12:53 +0530", Successes:"0", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-16 17:13:44.679 +0530	ABORTED		Execution Time 0:00:51 Read_dio.script

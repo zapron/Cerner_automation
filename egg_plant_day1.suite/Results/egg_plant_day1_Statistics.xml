@@ -1,0 +1,107 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="numeric_unit_validate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-16 21:20:55 +0530</FirstRun>
+  <LastRun>2018-05-18 17:42:49 +0530</LastRun>
+  <TotalTimeOnSuccess>0.030000</TotalTimeOnSuccess>
+ </script>
+ <script name="egg_plant_day2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-04-26 09:53:25 +0530</FirstRun>
+  <LastRun>2018-04-26 10:07:53 +0530</LastRun>
+  <TotalTimeOnSuccess>17.599000</TotalTimeOnSuccess>
+ </script>
+ <script name="Read_dio">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>32</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
+  <FirstRun>2018-05-03 19:47:18 +0530</FirstRun>
+  <LastRun>2018-05-17 19:43:51 +0530</LastRun>
+  <TotalTimeOnSuccess>1514.595000</TotalTimeOnSuccess>
+ </script>
+ <script name="rec_and_play">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-04-25 12:14:15 +0530</FirstRun>
+  <LastRun>2018-04-25 12:14:15 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="assited">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-04-25 12:35:13 +0530</FirstRun>
+  <LastRun>2018-04-25 12:37:57 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="dio_reader">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>39</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2018-05-17 20:07:21 +0530</FirstRun>
+  <LastRun>2018-05-18 17:30:11 +0530</LastRun>
+  <TotalTimeOnSuccess>55.968000</TotalTimeOnSuccess>
+ </script>
+ <script name="egg_plant_day1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>38</NumberOfRuns>
+  <NumberOfFails>23</NumberOfFails>
+  <FirstRun>2018-04-25 10:12:17 +0530</FirstRun>
+  <LastRun>2018-04-25 15:06:16 +0530</LastRun>
+  <TotalTimeOnSuccess>228.528000</TotalTimeOnSuccess>
+ </script>
+ <script name="launch_browser">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-05-14 19:29:37 +0530</FirstRun>
+  <LastRun>2018-05-14 19:29:37 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Read_Excel">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-04-27 16:05:17 +0530</FirstRun>
+  <LastRun>2018-05-07 17:42:47 +0530</LastRun>
+  <TotalTimeOnSuccess>0.185000</TotalTimeOnSuccess>
+ </script>
+ <script name="script_beg_1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>14</NumberOfFails>
+  <FirstRun>2018-04-25 13:53:34 +0530</FirstRun>
+  <LastRun>2018-04-26 09:49:20 +0530</LastRun>
+  <TotalTimeOnSuccess>697.641000</TotalTimeOnSuccess>
+ </script>
+ <script name="functions">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-04-25 15:58:25 +0530</FirstRun>
+  <LastRun>2018-04-25 17:20:11 +0530</LastRun>
+  <TotalTimeOnSuccess>7.437000</TotalTimeOnSuccess>
+ </script>
+ <script name="conditions and arrays">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>20</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2018-04-25 15:11:10 +0530</FirstRun>
+  <LastRun>2018-04-25 15:53:47 +0530</LastRun>
+  <TotalTimeOnSuccess>3.615000</TotalTimeOnSuccess>
+ </script>
+ <script name="resource_interaction">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-04-26 15:04:09 +0530</FirstRun>
+  <LastRun>2018-04-26 15:04:09 +0530</LastRun>
+  <TotalTimeOnSuccess>0.653000</TotalTimeOnSuccess>
+ </script>
+</statistics>

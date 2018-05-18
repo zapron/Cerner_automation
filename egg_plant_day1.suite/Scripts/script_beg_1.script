@@ -1,0 +1,49 @@
+﻿Rightclick "chrome_good_image"
+Click "Open"
+wait 15
+log "chrome launched"
+BeginTestCase timer
+Click "address_bar2"
+TypeText controlKey,a
+TypeText deleteKey
+TypeText "www.amazon.com"
+TypeText returnKey
+log "amazon loaded"
+waitfor 30,"cart"
+
+log "cart icon visible"
+wait 10
+click "All_departmwnt_icon"
+wait 10
+TypeText pageDown
+wait 10
+Typetext pageDown
+wait 10
+Click "movies&tv"
+log "movies and tv selected"
+wait 10
+click "m&tv"
+TypeText  "The Big Bang Theory - Seasons"
+wait 10
+click "thebigbangtheoryseasons10"
+wait 20
+CaptureScreen (Name: "cap1")
+click "seasons_1_10"
+wait 10
+CaptureScreen (Name: "order")
+click "Bluray_selection"
+wait 5
+click "Bluray_ns/Bluray_s"
+wait 5
+
+wait 5
+TypeText pageDown
+if(ImageFound("Customers_who_bought_this_item"))
+	CaptureScreen (Name: "final")
+	
+	log "execution complete"
+end if
+
+TypeText altKey,f4
+
+Endtestcase timer

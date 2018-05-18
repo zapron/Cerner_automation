@@ -1,0 +1,7 @@
+﻿log EveryImageLocation("chrome_good_image/chrome_good_image")
+put EveryImageLocation("chrome_good_image/chrome_good_image") into images
+log images
+put the number of items of items of images into count 
+log count
+
+DoubleClick item 1 of images

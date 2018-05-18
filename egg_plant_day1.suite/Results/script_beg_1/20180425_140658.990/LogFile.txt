@@ -1,0 +1,21 @@
+﻿2018-04-25 14:06:58.990 +0530	START		Running script_beg_1.script
+2018-04-25 14:06:59.259 +0530	rightclick	chrome_good_image	at (38, 238)	1	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:00.140 +0530	click	Open	at (90, 253)	2	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:00.143 +0530	Log		chrome launched	3	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:00.168 +0530	BeginTestCase		timer	4	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:02.811 +0530	click	address_bar2	at (256, 46)	5	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:03.581 +0530	typetext		[controlKey]a	6	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:04.329 +0530	typetext		[deleteKey]	7	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:05.662 +0530	typetext		www.amazon.in	8	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:06.408 +0530	typetext		[returnKey]	9	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:06.408 +0530	Log		amazon loaded	10	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:07.512 +0530	waitfor	cart	found at (1866, 149)	11	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:07.514 +0530	Log		cart icon visible	13	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:07.642 +0530	click	All_departmwnt_icon	at (212, 94)	14	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:08.387 +0530	typetext		[pageDown][pageDown]	15	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:11.245 +0530	click	movies&tv	at (251, 265)	16	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:11.245 +0530	Log		movies and tv selected	17	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:12.002 +0530	typetext		[windowsAltKey][F4]	21	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:12.005 +0530	EndTestCase		(Duration:"11.835", Errors:"0", Exceptions:"0", StartTime:"2018-04-25 14:07:00 +0530", Successes:"0", TestCase:"timer", Warnings:"0")	23	on_script_beg_1	script_beg_1.script
+2018-04-25 14:07:12.060 +0530	EndTestCase		(Duration:"13.07", Errors:"0", Exceptions:"0", StartTime:"2018-04-25 14:06:58 +0530", Successes:"1", TestCase:"script_beg_1.script", Warnings:"0")
+2018-04-25 14:07:12.300 +0530	SUCCESS		Execution Time 0:00:14 script_beg_1.script

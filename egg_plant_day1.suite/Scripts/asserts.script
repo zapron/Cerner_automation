@@ -1,0 +1,3 @@
+﻿put 10 into a
+put 20 into b
+assert A>B with "A>B"

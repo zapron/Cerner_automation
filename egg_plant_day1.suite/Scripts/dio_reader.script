@@ -1,0 +1,92 @@
+﻿set excel to (type:"excel",file:ResourcePath("PowerForm - DIO - Preprocedure Checklist Comprehensive - Form Design.xlsx"))
+put the records of excel into excelreader
+//log excelreader //This will show all the things present as raw data within the excel file
+
+set count to 0//This is a random counter which is only being used fo recursive else part of a module
+set x to 1
+set f to 0
+set flag to 0
+
+Repeat for each item in excelreader	//looping through each item that is column wise top-bottom
+	if it."Section Name" equals "" or it."Section Name" equals " "
+		set count to count+1//cells with no data need to be skipped hence the loop
+	else
+		insert it."Section Name" into Sections//cells with data are being pushed as a list in the variable(Sections in this case)
+		insert repeatIndex() into sec_index//storing the index point of each new section
+		//	log it."Section Name"
+		
+	end if
+End Repeat
+
+
+
+Set section_name to "Interpreter Services"//The Section on which the Search has to be performed
+Set type to "Alpha"//The type of dta for validation
+
+
+
+//**********LOOP FOR SETTING INDEX VALUES**************//
+Repeat for each item in sec_index
+	if item repeatindex() of Sections equals section_name
+		set a to item repeatindex() of sec_index
+		set b to item repeatindex()+1 of sec_index
+	end if
+End Repeat
+
+
+//**********LOGIC TO READ THE DATA BASED ON GIVEN PARAMETRES**************//
+Repeat for each item in excelreader
+	if  repeatindex() equals a
+		if it."Associated Label - Question Role" equals "" or it."Associated Label - Question Role" equals ""
+			set x to x+1
+		else
+			if it."DTA Wizard Result Type" equals type
+				log it."Associated Label - Question Role"
+				insert it."Associated Label - Question Role" into dta_list
+				add 1 to f
+			else
+				set flag to 0
+			end if
+		end if
+		add 1 to a
+	end if
+	if a equals b
+		exit Repeat
+	end if	
+End Repeat
+
+
+//****DEFAULT CONDITION****//
+if flag equals f
+	log "NO SUCH DTA exist"
+end if
+
+put number of items of dta_list into dta_count //storing the number of dta found in a variable.
+log !"[[dta_count]]  DTAs were found and they are [[dta_list]] "//giving the number of sections and their names herese
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(*
+Associated Label - Question Role
+Alpha Responses*)
+
+
+
+
+
+
+
+
+

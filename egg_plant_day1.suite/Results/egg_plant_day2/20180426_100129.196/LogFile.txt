@@ -1,0 +1,7 @@
+﻿2018-04-26 10:01:29.196 +0530	START		Running egg_plant_day2.script
+2018-04-26 10:01:29.482 +0530	doubleclick	(TEXT:"Google")	at (36, 274)	1	on_egg_plant_day2	egg_plant_day2.script
+2018-04-26 10:01:30.245 +0530	typetext		[windowsAltKey][F4]	2	on_egg_plant_day2	egg_plant_day2.script
+2018-04-26 10:01:36.970 +0530	doubleclick	(TEXT:"Recycle")	at (28, 67)	3	on_egg_plant_day2	egg_plant_day2.script
+2018-04-26 10:01:37.723 +0530	typetext		[windowsAltKey][F4]	4	on_egg_plant_day2	egg_plant_day2.script
+2018-04-26 10:01:37.838 +0530	EndTestCase		(Duration:"8.642", Errors:"0", Exceptions:"0", StartTime:"2018-04-26 10:01:29 +0530", Successes:"1", TestCase:"egg_plant_day2.script", Warnings:"0")
+2018-04-26 10:01:37.875 +0530	SUCCESS		Execution Time 0:00:08 egg_plant_day2.script

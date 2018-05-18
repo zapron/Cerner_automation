@@ -1,0 +1,45 @@
+﻿2018-05-17 20:14:54.840 +0530	START		Running dio_reader.script
+2018-05-17 20:14:56.134 +0530	Log		Bedside	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.138 +0530	Log		Catheterization lab	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.141 +0530	Log		Emergency department	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.145 +0530	Log		GI lab	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.149 +0530	Log		Operating room	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.152 +0530	Log		Radiology	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.156 +0530	Log		Other:	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.162 +0530	Log		Breast milk	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.167 +0530	Log		Clear liquid	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.171 +0530	Log		Full liquid (other than breast milk)	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.175 +0530	Log		Solid food	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.179 +0530	Log		Clear liquid	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.183 +0530	Log		Full liquid (other than breast milk)	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.187 +0530	Log		Solid food	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.192 +0530	Log		Bloody	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.196 +0530	Log		Clear	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.199 +0530	Log		Formed	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.203 +0530	Log		Liquid	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.207 +0530	Log		Loose	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.211 +0530	Log		Semi-Formed	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.214 +0530	Log		Other:	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.219 +0530	Log		Enemas	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.223 +0530	Log		Laxatives	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.226 +0530	Log		Sodium phosphate oral prep	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.230 +0530	Log		Other:	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.235 +0530	Log		Patient	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.239 +0530	Log		Family	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.243 +0530	Log		Not Reviewed	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.246 +0530	Log		Other:	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.250 +0530	Log		Patient shave	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.255 +0530	Log		Patient depilatory/clippers	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.259 +0530	Log		Staff shave	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.262 +0530	Log		Staff depilatory/clippers	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.266 +0530	Log		Not removed prior to arrival in surgery	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.270 +0530	Log		Unable to determine	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.274 +0530	Log		Other:	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.278 +0530	Log		N/A	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.281 +0530	Log		Yes	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.285 +0530	Log		No	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.289 +0530	Log		Patient refused test - Physician Notified	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.293 +0530	Log		N/A	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.296 +0530	Log		N/A	37	on_dio_reader	dio_reader.script
+2018-05-17 20:14:56.689 +0530	EndTestCase		(Duration:"1.839", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:14:54 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:14:56.741 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

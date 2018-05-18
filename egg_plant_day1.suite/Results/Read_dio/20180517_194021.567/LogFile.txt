@@ -1,0 +1,3 @@
+﻿2018-05-17 19:40:21.577 +0530	START		Running Read_dio.script
+2018-05-17 19:40:21.597 +0530	EndTestCase		(Duration:"0.007", Errors:"1", Exceptions:"0", StartTime:"2018-05-17 19:40:21 +0530", Successes:"0", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-17 19:40:21.770 +0530	FAILURE		SenseTalk Compiler Exception in read_dio:\nSyntax Error at line 48: Syntax Error - can't understand "Repeat" at or near character 1562 -- Execution Time 0:00:00 Read_dio.script

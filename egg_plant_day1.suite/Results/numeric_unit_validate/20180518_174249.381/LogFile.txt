@@ -1,0 +1,3 @@
+﻿2018-05-18 17:42:49.381 +0530	START		Running numeric_unit_validate.script
+2018-05-18 17:42:49.396 +0530	EndTestCase		(Duration:"-0", Errors:"0", Exceptions:"0", StartTime:"2018-05-18 17:42:49 +0530", Successes:"1", TestCase:"numeric_unit_validate.script", Warnings:"0")
+2018-05-18 17:42:49.531 +0530	SUCCESS		Execution Time 0:00:00 numeric_unit_validate.script

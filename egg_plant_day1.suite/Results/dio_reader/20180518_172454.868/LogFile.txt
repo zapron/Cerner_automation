@@ -1,0 +1,5 @@
+﻿2018-05-18 17:24:54.868 +0530	START		Running dio_reader.script
+2018-05-18 17:24:55.890 +0530	Log		NO SUCH DTA exist	61	on_dio_reader	dio_reader.script
+2018-05-18 17:24:55.890 +0530	Log		1  DTAs were found and they are dta_list 	65	on_dio_reader	dio_reader.script
+2018-05-18 17:24:56.102 +0530	EndTestCase		(Duration:"1.234", Errors:"0", Exceptions:"0", StartTime:"2018-05-18 17:24:54 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-18 17:24:56.149 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

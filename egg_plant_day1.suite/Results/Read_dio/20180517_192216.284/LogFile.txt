@@ -1,0 +1,1314 @@
+﻿2018-05-17 19:22:16.292 +0530	START		Running Read_dio.script
+2018-05-17 19:22:17.272 +0530	Log		General Periop	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:30.475 +0530	Log		Periop Education	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:32.660 +0530	Log		Interpreter Services	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:33.370 +0530	Log		Preprocedure Checklist	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:36.249 +0530	Log		Advance Directive	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:37.875 +0530	Log		Allergy	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:38.040 +0530	Log		Medication History	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:38.289 +0530	Log		Problem History Hospital Stay	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:39.435 +0530	Log		Procedure History with Medical Devices	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:41.091 +0530	Log		Preoperative Social History With Social Habits	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:41.802 +0530	Log		Family History	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:41.951 +0530	Log		General Anesthesia Risk Assessments	19	on_read_dio	Read_dio.script
+2018-05-17 19:22:45.947 +0530	Log		Screening Infectious Disease General	19	on_read_dio	Read_dio.script
+2018-05-17 19:23:34.719 +0530	Log		Anticipated Discharge Needs	19	on_read_dio	Read_dio.script
+2018-05-17 19:24:06.721 +0530	Log		Perioperative Protocols	19	on_read_dio	Read_dio.script
+2018-05-17 19:24:09.850 +0530	Log		Immunizations	19	on_read_dio	Read_dio.script
+2018-05-17 19:24:12.175 +0530	Log		Vital Signs	19	on_read_dio	Read_dio.script
+2018-05-17 19:24:17.067 +0530	Log		Valuables/Belongings Detail	19	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.071 +0530	Log		Additional Health Information	19	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.156 +0530	Log		19 sections are present and they are (General Periop,Periop Education,Interpreter Services,Preprocedure Checklist,Advance Directive,Allergy,Medication History,Problem History Hospital Stay,Procedure History with Medical Devices,Preoperative Social History With Social Habits,Family History,General Anesthesia Risk Assessments,Screening Infectious Disease General,Anticipated Discharge Needs,Perioperative Protocols,Immunizations,Vital Signs,Valuables/Belongings Detail,Additional Health Information) their indexes are (1,182,215,224,271,299,300,301,309,325,330,331,376,911,1270,1326,1364,1446,1573)	26	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.368 +0530	Log		1	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.434 +0530	Log		English	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.608 +0530	Log		2	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.701 +0530	Log		Spanish	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.829 +0530	Log		3	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:26.912 +0530	Log		Arabic	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.048 +0530	Log		4	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.132 +0530	Log		Bosnian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.250 +0530	Log		5	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.313 +0530	Log		Chinese	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.396 +0530	Log		6	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.460 +0530	Log		Creole	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.569 +0530	Log		7	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.628 +0530	Log		Danish	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.733 +0530	Log		8	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.806 +0530	Log		Deaf Services	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.887 +0530	Log		9	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:27.953 +0530	Log		Dutch	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.060 +0530	Log		10	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.125 +0530	Log		Filipino	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.233 +0530	Log		11	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.301 +0530	Log		French	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.378 +0530	Log		12	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.419 +0530	Log		Gaelic	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.514 +0530	Log		13	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.558 +0530	Log		German	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.650 +0530	Log		14	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.690 +0530	Log		Greek	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.791 +0530	Log		15	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.831 +0530	Log		Hebrew	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.923 +0530	Log		16	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:28.964 +0530	Log		Hindi	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.062 +0530	Log		17	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.127 +0530	Log		Hmong	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.237 +0530	Log		18	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.304 +0530	Log		Indonesian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.410 +0530	Log		19	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.472 +0530	Log		Iranian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.564 +0530	Log		20	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.606 +0530	Log		Irish	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.696 +0530	Log		21	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.738 +0530	Log		Italian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.836 +0530	Log		22	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.878 +0530	Log		Japanese	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:29.963 +0530	Log		23	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.006 +0530	Log		Korean	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.094 +0530	Log		24	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.137 +0530	Log		Latin	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.224 +0530	Log		25	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.277 +0530	Log		Malay	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.386 +0530	Log		26	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.449 +0530	Log		Multiple Languages	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.555 +0530	Log		27	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.618 +0530	Log		Norwegian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.720 +0530	Log		28	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.792 +0530	Log		Persian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.899 +0530	Log		29	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:30.961 +0530	Log		Polish	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.067 +0530	Log		30	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.132 +0530	Log		Portuguese	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.224 +0530	Log		31	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.266 +0530	Log		Romanian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.361 +0530	Log		32	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.403 +0530	Log		Russian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.495 +0530	Log		33	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.538 +0530	Log		Sign Languages	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.640 +0530	Log		34	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.683 +0530	Log		Somali	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.784 +0530	Log		35	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.825 +0530	Log		Sudanese	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.914 +0530	Log		36	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:31.967 +0530	Log		Swedish	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.069 +0530	Log		37	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.130 +0530	Log		Thai	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.236 +0530	Log		38	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.297 +0530	Log		Turkish	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.396 +0530	Log		39	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.458 +0530	Log		Ukrainian	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.565 +0530	Log		40	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.625 +0530	Log		Vietnamese	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.729 +0530	Log		41	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.803 +0530	Log		Unknown	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.888 +0530	Log		42	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:32.929 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.018 +0530	Log		43	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.058 +0530	Log		Verbal	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.146 +0530	Log		44	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.187 +0530	Log		Sign Languages	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.277 +0530	Log		45	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.317 +0530	Log		Written	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.408 +0530	Log		46	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.452 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.553 +0530	Log		47	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.618 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.718 +0530	Log		48	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.789 +0530	Log		Unable to obtain	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.899 +0530	Log		49	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:33.969 +0530	Log		Self	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.053 +0530	Log		50	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.096 +0530	Log		Mother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.189 +0530	Log		51	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.234 +0530	Log		Father	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.326 +0530	Log		52	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.369 +0530	Log		Foster father	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.461 +0530	Log		53	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.507 +0530	Log		Foster mother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.599 +0530	Log		54	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.640 +0530	Log		Friend	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.735 +0530	Log		55	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.805 +0530	Log		Grandfather	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.917 +0530	Log		56	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:34.978 +0530	Log		Grandmother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.089 +0530	Log		57	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.156 +0530	Log		Sibling	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.246 +0530	Log		58	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.290 +0530	Log		Stepfather	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.385 +0530	Log		59	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.427 +0530	Log		Stepmother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.521 +0530	Log		60	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.563 +0530	Log		Step sibling	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.655 +0530	Log		61	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.696 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.796 +0530	Log		62	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.840 +0530	Log		Unable to obtain	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.931 +0530	Log		63	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:35.984 +0530	Log		Self	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.090 +0530	Log		64	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.155 +0530	Log		Mother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.262 +0530	Log		65	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.325 +0530	Log		Father	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.428 +0530	Log		66	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.493 +0530	Log		Foster father	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.607 +0530	Log		67	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.671 +0530	Log		Foster mother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.786 +0530	Log		68	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.851 +0530	Log		Friend	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.936 +0530	Log		69	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:36.978 +0530	Log		Grandfather	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.068 +0530	Log		70	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.110 +0530	Log		Grandmother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.200 +0530	Log		71	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.241 +0530	Log		Sibling	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.330 +0530	Log		72	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.374 +0530	Log		Stepfather	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.461 +0530	Log		73	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.502 +0530	Log		Stepmother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.598 +0530	Log		74	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.661 +0530	Log		Step sibling	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.782 +0530	Log		75	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.853 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:37.959 +0530	Log		76	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.028 +0530	Log		Unable to obtain	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.114 +0530	Log		77	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.159 +0530	Log		Self	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.247 +0530	Log		78	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.288 +0530	Log		Mother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.385 +0530	Log		79	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.426 +0530	Log		Father	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.518 +0530	Log		80	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.560 +0530	Log		Foster father	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.655 +0530	Log		81	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.696 +0530	Log		Foster mother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.773 +0530	Log		82	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.825 +0530	Log		Friend	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.913 +0530	Log		83	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:38.955 +0530	Log		Grandfather	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.040 +0530	Log		84	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.083 +0530	Log		Grandmother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.171 +0530	Log		85	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.212 +0530	Log		Sibling	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.301 +0530	Log		86	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.341 +0530	Log		Spouse	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.554 +0530	Log		87	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.619 +0530	Log		Stepfather	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.720 +0530	Log		88	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.795 +0530	Log		Stepmother	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.896 +0530	Log		89	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:39.956 +0530	Log		Step sibling	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.055 +0530	Log		90	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.123 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.268 +0530	Log		91	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.350 +0530	Log		Unable to obtain	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.481 +0530	Log		92	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.540 +0530	Log		Self	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.628 +0530	Log		93	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.669 +0530	Log		Spouse	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.755 +0530	Log		94	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.807 +0530	Log		Daughter	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.891 +0530	Log		95	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:40.940 +0530	Log		Family member	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.037 +0530	Log		96	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.096 +0530	Log		Friend	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.195 +0530	Log		97	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.257 +0530	Log		Parent	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.351 +0530	Log		98	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.410 +0530	Log		Sibling	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.510 +0530	Log		99	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.574 +0530	Log		Significant other	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.671 +0530	Log		100	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.733 +0530	Log		Son	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.826 +0530	Log		101	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.869 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.954 +0530	Log		102	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:41.996 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.080 +0530	Log		103	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.121 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.209 +0530	Log		104	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.253 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.341 +0530	Log		105	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.382 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.472 +0530	Log		106	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.532 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.632 +0530	Log		107	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.692 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.799 +0530	Log		108	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.859 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.942 +0530	Log		109	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:42.983 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.073 +0530	Log		110	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.117 +0530	Log		Yes	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.203 +0530	Log		111	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.245 +0530	Log		No	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.335 +0530	Log		112	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.375 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.464 +0530	Log		113	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.504 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.600 +0530	Log		114	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.659 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.769 +0530	Log		115	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.827 +0530	Log		Anesthesia	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.929 +0530	Log		116	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:43.994 +0530	Log		Medications	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.080 +0530	Log		117	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.121 +0530	Log		Pain control	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.208 +0530	Log		118	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.251 +0530	Log		Post-Op nausea/vomiting	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.336 +0530	Log		119	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.378 +0530	Log		Privacy concerns	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.475 +0530	Log		120	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.516 +0530	Log		Procedure questions	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.606 +0530	Log		121	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.649 +0530	Log		Resuming regular activity	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.743 +0530	Log		122	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.817 +0530	Log		Temperature too hot/too cold	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.913 +0530	Log		123	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:44.976 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.074 +0530	Log		124	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.134 +0530	Log		Independent	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.216 +0530	Log		125	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.259 +0530	Log		Partial assistance	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.346 +0530	Log		126	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.389 +0530	Log		Total assistance	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.478 +0530	Log		127	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.552 +0530	Log		Non-Ambulatory	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.683 +0530	Log		128	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.736 +0530	Log		Independent	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.842 +0530	Log		129	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.894 +0530	Log		Partial assistance	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:45.992 +0530	Log		130	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.044 +0530	Log		Total assistance	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.145 +0530	Log		131	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.208 +0530	Log		Non-Ambulatory	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.309 +0530	Log		132	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.371 +0530	Log		Independent	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.467 +0530	Log		133	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.527 +0530	Log		Minimal assist	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.628 +0530	Log		134	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.702 +0530	Log		Moderate assist	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.809 +0530	Log		135	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.871 +0530	Log		Complete assist	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.956 +0530	Log		136	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:46.999 +0530	Log		Blind, left eye	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.087 +0530	Log		137	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.132 +0530	Log		Blind, right eye	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.225 +0530	Log		138	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.275 +0530	Log		Hearing deficit, left ear	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.365 +0530	Log		139	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.405 +0530	Log		Hearing deficit, right ear	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.495 +0530	Log		140	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.538 +0530	Log		Nonverbal	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.636 +0530	Log		141	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.696 +0530	Log		Sensation/Touch deficit	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.806 +0530	Log		142	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.869 +0530	Log		Speech deficit	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:47.966 +0530	Log		143	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:48.026 +0530	Log		Uncorrected visual impairment	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:48.116 +0530	Log		144	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:48.158 +0530	Log		Assisted living	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:49.834 +0530	Log		145	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:49.875 +0530	Log		Extended Care Facility	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:49.973 +0530	Log		146	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.017 +0530	Log		Group home	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.105 +0530	Log		147	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.148 +0530	Log		Home with day care	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.237 +0530	Log		148	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.282 +0530	Log		Home with family care	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.378 +0530	Log		149	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.435 +0530	Log		Home with foster care	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.536 +0530	Log		150	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.598 +0530	Log		Home with home health	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.702 +0530	Log		151	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.774 +0530	Log		Home with hospice	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.872 +0530	Log		152	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:50.910 +0530	Log		Home with infusion therapy	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.002 +0530	Log		153	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.047 +0530	Log		Home with palliative care	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.137 +0530	Log		154	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.183 +0530	Log		Home with responsible caregiver	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.283 +0530	Log		155	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.326 +0530	Log		Home with telehealth	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.421 +0530	Log		156	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.467 +0530	Log		Homeless	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.565 +0530	Log		157	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.627 +0530	Log		Law enforcement detention	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.763 +0530	Log		158	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:51.894 +0530	Log		Psychiatric Unit	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.092 +0530	Log		159	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.226 +0530	Log		Rehabilitation Unit	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.403 +0530	Log		160	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.442 +0530	Log		Shelter	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.543 +0530	Log		161	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.589 +0530	Log		Skilled nursing facility	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.689 +0530	Log		162	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.737 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.841 +0530	Log		163	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:52.887 +0530	Log		Assisted living	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.057 +0530	Log		164	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.166 +0530	Log		Extended Care Facility	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.283 +0530	Log		165	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.340 +0530	Log		Group home	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.417 +0530	Log		166	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.475 +0530	Log		Home independently	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.589 +0530	Log		167	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.649 +0530	Log		Home with day care	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.761 +0530	Log		168	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.831 +0530	Log		Home with family care	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:53.945 +0530	Log		169	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.009 +0530	Log		Home with home health	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.127 +0530	Log		170	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.187 +0530	Log		Home with hospice	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.308 +0530	Log		171	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.377 +0530	Log		Home with infusion therapy	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.504 +0530	Log		172	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.588 +0530	Log		Home with palliative care	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.714 +0530	Log		173	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.816 +0530	Log		Home with responsible caregiver	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:54.949 +0530	Log		174	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.001 +0530	Log		Home with telehealth	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.117 +0530	Log		175	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.176 +0530	Log		Homeless	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.292 +0530	Log		176	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.352 +0530	Log		Law enforcement detention	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.466 +0530	Log		177	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.524 +0530	Log		Psychiatric Unit	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.637 +0530	Log		178	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.695 +0530	Log		Rehabilitation Unit	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.816 +0530	Log		179	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.874 +0530	Log		Shelter	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:55.949 +0530	Log		180	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:56.007 +0530	Log		Skilled nursing facility	36	on_read_dio	Read_dio.script
+2018-05-17 19:24:56.322 +0530	Log		1	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:56.442 +0530	Log		2	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:56.564 +0530	Log		3	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:56.688 +0530	Log		4	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:56.823 +0530	Log		5	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:56.948 +0530	Log		6	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.073 +0530	Log		7	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.166 +0530	Log		8	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.266 +0530	Log		9	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.368 +0530	Log		10	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.467 +0530	Log		11	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.571 +0530	Log		12	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.671 +0530	Log		13	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.783 +0530	Log		14	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.885 +0530	Log		15	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:57.974 +0530	Log		16	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.074 +0530	Log		17	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.196 +0530	Log		18	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.321 +0530	Log		19	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.444 +0530	Log		20	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.550 +0530	Log		21	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.674 +0530	Log		22	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.806 +0530	Log		23	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:58.927 +0530	Log		24	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.042 +0530	Log		25	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.170 +0530	Log		26	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.298 +0530	Log		27	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.421 +0530	Log		28	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.544 +0530	Log		29	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.641 +0530	Log		30	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.740 +0530	Log		31	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.850 +0530	Log		32	34	on_read_dio	Read_dio.script
+2018-05-17 19:24:59.957 +0530	Log		33	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.065 +0530	Log		34	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.171 +0530	Log		35	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.288 +0530	Log		36	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.405 +0530	Log		37	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.510 +0530	Log		38	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.615 +0530	Log		39	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.741 +0530	Log		40	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.874 +0530	Log		41	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:00.999 +0530	Log		42	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.124 +0530	Log		43	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.224 +0530	Log		44	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.324 +0530	Log		45	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.422 +0530	Log		46	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.523 +0530	Log		47	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.621 +0530	Log		48	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.720 +0530	Log		49	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.837 +0530	Log		50	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:01.944 +0530	Log		51	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.072 +0530	Log		52	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.197 +0530	Log		53	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.323 +0530	Log		54	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.440 +0530	Log		55	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.563 +0530	Log		56	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.689 +0530	Log		57	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.824 +0530	Log		58	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:02.946 +0530	Log		59	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.040 +0530	Log		60	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.139 +0530	Log		61	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.240 +0530	Log		62	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.341 +0530	Log		63	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.439 +0530	Log		64	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.543 +0530	Log		65	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.645 +0530	Log		66	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.749 +0530	Log		67	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:03.898 +0530	Log		68	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.023 +0530	Log		69	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.150 +0530	Log		70	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.276 +0530	Log		71	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.372 +0530	Log		72	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.481 +0530	Log		73	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.583 +0530	Log		74	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.683 +0530	Log		75	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.793 +0530	Log		76	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.899 +0530	Log		77	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:04.998 +0530	Log		78	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.099 +0530	Log		79	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.186 +0530	Log		80	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.287 +0530	Log		81	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.411 +0530	Log		82	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.537 +0530	Log		83	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.665 +0530	Log		84	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.776 +0530	Log		85	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:05.904 +0530	Log		86	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.033 +0530	Log		87	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.158 +0530	Log		88	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.265 +0530	Log		89	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.360 +0530	Log		90	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.463 +0530	Log		91	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.562 +0530	Log		92	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.664 +0530	Log		93	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.774 +0530	Log		94	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:06.871 +0530	Log		95	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:07.087 +0530	Log		96	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:07.177 +0530	Log		97	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:07.274 +0530	Log		98	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:07.400 +0530	Log		99	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:07.524 +0530	Log		100	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:07.710 +0530	Log		101	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:07.885 +0530	Log		102	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:08.081 +0530	Log		103	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:08.241 +0530	Log		104	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:08.394 +0530	Log		105	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:08.498 +0530	Log		106	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:08.597 +0530	Log		107	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:08.692 +0530	Log		108	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:08.835 +0530	Log		109	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.036 +0530	Log		110	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.205 +0530	Log		111	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.324 +0530	Log		112	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.440 +0530	Log		113	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.559 +0530	Log		114	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.674 +0530	Log		115	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.801 +0530	Log		116	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:09.915 +0530	Log		117	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.028 +0530	Log		118	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.120 +0530	Log		119	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.220 +0530	Log		120	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.383 +0530	Log		121	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.555 +0530	Log		122	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.685 +0530	Log		123	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.793 +0530	Log		124	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.892 +0530	Log		125	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:10.989 +0530	Log		126	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.079 +0530	Log		127	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.174 +0530	Log		128	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.289 +0530	Log		129	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.403 +0530	Log		130	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.517 +0530	Log		131	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.613 +0530	Log		132	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.728 +0530	Log		133	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.851 +0530	Log		134	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:11.966 +0530	Log		135	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:12.098 +0530	Log		136	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:12.349 +0530	Log		137	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:12.660 +0530	Log		138	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:12.834 +0530	Log		139	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:12.995 +0530	Log		140	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:13.102 +0530	Log		141	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:13.242 +0530	Log		142	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:13.520 +0530	Log		143	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:13.935 +0530	Log		144	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:14.211 +0530	Log		145	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:14.453 +0530	Log		146	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:14.634 +0530	Log		147	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:14.816 +0530	Log		148	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:14.969 +0530	Log		149	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:15.135 +0530	Log		150	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:15.364 +0530	Log		151	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:15.603 +0530	Log		152	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:15.809 +0530	Log		153	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:16.010 +0530	Log		154	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:16.195 +0530	Log		155	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:16.488 +0530	Log		156	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:16.758 +0530	Log		157	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:17.021 +0530	Log		158	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:17.312 +0530	Log		159	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:17.499 +0530	Log		160	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:17.734 +0530	Log		161	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:17.958 +0530	Log		162	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:19.761 +0530	Log		163	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:19.931 +0530	Log		164	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.045 +0530	Log		165	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.179 +0530	Log		166	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.305 +0530	Log		167	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.432 +0530	Log		168	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.560 +0530	Log		169	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.695 +0530	Log		170	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.826 +0530	Log		171	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:20.956 +0530	Log		172	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:21.055 +0530	Log		173	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:21.179 +0530	Log		174	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:21.362 +0530	Log		175	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:21.545 +0530	Log		176	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:21.719 +0530	Log		177	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:21.855 +0530	Log		178	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:21.985 +0530	Log		179	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.105 +0530	Log		180	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.234 +0530	Log		181	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.365 +0530	Log		182	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.440 +0530	Log		Yes	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.590 +0530	Log		183	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.667 +0530	Log		No	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.803 +0530	Log		184	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.882 +0530	Log		None evident	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:22.975 +0530	Log		185	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.049 +0530	Log		Acuity of illness	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.190 +0530	Log		186	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.265 +0530	Log		Cognitive deficits	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.400 +0530	Log		187	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.474 +0530	Log		Cultural barrier	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.611 +0530	Log		188	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.697 +0530	Log		Desire/Motivation	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.836 +0530	Log		189	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:23.914 +0530	Log		Difficulty concentrating	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.051 +0530	Log		190	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.136 +0530	Log		Emotional state	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.309 +0530	Log		191	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.424 +0530	Log		Financial concerns	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.618 +0530	Log		192	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.731 +0530	Log		Hearing deficit	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.919 +0530	Log		193	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:24.977 +0530	Log		Language barrier	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.130 +0530	Log		194	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.202 +0530	Log		Literacy	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.343 +0530	Log		195	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.501 +0530	Log		Memory problems	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.672 +0530	Log		196	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.748 +0530	Log		Vision impairment	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.890 +0530	Log		197	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:25.960 +0530	Log		None	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.091 +0530	Log		198	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.237 +0530	Log		Demonstration	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.328 +0530	Log		199	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.399 +0530	Log		Printed materials	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.533 +0530	Log		200	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.606 +0530	Log		Verbal explanation	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.739 +0530	Log		201	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:26.892 +0530	Log		Video/Educational TV	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.078 +0530	Log		202	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.181 +0530	Log		Anesthesia/Sedation	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.311 +0530	Log		203	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.382 +0530	Log		Equipment	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.517 +0530	Log		204	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.589 +0530	Log		Family instructions	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.724 +0530	Log		205	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.799 +0530	Log		Medication instructions	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:27.933 +0530	Log		206	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.019 +0530	Log		Pain management	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.153 +0530	Log		207	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.232 +0530	Log		Plan of care	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.372 +0530	Log		208	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.455 +0530	Log		Preprocedure diet	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.634 +0530	Log		209	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.746 +0530	Log		Preprocedure tests/labs	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:28.932 +0530	Log		210	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:29.039 +0530	Log		Respiratory care	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:29.216 +0530	Log		211	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:29.275 +0530	Log		Tubes/Drains/IV's	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:29.418 +0530	Log		212	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:29.493 +0530	Log		Turn/Cough/Deep breathing	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:29.633 +0530	Log		213	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:29.711 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:25:30.114 +0530	Log		1	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:30.289 +0530	Log		2	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:30.401 +0530	Log		3	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:30.531 +0530	Log		4	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:30.662 +0530	Log		5	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:30.784 +0530	Log		6	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:30.909 +0530	Log		7	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:31.048 +0530	Log		8	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:31.174 +0530	Log		9	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:31.304 +0530	Log		10	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:31.406 +0530	Log		11	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:31.539 +0530	Log		12	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:31.712 +0530	Log		13	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:31.895 +0530	Log		14	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.065 +0530	Log		15	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.203 +0530	Log		16	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.332 +0530	Log		17	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.459 +0530	Log		18	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.587 +0530	Log		19	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.715 +0530	Log		20	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.857 +0530	Log		21	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:32.980 +0530	Log		22	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:33.104 +0530	Log		23	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:33.238 +0530	Log		24	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:33.404 +0530	Log		25	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:33.584 +0530	Log		26	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:33.767 +0530	Log		27	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:33.941 +0530	Log		28	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.056 +0530	Log		29	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.187 +0530	Log		30	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.317 +0530	Log		31	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.441 +0530	Log		32	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.572 +0530	Log		33	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.698 +0530	Log		34	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.831 +0530	Log		35	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:34.955 +0530	Log		36	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:35.063 +0530	Log		37	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:35.189 +0530	Log		38	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:35.370 +0530	Log		39	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:35.545 +0530	Log		40	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:35.720 +0530	Log		41	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:35.866 +0530	Log		42	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:35.991 +0530	Log		43	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:36.115 +0530	Log		44	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:36.265 +0530	Log		45	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:36.417 +0530	Log		46	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:36.571 +0530	Log		47	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:36.717 +0530	Log		48	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:36.863 +0530	Log		49	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:36.995 +0530	Log		50	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:37.153 +0530	Log		51	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:37.313 +0530	Log		52	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:37.472 +0530	Log		53	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:37.619 +0530	Log		54	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:37.791 +0530	Log		55	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:37.959 +0530	Log		56	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:38.135 +0530	Log		57	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:38.304 +0530	Log		58	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:38.414 +0530	Log		59	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:38.542 +0530	Log		60	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:38.672 +0530	Log		61	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:38.811 +0530	Log		62	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:38.940 +0530	Log		63	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:39.064 +0530	Log		64	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:39.190 +0530	Log		65	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:39.318 +0530	Log		66	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:39.427 +0530	Log		67	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:39.553 +0530	Log		68	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:39.753 +0530	Log		69	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:39.975 +0530	Log		70	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:40.136 +0530	Log		71	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:40.268 +0530	Log		72	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:40.393 +0530	Log		73	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:40.515 +0530	Log		74	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:40.635 +0530	Log		75	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:40.756 +0530	Log		76	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:40.889 +0530	Log		77	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:41.007 +0530	Log		78	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:41.125 +0530	Log		79	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:41.252 +0530	Log		80	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:41.423 +0530	Log		81	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:41.598 +0530	Log		82	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:41.786 +0530	Log		83	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:41.965 +0530	Log		84	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:42.078 +0530	Log		85	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:42.206 +0530	Log		86	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:42.330 +0530	Log		87	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:42.460 +0530	Log		88	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:42.632 +0530	Log		89	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:42.756 +0530	Log		90	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:42.889 +0530	Log		91	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:43.008 +0530	Log		92	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:43.110 +0530	Log		93	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:43.230 +0530	Log		94	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:43.391 +0530	Log		95	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:43.555 +0530	Log		96	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:43.735 +0530	Log		97	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:43.878 +0530	Log		98	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.005 +0530	Log		99	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.138 +0530	Log		100	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.263 +0530	Log		101	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.393 +0530	Log		102	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.522 +0530	Log		103	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.672 +0530	Log		104	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.802 +0530	Log		105	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:44.950 +0530	Log		106	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.074 +0530	Log		107	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.196 +0530	Log		108	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.324 +0530	Log		109	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.443 +0530	Log		110	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.559 +0530	Log		111	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.665 +0530	Log		112	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.777 +0530	Log		113	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.885 +0530	Log		114	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:45.990 +0530	Log		115	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:46.125 +0530	Log		116	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:46.272 +0530	Log		117	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:46.429 +0530	Log		118	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:46.668 +0530	Log		119	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:46.925 +0530	Log		120	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:47.102 +0530	Log		121	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:47.327 +0530	Log		122	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:47.513 +0530	Log		123	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:47.683 +0530	Log		124	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:47.837 +0530	Log		125	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:47.978 +0530	Log		126	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:48.116 +0530	Log		127	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:49.839 +0530	Log		128	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:49.981 +0530	Log		129	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.108 +0530	Log		130	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.239 +0530	Log		131	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.336 +0530	Log		132	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.448 +0530	Log		133	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.555 +0530	Log		134	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.664 +0530	Log		135	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.780 +0530	Log		136	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.884 +0530	Log		137	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:50.988 +0530	Log		138	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.094 +0530	Log		139	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.190 +0530	Log		140	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.296 +0530	Log		141	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.423 +0530	Log		142	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.554 +0530	Log		143	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.683 +0530	Log		144	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.800 +0530	Log		145	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:51.929 +0530	Log		146	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.056 +0530	Log		147	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.186 +0530	Log		148	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.307 +0530	Log		149	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.439 +0530	Log		150	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.569 +0530	Log		151	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.705 +0530	Log		152	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.841 +0530	Log		153	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:52.945 +0530	Log		154	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.046 +0530	Log		155	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.152 +0530	Log		156	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.258 +0530	Log		157	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.363 +0530	Log		158	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.473 +0530	Log		159	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.579 +0530	Log		160	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.687 +0530	Log		161	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.827 +0530	Log		162	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:53.957 +0530	Log		163	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.087 +0530	Log		164	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.221 +0530	Log		165	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.321 +0530	Log		166	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.428 +0530	Log		167	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.533 +0530	Log		168	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.640 +0530	Log		169	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.746 +0530	Log		170	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.858 +0530	Log		171	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:54.966 +0530	Log		172	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.073 +0530	Log		173	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.171 +0530	Log		174	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.279 +0530	Log		175	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.409 +0530	Log		176	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.543 +0530	Log		177	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.673 +0530	Log		178	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.790 +0530	Log		179	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:55.919 +0530	Log		180	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.050 +0530	Log		181	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.176 +0530	Log		182	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.300 +0530	Log		183	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.425 +0530	Log		184	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.563 +0530	Log		185	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.696 +0530	Log		186	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.839 +0530	Log		187	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:56.940 +0530	Log		188	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.045 +0530	Log		189	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.155 +0530	Log		190	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.264 +0530	Log		191	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.374 +0530	Log		192	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.482 +0530	Log		193	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.587 +0530	Log		194	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.695 +0530	Log		195	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.840 +0530	Log		196	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:57.969 +0530	Log		197	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.100 +0530	Log		198	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.230 +0530	Log		199	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.330 +0530	Log		200	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.435 +0530	Log		201	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.546 +0530	Log		202	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.654 +0530	Log		203	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.758 +0530	Log		204	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.874 +0530	Log		205	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:58.985 +0530	Log		206	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.094 +0530	Log		207	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.190 +0530	Log		208	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.295 +0530	Log		209	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.425 +0530	Log		210	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.559 +0530	Log		211	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.691 +0530	Log		212	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.831 +0530	Log		213	34	on_read_dio	Read_dio.script
+2018-05-17 19:25:59.964 +0530	Log		214	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.104 +0530	Log		215	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.196 +0530	Log		In-person	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.332 +0530	Log		216	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.407 +0530	Log		Telephonic	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.542 +0530	Log		217	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.633 +0530	Log		Video	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.784 +0530	Log		218	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:00.871 +0530	Log		Patient declined	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.005 +0530	Log		219	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.068 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.188 +0530	Log		220	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.252 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.370 +0530	Log		221	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.438 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.558 +0530	Log		222	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.628 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:01.953 +0530	Log		1	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.056 +0530	Log		2	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.162 +0530	Log		3	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.271 +0530	Log		4	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.376 +0530	Log		5	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.482 +0530	Log		6	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.589 +0530	Log		7	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.698 +0530	Log		8	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.817 +0530	Log		9	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:02.914 +0530	Log		10	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.018 +0530	Log		11	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.150 +0530	Log		12	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.277 +0530	Log		13	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.407 +0530	Log		14	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.520 +0530	Log		15	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.649 +0530	Log		16	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.796 +0530	Log		17	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:03.925 +0530	Log		18	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:04.055 +0530	Log		19	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:04.192 +0530	Log		20	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:04.367 +0530	Log		21	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:04.548 +0530	Log		22	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:04.720 +0530	Log		23	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:04.904 +0530	Log		24	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.036 +0530	Log		25	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.168 +0530	Log		26	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.300 +0530	Log		27	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.399 +0530	Log		28	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.511 +0530	Log		29	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.618 +0530	Log		30	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.726 +0530	Log		31	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.842 +0530	Log		32	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:05.948 +0530	Log		33	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.052 +0530	Log		34	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.157 +0530	Log		35	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.253 +0530	Log		36	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.355 +0530	Log		37	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.489 +0530	Log		38	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.620 +0530	Log		39	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.764 +0530	Log		40	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.877 +0530	Log		41	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:06.986 +0530	Log		42	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:07.093 +0530	Log		43	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:07.201 +0530	Log		44	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:07.307 +0530	Log		45	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:07.418 +0530	Log		46	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:07.593 +0530	Log		47	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:07.834 +0530	Log		48	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:08.065 +0530	Log		49	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:08.320 +0530	Log		50	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:08.560 +0530	Log		51	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:08.790 +0530	Log		52	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:08.944 +0530	Log		53	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.044 +0530	Log		54	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.151 +0530	Log		55	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.261 +0530	Log		56	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.364 +0530	Log		57	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.469 +0530	Log		58	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.576 +0530	Log		59	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.684 +0530	Log		60	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.804 +0530	Log		61	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:09.901 +0530	Log		62	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.008 +0530	Log		63	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.143 +0530	Log		64	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.272 +0530	Log		65	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.406 +0530	Log		66	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.515 +0530	Log		67	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.647 +0530	Log		68	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.787 +0530	Log		69	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:10.918 +0530	Log		70	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.045 +0530	Log		71	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.172 +0530	Log		72	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.305 +0530	Log		73	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.439 +0530	Log		74	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.565 +0530	Log		75	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.703 +0530	Log		76	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.844 +0530	Log		77	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:11.981 +0530	Log		78	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.113 +0530	Log		79	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.212 +0530	Log		80	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.319 +0530	Log		81	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.428 +0530	Log		82	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.533 +0530	Log		83	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.644 +0530	Log		84	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.753 +0530	Log		85	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.871 +0530	Log		86	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:12.979 +0530	Log		87	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.078 +0530	Log		88	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.185 +0530	Log		89	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.319 +0530	Log		90	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.448 +0530	Log		91	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.584 +0530	Log		92	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.695 +0530	Log		93	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.839 +0530	Log		94	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:13.974 +0530	Log		95	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:14.104 +0530	Log		96	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:14.232 +0530	Log		97	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:14.361 +0530	Log		98	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:14.497 +0530	Log		99	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:14.628 +0530	Log		100	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:14.753 +0530	Log		101	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:14.895 +0530	Log		102	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.024 +0530	Log		103	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.159 +0530	Log		104	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.288 +0530	Log		105	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.395 +0530	Log		106	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.502 +0530	Log		107	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.610 +0530	Log		108	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.719 +0530	Log		109	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.837 +0530	Log		110	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:15.947 +0530	Log		111	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.058 +0530	Log		112	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.163 +0530	Log		113	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.262 +0530	Log		114	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.369 +0530	Log		115	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.500 +0530	Log		116	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.628 +0530	Log		117	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.773 +0530	Log		118	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.889 +0530	Log		119	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:16.996 +0530	Log		120	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.104 +0530	Log		121	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.211 +0530	Log		122	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.319 +0530	Log		123	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.427 +0530	Log		124	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.538 +0530	Log		125	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.647 +0530	Log		126	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.744 +0530	Log		127	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.862 +0530	Log		128	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:17.996 +0530	Log		129	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:18.129 +0530	Log		130	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:19.850 +0530	Log		131	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:19.969 +0530	Log		132	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.090 +0530	Log		133	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.199 +0530	Log		134	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.307 +0530	Log		135	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.422 +0530	Log		136	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.532 +0530	Log		137	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.644 +0530	Log		138	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.756 +0530	Log		139	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:20.868 +0530	Log		140	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.014 +0530	Log		141	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.146 +0530	Log		142	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.281 +0530	Log		143	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.413 +0530	Log		144	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.517 +0530	Log		145	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.627 +0530	Log		146	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.735 +0530	Log		147	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.851 +0530	Log		148	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:21.966 +0530	Log		149	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.077 +0530	Log		150	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.184 +0530	Log		151	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.295 +0530	Log		152	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.395 +0530	Log		153	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.502 +0530	Log		154	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.637 +0530	Log		155	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.782 +0530	Log		156	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:22.917 +0530	Log		157	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.034 +0530	Log		158	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.143 +0530	Log		159	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.250 +0530	Log		160	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.360 +0530	Log		161	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.469 +0530	Log		162	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.580 +0530	Log		163	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.690 +0530	Log		164	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.811 +0530	Log		165	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:23.930 +0530	Log		166	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.063 +0530	Log		167	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.196 +0530	Log		168	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.326 +0530	Log		169	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.451 +0530	Log		170	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.583 +0530	Log		171	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.716 +0530	Log		172	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.853 +0530	Log		173	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:24.985 +0530	Log		174	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.090 +0530	Log		175	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.204 +0530	Log		176	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.316 +0530	Log		177	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.428 +0530	Log		178	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.536 +0530	Log		179	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.647 +0530	Log		180	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.758 +0530	Log		181	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.881 +0530	Log		182	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:25.979 +0530	Log		183	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:26.091 +0530	Log		184	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:26.225 +0530	Log		185	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:26.356 +0530	Log		186	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:26.486 +0530	Log		187	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:26.598 +0530	Log		188	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:26.733 +0530	Log		189	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:26.871 +0530	Log		190	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.003 +0530	Log		191	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.130 +0530	Log		192	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.265 +0530	Log		193	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.399 +0530	Log		194	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.534 +0530	Log		195	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.663 +0530	Log		196	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.805 +0530	Log		197	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:27.939 +0530	Log		198	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.078 +0530	Log		199	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.216 +0530	Log		200	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.319 +0530	Log		201	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.432 +0530	Log		202	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.543 +0530	Log		203	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.655 +0530	Log		204	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.776 +0530	Log		205	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.884 +0530	Log		206	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:28.995 +0530	Log		207	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:29.109 +0530	Log		208	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:29.207 +0530	Log		209	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:29.319 +0530	Log		210	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:29.452 +0530	Log		211	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:29.663 +0530	Log		212	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:29.985 +0530	Log		213	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:30.288 +0530	Log		214	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:30.752 +0530	Log		215	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:30.888 +0530	Log		216	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.032 +0530	Log		217	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.167 +0530	Log		218	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.269 +0530	Log		219	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.379 +0530	Log		220	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.495 +0530	Log		221	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.611 +0530	Log		222	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.725 +0530	Log		223	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.845 +0530	Log		224	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:31.914 +0530	Log		Bedside	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.039 +0530	Log		225	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.111 +0530	Log		Catheterization lab	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.200 +0530	Log		226	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.272 +0530	Log		Emergency department	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.393 +0530	Log		227	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.463 +0530	Log		GI lab	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.585 +0530	Log		228	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.659 +0530	Log		Operating room	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.782 +0530	Log		229	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.860 +0530	Log		Radiology	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:32.993 +0530	Log		230	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.065 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.192 +0530	Log		231	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.272 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.415 +0530	Log		232	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.512 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.655 +0530	Log		233	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.758 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.896 +0530	Log		234	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:33.961 +0530	Log			36	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.089 +0530	Log		235	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.162 +0530	Log		Breast milk	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.292 +0530	Log		236	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.360 +0530	Log		Clear liquid	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.484 +0530	Log		237	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.556 +0530	Log		Full liquid (other than breast milk)	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.682 +0530	Log		238	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.754 +0530	Log		Solid food	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.884 +0530	Log		239	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:34.956 +0530	Log		Clear liquid	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.053 +0530	Log		240	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.125 +0530	Log		Full liquid (other than breast milk)	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.248 +0530	Log		241	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.320 +0530	Log		Solid food	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.444 +0530	Log		242	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.522 +0530	Log		Bloody	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.645 +0530	Log		243	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.720 +0530	Log		Clear	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.843 +0530	Log		244	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:35.921 +0530	Log		Formed	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.044 +0530	Log		245	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.128 +0530	Log		Liquid	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.269 +0530	Log		246	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.364 +0530	Log		Loose	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.505 +0530	Log		247	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.600 +0530	Log		Semi-Formed	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.738 +0530	Log		248	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.844 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:36.983 +0530	Log		249	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.078 +0530	Log		Enemas	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.219 +0530	Log		250	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.315 +0530	Log		Laxatives	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.438 +0530	Log		251	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.510 +0530	Log		Sodium phosphate oral prep	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.640 +0530	Log		252	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.713 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.848 +0530	Log		253	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:37.920 +0530	Log		Patient	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.043 +0530	Log		254	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.116 +0530	Log		Family	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.240 +0530	Log		255	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.312 +0530	Log		Not Reviewed	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.435 +0530	Log		256	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.515 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.658 +0530	Log		257	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.763 +0530	Log		Patient shave	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:38.904 +0530	Log		258	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.000 +0530	Log		Patient depilatory/clippers	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.142 +0530	Log		259	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.207 +0530	Log		Staff shave	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.333 +0530	Log		260	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.407 +0530	Log		Staff depilatory/clippers	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.529 +0530	Log		261	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.607 +0530	Log		Not removed prior to arrival in surgery	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.731 +0530	Log		262	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.814 +0530	Log		Unable to determine	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:39.938 +0530	Log		263	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.011 +0530	Log		Other:	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.139 +0530	Log		264	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.212 +0530	Log		N/A	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.301 +0530	Log		265	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.372 +0530	Log		Yes	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.499 +0530	Log		266	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.571 +0530	Log		No	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.699 +0530	Log		267	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.773 +0530	Log		Patient refused test - Physician Notified	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.911 +0530	Log		268	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:40.981 +0530	Log		N/A	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:41.107 +0530	Log		269	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:41.179 +0530	Log		N/A	36	on_read_dio	Read_dio.script
+2018-05-17 19:26:41.450 +0530	Log		1	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:41.561 +0530	Log		2	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:41.684 +0530	Log		3	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:41.801 +0530	Log		4	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:41.924 +0530	Log		5	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:42.037 +0530	Log		6	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:42.150 +0530	Log		7	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:42.262 +0530	Log		8	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:42.364 +0530	Log		9	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:42.469 +0530	Log		10	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:42.671 +0530	Log		11	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:42.862 +0530	Log		12	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.063 +0530	Log		13	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.183 +0530	Log		14	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.296 +0530	Log		15	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.421 +0530	Log		16	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.535 +0530	Log		17	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.648 +0530	Log		18	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.770 +0530	Log		19	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.884 +0530	Log		20	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:43.996 +0530	Log		21	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:44.116 +0530	Log		22	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:44.253 +0530	Log		23	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:44.389 +0530	Log		24	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:44.529 +0530	Log		25	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:44.662 +0530	Log		26	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:44.812 +0530	Log		27	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:44.948 +0530	Log		28	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.094 +0530	Log		29	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.227 +0530	Log		30	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.335 +0530	Log		31	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.456 +0530	Log		32	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.571 +0530	Log		33	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.685 +0530	Log		34	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.816 +0530	Log		35	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:45.958 +0530	Log		36	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:46.103 +0530	Log		37	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:46.252 +0530	Log		38	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:46.386 +0530	Log		39	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:46.509 +0530	Log		40	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:46.649 +0530	Log		41	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:46.793 +0530	Log		42	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:46.925 +0530	Log		43	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:47.041 +0530	Log		44	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:47.150 +0530	Log		45	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:47.261 +0530	Log		46	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:47.376 +0530	Log		47	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:47.527 +0530	Log		48	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:47.710 +0530	Log		49	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:47.909 +0530	Log		50	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:48.062 +0530	Log		51	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:48.182 +0530	Log		52	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:49.962 +0530	Log		53	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:50.261 +0530	Log		54	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:50.377 +0530	Log		55	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:50.492 +0530	Log		56	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:50.606 +0530	Log		57	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:50.731 +0530	Log		58	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:50.846 +0530	Log		59	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:50.958 +0530	Log		60	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.061 +0530	Log		61	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.176 +0530	Log		62	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.314 +0530	Log		63	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.452 +0530	Log		64	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.601 +0530	Log		65	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.720 +0530	Log		66	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.840 +0530	Log		67	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:51.958 +0530	Log		68	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.080 +0530	Log		69	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.225 +0530	Log		70	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.337 +0530	Log		71	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.461 +0530	Log		72	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.579 +0530	Log		73	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.698 +0530	Log		74	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.836 +0530	Log		75	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:52.976 +0530	Log		76	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.125 +0530	Log		77	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.265 +0530	Log		78	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.372 +0530	Log		79	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.487 +0530	Log		80	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.603 +0530	Log		81	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.718 +0530	Log		82	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.832 +0530	Log		83	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:53.954 +0530	Log		84	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.071 +0530	Log		85	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.186 +0530	Log		86	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.293 +0530	Log		87	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.406 +0530	Log		88	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.545 +0530	Log		89	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.685 +0530	Log		90	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.851 +0530	Log		91	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:54.967 +0530	Log		92	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.083 +0530	Log		93	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.201 +0530	Log		94	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.318 +0530	Log		95	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.432 +0530	Log		96	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.546 +0530	Log		97	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.661 +0530	Log		98	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.786 +0530	Log		99	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:55.902 +0530	Log		100	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:56.042 +0530	Log		101	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:56.182 +0530	Log		102	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:56.321 +0530	Log		103	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:56.457 +0530	Log		104	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:56.593 +0530	Log		105	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:56.732 +0530	Log		106	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:56.879 +0530	Log		107	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.017 +0530	Log		108	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.125 +0530	Log		109	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.242 +0530	Log		110	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.359 +0530	Log		111	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.475 +0530	Log		112	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.590 +0530	Log		113	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.704 +0530	Log		114	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.828 +0530	Log		115	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:57.942 +0530	Log		116	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.046 +0530	Log		117	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.162 +0530	Log		118	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.301 +0530	Log		119	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.444 +0530	Log		120	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.579 +0530	Log		121	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.693 +0530	Log		122	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.848 +0530	Log		123	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:58.981 +0530	Log		124	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:59.116 +0530	Log		125	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:59.250 +0530	Log		126	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:59.385 +0530	Log		127	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:59.529 +0530	Log		128	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:59.683 +0530	Log		129	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:59.852 +0530	Log		130	34	on_read_dio	Read_dio.script
+2018-05-17 19:26:59.966 +0530	Log		131	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.096 +0530	Log		132	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.213 +0530	Log		133	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.330 +0530	Log		134	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.442 +0530	Log		135	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.561 +0530	Log		136	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.677 +0530	Log		137	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.812 +0530	Log		138	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:00.926 +0530	Log		139	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:01.062 +0530	Log		140	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:01.214 +0530	Log		141	34	on_read_dio	Read_dio.script
+2018-05-17 19:27:01.899 +0530	EndTestCase		(Duration:"285.601", Errors:"1", Exceptions:"0", StartTime:"2018-05-17 19:22:16 +0530", Successes:"0", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-17 19:27:01.902 +0530	ABORTED		Execution Time 0:04:45 Read_dio.script

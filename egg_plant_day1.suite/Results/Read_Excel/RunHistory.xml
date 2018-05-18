@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Read_Excel">
+ <run>
+  <RunDate>2018-04-27 16:05:17.039 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.185000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180427_160517.039/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-07 17:42:47.521 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.029000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180507_174247.521/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in read_excel:
+Syntax Error at line 73: Syntax Error - can&#x27;t understand [matching quote not found] at or near character 1210</ErrorMessage>
+ </run>
+</runHistory>

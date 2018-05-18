@@ -1,0 +1,9 @@
+﻿2018-05-17 10:33:17.463 +0530	START		Running Read_dio.script
+2018-05-17 10:34:57.214 +0530	Log		21 sections are present and they are (General Periop,Periop Education,Interpreter Services,Preprocedure Checklist,Advance Directive,Allergy,Medication History,Problem History Hospital Stay,Procedure History with Medical Devices,Preoperative Social History With Social Habits,Family History,General Anesthesia Risk Assessments, , ,Screening Infectious Disease General,Anticipated Discharge Needs,Perioperative Protocols,Immunizations,Vital Signs,Valuables/Belongings Detail,Additional Health Information) their indexes are (1,182,215,224,271,299,300,301,309,325,330,331,369,371,376,911,1270,1326,1364,1446,1573)	21	on_read_dio	Read_dio.script
+2018-05-17 10:34:57.399 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-17 10:34:57.514 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-17 10:34:57.630 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-17 10:34:57.745 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-17 10:34:57.867 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-17 10:34:58.115 +0530	EndTestCase		(Duration:"100.636", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 10:33:17 +0530", Successes:"1", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-17 10:34:58.184 +0530	SUCCESS		Execution Time 0:01:41 Read_dio.script

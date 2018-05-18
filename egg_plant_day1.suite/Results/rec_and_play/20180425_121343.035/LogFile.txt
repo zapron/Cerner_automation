@@ -1,0 +1,6 @@
+﻿2018-04-25 12:13:43.235 +0530	START		Running rec_and_play.script
+2018-04-25 12:13:43.440 +0530	doubleclick	chrome_icon	at (58, 249)	8	on_rec_and_play	rec_and_play.script
+2018-04-25 12:13:44.352 +0530	doubleclick	image0001	at (50, 249)	9	on_rec_and_play	rec_and_play.script
+2018-04-25 12:14:00.402 +0530	Exception	image0002	No Image Found On Screen: "image0002"	10	on_rec_and_play	rec_and_play.script
+2018-04-25 12:14:00.471 +0530	EndTestCase		(Duration:"17.236", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 12:13:43 +0530", Successes:"0", TestCase:"rec_and_play.script", Warnings:"0")
+2018-04-25 12:14:00.471 +0530	ABORTED		Execution Time 0:00:17 rec_and_play.script

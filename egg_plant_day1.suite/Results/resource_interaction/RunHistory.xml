@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="resource_interaction">
+ <run>
+  <RunDate>2018-04-26 15:04:09.687 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.653000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180426_150409.687/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

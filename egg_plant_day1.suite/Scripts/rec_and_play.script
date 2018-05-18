@@ -1,0 +1,29 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2018-04-25 12:13:26
+  From session:  rec_and_play
+  Captured on:  2018-04-25 12:10:27
+  From server:  101718645
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Run AA028227.LaunchApplication
+
+
+
+
+
+
+
+
+
+
+
+DoubleClick "chrome_icon"
+TypeText "www"
+Click "image0003"
+TypeText Return
+Click (Image:"image0004", WaitFor:5.5)
+TypeText "one plus 6",Return
+Click (Image:"image0006", WaitFor:3.7)
+Click (Image:"NotifyMe_0001", WaitFor:2.9)
+Drag "image0005"
+Drop "image0007"

@@ -1,0 +1,6 @@
+﻿2018-05-14 19:29:37.563 +0530	START		Running launch_browser.script
+2018-05-14 19:29:37.860 +0530	typetext		[windowsAltKey][F4]	2	on_launch_browser	launch_browser.script
+2018-05-14 19:29:43.054 +0530	doubleclick	chrome_good_image	at (38, 333)	4	on_launch_browser	launch_browser.script
+2018-05-14 19:29:56.009 +0530	Exception	address_bar2	No Image Found On Screen: "address_bar2"	5	on_launch_browser	launch_browser.script
+2018-05-14 19:29:56.125 +0530	EndTestCase		(Duration:"18.546", Errors:"1", Exceptions:"1", StartTime:"2018-05-14 19:29:37 +0530", Successes:"0", TestCase:"launch_browser.script", Warnings:"0")
+2018-05-14 19:29:56.468 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "address_bar2" -- Execution Time 0:00:19 launch_browser.script

@@ -1,0 +1,4 @@
+﻿2018-04-26 10:38:00.133 +0530	START		Running egg_plant_day2.script
+2018-04-26 10:38:02.453 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	1	on_egg_plant_day2	egg_plant_day2.script
+2018-04-26 10:38:02.548 +0530	EndTestCase		(Duration:"2.4", Errors:"1", Exceptions:"1", StartTime:"2018-04-26 10:38:00 +0530", Successes:"0", TestCase:"egg_plant_day2.script", Warnings:"0")
+2018-04-26 10:38:02.548 +0530	ABORTED		Execution Time 0:00:02 egg_plant_day2.script

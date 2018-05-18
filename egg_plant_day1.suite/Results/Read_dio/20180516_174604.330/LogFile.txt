@@ -1,0 +1,9 @@
+﻿2018-05-16 17:46:04.330 +0530	START		Running Read_dio.script
+2018-05-16 17:47:03.920 +0530	Log		1 sections are present and they are (Ophth - Optical Rx (Soft Contacts)) their indexes are (1)	21	on_read_dio	Read_dio.script
+2018-05-16 17:47:04.301 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-16 17:47:04.405 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-16 17:47:04.476 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-16 17:47:04.594 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-16 17:47:04.659 +0530	Log			56	on_read_dio	Read_dio.script
+2018-05-16 17:47:04.796 +0530	EndTestCase		(Duration:"60.45", Errors:"0", Exceptions:"0", StartTime:"2018-05-16 17:46:04 +0530", Successes:"1", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-16 17:47:04.890 +0530	SUCCESS		Execution Time 0:01:00 Read_dio.script

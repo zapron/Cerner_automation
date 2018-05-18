@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="launch_browser">
+ <run>
+  <RunDate>2018-05-14 19:29:37.563 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.546000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180514_192937.563/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;address_bar2&quot;</ErrorMessage>
+ </run>
+</runHistory>

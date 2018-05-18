@@ -1,0 +1,27 @@
+﻿story.starting//calling commands
+story.middling
+story.ending
+
+story's starting
+story's middling
+story's ending
+
+log "story".something// calling a function
+
+
+story.thing//calling a to function
+
+log "story".showing("this is parameter passing")
+
+
+
+run params_ex "aaa","bbb","ccc"
+
+params_ex.logtext
+
+
+
+
+
+
+

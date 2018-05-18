@@ -1,0 +1,9 @@
+﻿2018-04-25 16:50:43.406 +0530	START		Running script_beg_1.script
+2018-04-25 16:50:43.784 +0530	rightclick	chrome_good_image	at (38, 238)	1	on_script_beg_1	script_beg_1.script
+2018-04-25 16:50:44.622 +0530	click	Open	at (90, 253)	2	on_script_beg_1	script_beg_1.script
+2018-04-25 16:50:44.622 +0530	Log		chrome launched	3	on_script_beg_1	script_beg_1.script
+2018-04-25 16:50:44.622 +0530	BeginTestCase		timer	4	on_script_beg_1	script_beg_1.script
+2018-04-25 16:51:08.138 +0530	Exception	address_bar2	No Image Found On Screen: "address_bar2"	5	on_script_beg_1	script_beg_1.script
+2018-04-25 16:51:08.279 +0530	EndTestCase		(Duration:"23.656", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 16:50:44 +0530", Successes:"0", TestCase:"timer", Warnings:"0")
+2018-04-25 16:51:08.279 +0530	EndTestCase		(Duration:"24.873", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 16:50:43 +0530", Successes:"0", TestCase:"script_beg_1.script", Warnings:"0")
+2018-04-25 16:51:08.468 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "address_bar2" -- Execution Time 0:00:25 script_beg_1.script

@@ -1,0 +1,41 @@
+{
+    commandList = "[{captureRect:[20, 829, 55, 855], command:@\"DoubleClick\", eventNum:2, hotSpot:[58, 249], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"chrome_icon\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0002.png\"}, {captureRect:[41, 822, 57, 848], command:@\"DoubleClick\", eventNum:6, hotSpot:[50, 249], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0006.png\"}, {captureRect:[6, 786, 72, 864], command:@\"DoubleClick\", eventNum:10, hotSpot:[56, 255], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0010.png\"}, {command:@\"TypeText\", eventNum:14, screenShotFile:@\"Screen0014.png\", text:@\"\\\"www\\\"\"}, {captureRect:[189, 1019, 259, 1049], command:@\"Click\", eventNum:20, hotSpot:[224, 46], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0020.png\"}, {command:@\"TypeText\", eventNum:22, screenShotFile:@\"Screen0022.png\", text:@\"Return\"}, {captureRect:[223, 976, 293, 1006], command:@\"Click\", eventNum:24, hotSpot:[258, 89], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0004\", searchType:@\"Tolerant\", waitFor:@\"5.5\"}, screenShotFile:@\"Screen0024.png\", waitFor:@\"5.5\"}, {command:@\"TypeText\", eventNum:26, screenShotFile:@\"Screen0026.png\", text:@\"\\\"one plus 6\\\",Return\"}, {captureRect:[294, 735, 364, 765], command:@\"Click\", eventNum:48, hotSpot:[329, 330], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0006\", searchType:@\"Tolerant\", waitFor:@\"3.7\"}, screenShotFile:@\"Screen0048.png\", waitFor:@\"3.7\"}, {captureRect:[915, 625, 988, 644], command:@\"Click\", eventNum:50, hotSpot:[937, 444], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"NotifyMe_0001\", searchType:@\"Smooth\", waitFor:@\"2.9\"}, OCRText:@\"Notify Me\", screenShotFile:@\"Screen0050.png\", useOCR:@\"NO\", waitFor:@\"2.9\"}, {captureRect:[1889, 1062, 1900, 1073], command:@\"Drag\", eventNum:52, hotSpot:[1895, 13], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0005\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0052.png\"}, {captureRect:[1851, 1053, 1919, 1080], command:@\"Drop\", eventNum:52, hotSpot:[1901, 13], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0007\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0053.png\"}]";
+    generatedCommands = (
+	"DoubleClick \"chrome_icon\"",
+	"DoubleClick \"image0001\"",
+	"DoubleClick \"image0002\"",
+	"TypeText \"www\"",
+	"Click \"image0003\"",
+	"TypeText Return",
+	"Click (Image:\"image0004\", WaitFor:5.5)",
+	"TypeText \"one plus 6\",Return",
+	"Click (Image:\"image0006\", WaitFor:3.7)",
+	"Click (Image:\"NotifyMe_0001\", WaitFor:2.9)",
+	"Drag \"image0005\"",
+	"Drop \"image0007\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "chrome_icon.png",
+	    "image0002.png",
+	    "image0001.png",
+	    "image0003.png",
+	    "image0004.png",
+	    "image0005.png",
+	    "chrome_icon.png",
+	    "image0001.png",
+	    "image0002.png",
+	    "image0003.png",
+	    "image0004.png",
+	    "image0006.png",
+	    "image0006.png",
+	    "NotifyMe_0001.png",
+	    "NotifyMe_0001.png",
+	    "image0005.png",
+	    "image0007.png",
+	    "image0007.png"
+	);
+    };
+    sessionType = turboSession;
+    unnamedImageCount = <*I0>;
+}

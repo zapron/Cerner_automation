@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Read_dio.script" package="egg_plant_day1.suite" timestamp="2018-05-17 19:04:15.019 +0530"
+ tests="1" successes="0" errors="1" time="39.161000">
+  <properties>
+   <property name="RunDate" value="2018-05-17 19:04:15.019 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Read_dio.script" assertions="1" successes="0" errors="1" time="39.147">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+﻿2018-05-17 20:40:52.918 +0530	START		Running dio_reader.script
+2018-05-17 20:40:54.177 +0530	Log		Verbal	38	on_dio_reader	dio_reader.script
+2018-05-17 20:40:54.216 +0530	Log		Yes	38	on_dio_reader	dio_reader.script
+2018-05-17 20:40:54.226 +0530	Log		Independent	38	on_dio_reader	dio_reader.script
+2018-05-17 20:40:54.233 +0530	Log		Independent	38	on_dio_reader	dio_reader.script
+2018-05-17 20:40:54.238 +0530	Log		Independent	38	on_dio_reader	dio_reader.script
+2018-05-17 20:40:54.665 +0530	EndTestCase		(Duration:"1.739", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:40:52 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:40:54.717 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

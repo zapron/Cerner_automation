@@ -1,0 +1,30 @@
+﻿put "Raktim" into fname
+set lname to "bhowmick"
+
+log fname,lname
+
+
+put 10 into hello
+
+Repeat until hello>30
+	add 1 to hello
+	log hello
+End repeat
+
+
+put ("amulya","akshay","sam","raktim","mustaq") into lame
+log lame
+
+put ("amulya","akshay","sam","raktim","mustaq") into lame
+insert "xyz" into lame
+put the number of items of lame into lamecount
+log lamecount
+
+
+
+Repeat with each item x of lame
+	log item 2 of  lame
+End repeat
+Repeat with x = 1 to lamecount
+	log x
+End repeat

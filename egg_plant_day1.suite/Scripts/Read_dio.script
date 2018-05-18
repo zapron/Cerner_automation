@@ -1,0 +1,119 @@
+﻿set excel to (type:"excel",file:ResourcePath("PowerForm - DIO - Preprocedure Checklist Comprehensive - Form Design.xlsx"))
+put the records of excel into excelreader
+//log excelreader //This will show all the things present as raw data within the excel file
+
+set count to 0//This is a random counter which is only being used fo recursive else part of a module
+set n to 1
+
+
+
+
+
+
+Repeat for each item in excelreader	//looping through each item that is column wise top-bottom
+	if it."Section Name" equals "" or it."Section Name" equals " "
+		set count to count+1//cells with no data need to be skipped hence the loop
+	else
+		insert it."Section Name" into Sections//cells with data are being pushed as a list in the variable(Sections in this case)
+		insert repeatIndex() into sec_index//storing the index point of each new section
+		log it."Section Name"
+		
+	end if
+End Repeat
+
+
+put number of items of sec_index into sec_count //storing the number of sections found in a variable.
+log !"[[sec_count]] sections are present and they are [[Sections]] their indexes are [[sec_index]]"//giving the number of sections and their names herese
+
+
+Repeat until b equals last of sec_index//Repeat Logic to find sections
+	set a to item n of sec_index
+	set b to item n+1 of sec_index
+	
+	Repeat for each item in excelreader
+		//log repeatindex()
+		if  repeatindex() equals a
+			(*log it."Alpha Responses"*)
+			if it."Alpha Responses" equals "" or it."Alpha Responses" equals ""
+				set b to b+1
+			else
+				log it."Alpha Responses"
+			end if
+			add 1 to a
+		end if
+		
+		if a equals b-1
+			exit Repeat
+		end if
+		
+	End Repeat
+	add 1 to n
+End Repeat	
+
+
+
+(*if it."Alpha Responses" equals "" or it."Alpha Responses" equals ""
+	set b to b+1
+else
+	log it."Alpha Responses"
+end if*)
+
+(*set var1 to 6
+set var2 to 6
+set i to 8
+set var8 to 5
+log([[var&i]])*)
+
+(*set a to 1
+Repeat while a<sec_count
+	set st to item a of sec_index
+	set fi to item a+1 of sec_index
+	
+	Repeat while st<fi
+		Repeat for each item  in excelreader
+			if it."Associated Label - Question Role" equals ""
+				set count to count +1
+				//log it."Associated Label - Question Role"
+			else
+				insert it."Associated Label - Question Role" into dtas
+				insert repeatindex() into dta_index
+				log it."Associated Label - Question Role"
+			end if
+			
+			add 1 to st
+		End Repeat
+	End Repeat
+	add 1 to a
+End Repeat*)
+
+
+
+
+
+
+put ("a","b","c","d","e","f") into temp
+
+set count to 1
+
+Repeat while count<the number of items of temp
+	log it.item
+	add 1 to count
+End Repeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

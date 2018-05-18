@@ -1,0 +1,5 @@
+﻿2018-04-25 11:44:43.633 +0530	START		Running egg_plant_day1.script
+2018-04-25 11:44:43.765 +0530	typetext		[windowsAltKey][F4]	4	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:44:46.521 +0530	doubleclick	chrome_good_image	at (38, 238)	5	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:45:38.875 +0530	EndTestCase		(Duration:"55.242", Errors:"1", Exceptions:"0", StartTime:"2018-04-25 11:44:43 +0530", Successes:"0", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 11:45:38.875 +0530	ABORTED		Execution Time 0:00:55 egg_plant_day1.script

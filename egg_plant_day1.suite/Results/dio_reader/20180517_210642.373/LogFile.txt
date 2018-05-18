@@ -1,0 +1,9 @@
+﻿2018-05-17 21:06:42.379 +0530	START		Running dio_reader.script
+2018-05-17 21:06:44.051 +0530	Log		Advance Directive Date	44	on_dio_reader	dio_reader.script
+2018-05-17 21:06:44.056 +0530	Log		Medical Durable Power of Attorney Name	44	on_dio_reader	dio_reader.script
+2018-05-17 21:06:44.063 +0530	Log		Medical Durable Power of Attorney Contact Information	44	on_dio_reader	dio_reader.script
+2018-05-17 21:06:44.066 +0530	Log		Surrogate Name	44	on_dio_reader	dio_reader.script
+2018-05-17 21:06:44.075 +0530	Log		Reason Copy Cannot Be Obtained	44	on_dio_reader	dio_reader.script
+2018-05-17 21:06:44.080 +0530	Log		Intent of Advance Directive	44	on_dio_reader	dio_reader.script
+2018-05-17 21:06:44.477 +0530	EndTestCase		(Duration:"2.09", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 21:06:42 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 21:06:44.532 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script

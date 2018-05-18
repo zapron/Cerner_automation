@@ -1,0 +1,4 @@
+﻿2018-04-27 16:05:17.039 +0530	START		Running Read_Excel.script
+2018-04-27 16:05:17.165 +0530	Log		((title1:"aaa", title2:"bbb", title3:"ccc"),(title1:"ddd", title2:"eee", title3:"fff"),(title1:"ggg", title2:"hhh", title3:"iii"))	19	on_read_excel	Read_Excel.script
+2018-04-27 16:05:17.224 +0530	EndTestCase		(Duration:"0.185", Errors:"0", Exceptions:"0", StartTime:"2018-04-27 16:05:17 +0530", Successes:"1", TestCase:"Read_Excel.script", Warnings:"0")
+2018-04-27 16:05:17.293 +0530	SUCCESS		Execution Time 0:00:00 Read_Excel.script

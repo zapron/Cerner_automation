@@ -1,0 +1,55 @@
+﻿2018-05-17 18:25:24.438 +0530	START		Running Read_dio.script
+2018-05-17 18:25:25.939 +0530	Log		Capillary Bld Glucose Point of Care	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:25.954 +0530	Log		Point of Care Testing	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:25.970 +0530	Log		Integumentary.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.008 +0530	Log		Mental Status Information.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.023 +0530	Log		CIWA-Ar	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.054 +0530	Log		Neurological Rehab/BH	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.086 +0530	Log		Pupils Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.107 +0530	Log		Seizure Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.139 +0530	Log		Suicide Risk Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.155 +0530	Log		Suicide Attempts	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.170 +0530	Log		Glasgow Coma Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.170 +0530	Log		Cranial Nerves Assessment.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.208 +0530	Log		Mechanical Ventilation Monitoring & Care	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.224 +0530	Log		CPAP/BiPAP Nursing	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.224 +0530	Log		Blood Gas/Oxygenation Results	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.239 +0530	Log		  	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.239 +0530	Log		Artificial Airway Management	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.301 +0530	Log		Respiratory.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.355 +0530	Log		Tracheostomy Capping 	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.355 +0530	Log		Breath Sounds Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.386 +0530	Log		Incentive Spirometry	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.386 +0530	Log		Chest Percussion	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.403 +0530	Log		Cardiovascular.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.408 +0530	Log		Pulses Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.471 +0530	Log		Neurovascular Check	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.524 +0530	Log		Edema Assessment.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.605 +0530	Log		Leg Measurements	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.608 +0530	Log		Gastrointestinal Rehab	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.639 +0530	Log		Incision/Wound Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.739 +0530	Log		Surgical Drains/Tubes Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.808 +0530	Log		Gastrointestinal Tubes Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.840 +0530	Log		GI Ostomy Data	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.871 +0530	Log		Enema Administration Information.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.871 +0530	Log		Genitourinary Rehab	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.932 +0530	Log		Bladder Scan Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.939 +0530	Log		Urinary Catheter Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.958 +0530	Log		Urostomy Data	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:26.989 +0530	Log		Neuromuscular/Extremities Assessment.	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.008 +0530	Log		Musculoskeletal Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.024 +0530	Log		Activities of Daily Living Rehab	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.087 +0530	Log		Bowel Management Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.109 +0530	Log		Bladder Management Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.124 +0530	Log		Pressure Management Information	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.140 +0530	Log		Braden Assessment	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.140 +0530	Log		Fall Risk Scale Morse	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.156 +0530	Log		Post Fall Evaluation	16	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.187 +0530	Log		46 sections are present and they are (Capillary Bld Glucose Point of Care,Point of Care Testing,Integumentary.,Mental Status Information.,CIWA-Ar,Neurological Rehab/BH,Pupils Assessment,Seizure Assessment,Suicide Risk Assessment,Suicide Attempts,Glasgow Coma Assessment,Cranial Nerves Assessment.,Mechanical Ventilation Monitoring & Care,CPAP/BiPAP Nursing,Blood Gas/Oxygenation Results,  ,Artificial Airway Management,Respiratory.,Tracheostomy Capping ,Breath Sounds Assessment,Incentive Spirometry,Chest Percussion,Cardiovascular.,Pulses Assessment,Neurovascular Check,Edema Assessment.,Leg Measurements,Gastrointestinal Rehab,Incision/Wound Information,Surgical Drains/Tubes Information,Gastrointestinal Tubes Information,GI Ostomy Data,Enema Administration Information.,Genitourinary Rehab,Bladder Scan Information,Urinary Catheter Information,Urostomy Data,Neuromuscular/Extremities Assessment.,Musculoskeletal Assessment,Activities of Daily Living Rehab,Bowel Management Information,Bladder Management Information,Pressure Management Information,Braden Assessment,Fall Risk Scale Morse,Post Fall Evaluation) their indexes are (1,16,114,221,354,436,554,602,736,835,853,879,980,1055,1082,1094,1100,1274,1504,1553,1636,1648,1668,1750,1993,2197,2523,2528,2724,3156,3389,3491,3600,3632,3842,3856,3934,4043,4112,4180,4461,4565,4605,4620,4644,4661)	23	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.224 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.267 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.287 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.309 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.324 +0530	Log			58	on_read_dio	Read_dio.script
+2018-05-17 18:25:27.825 +0530	EndTestCase		(Duration:"3.372", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 18:25:24 +0530", Successes:"1", TestCase:"Read_dio.script", Warnings:"0")
+2018-05-17 18:25:27.872 +0530	SUCCESS		Execution Time 0:00:03 Read_dio.script

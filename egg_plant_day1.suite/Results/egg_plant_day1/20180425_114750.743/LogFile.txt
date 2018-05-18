@@ -1,0 +1,6 @@
+﻿2018-04-25 11:47:50.764 +0530	START		Running egg_plant_day1.script
+2018-04-25 11:47:50.859 +0530	typetext		[windowsAltKey][F4]	4	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:47:53.061 +0530	doubleclick	chrome_good_image	at (38, 238)	6	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:49:42.448 +0530	Exception	address_bar2	No Image Found On Screen: "address_bar2"	8	on_egg_plant_day1	egg_plant_day1.script
+2018-04-25 11:49:42.516 +0530	EndTestCase		(Duration:"111.751", Errors:"1", Exceptions:"1", StartTime:"2018-04-25 11:47:50 +0530", Successes:"0", TestCase:"egg_plant_day1.script", Warnings:"0")
+2018-04-25 11:49:42.962 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "address_bar2" -- Execution Time 0:01:52 egg_plant_day1.script

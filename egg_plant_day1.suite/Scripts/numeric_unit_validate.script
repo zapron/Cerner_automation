@@ -1,0 +1,45 @@
+﻿To dta_find dta
+	if FoundImageLocation("dta_numeric_label.png")then
+		log "found"
+		
+	end if
+End dta_find
+
+set searchRectangle to ()
+
+put EveryImageLocation("box_left")into location
+wait 30
+
+log location
+
+Repeat for each item in location
+	log it 
+	set x to item 1 of it
+	set y to item 2 of it
+	
+	log x
+	log y
+	
+End Repeat
+
+
+put ImageRectangle("box_left_start") into s_box
+put ImageRectangle("blank_space")into f_box
+
+set start=left(s_box)
+set fin=right(f_box)
+
+
+//put EveryImageLocation("box_left_start.png")into start
+log start
+
+
+//put EveryImageLocation("2_space.png")into start
+log fin
+
+
+log ReadText(("box_left_start", "blank_space"))
+wait 10
+
+
+

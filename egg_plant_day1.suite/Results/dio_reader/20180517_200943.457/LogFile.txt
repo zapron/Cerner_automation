@@ -1,0 +1,54 @@
+﻿2018-05-17 20:09:43.465 +0530	START		Running dio_reader.script
+2018-05-17 20:09:44.176 +0530	Log		General Periop	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.242 +0530	Log		Periop Education	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.258 +0530	Log		Interpreter Services	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.265 +0530	Log		Preprocedure Checklist	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.294 +0530	Log		Advance Directive	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.308 +0530	Log		Allergy	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.312 +0530	Log		Medication History	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.316 +0530	Log		Problem History Hospital Stay	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.325 +0530	Log		Procedure History with Medical Devices	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.335 +0530	Log		Preoperative Social History With Social Habits	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.341 +0530	Log		Family History	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.345 +0530	Log		General Anesthesia Risk Assessments	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.367 +0530	Log		Screening Infectious Disease General	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.563 +0530	Log		Anticipated Discharge Needs	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.691 +0530	Log		Perioperative Protocols	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.713 +0530	Log		Immunizations	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.729 +0530	Log		Vital Signs	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.767 +0530	Log		Valuables/Belongings Detail	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.819 +0530	Log		Additional Health Information	14	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.856 +0530	Log		Yes	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.862 +0530	Log		No	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.866 +0530	Log		None evident	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.869 +0530	Log		Acuity of illness	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.873 +0530	Log		Cognitive deficits	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.877 +0530	Log		Cultural barrier	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.881 +0530	Log		Desire/Motivation	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.887 +0530	Log		Difficulty concentrating	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.892 +0530	Log		Emotional state	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.896 +0530	Log		Financial concerns	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.899 +0530	Log		Hearing deficit	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.903 +0530	Log		Language barrier	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.907 +0530	Log		Literacy	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.911 +0530	Log		Memory problems	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.914 +0530	Log		Vision impairment	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.919 +0530	Log		None	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.923 +0530	Log		Demonstration	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.927 +0530	Log		Printed materials	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.930 +0530	Log		Verbal explanation	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.934 +0530	Log		Video/Educational TV	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.938 +0530	Log		Anesthesia/Sedation	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.942 +0530	Log		Equipment	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.946 +0530	Log		Family instructions	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.949 +0530	Log		Medication instructions	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.953 +0530	Log		Pain management	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.957 +0530	Log		Plan of care	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.964 +0530	Log		Preprocedure diet	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.970 +0530	Log		Preprocedure tests/labs	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.977 +0530	Log		Respiratory care	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.981 +0530	Log		Tubes/Drains/IV's	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.986 +0530	Log		Turn/Cough/Deep breathing	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:44.991 +0530	Log		Other:	40	on_dio_reader	dio_reader.script
+2018-05-17 20:09:45.385 +0530	EndTestCase		(Duration:"1.913", Errors:"0", Exceptions:"0", StartTime:"2018-05-17 20:09:43 +0530", Successes:"1", TestCase:"dio_reader.script", Warnings:"0")
+2018-05-17 20:09:45.437 +0530	SUCCESS		Execution Time 0:00:02 dio_reader.script
